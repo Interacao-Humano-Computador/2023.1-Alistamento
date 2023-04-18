@@ -5,3 +5,21 @@ repo_url: "https://github.com/Interacao-Humano-Computador/2023.1-Alistamento/"
 
 nav:
   - Home: index.md
+
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: grey
+      toggle:
+        icon: material/brightness-7
+        name: Tema escuro
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: grey
+      toggle:
+        icon: material/brightness-4
+        name: Tema claro
