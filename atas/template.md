@@ -1,6 +1,7 @@
-# Ata de Reunião - dd/mm/2023
+# Ata da Reunião x
 
 ## Informações gerais
+- Data: dd/mm/aaaa
 - Horário de início: xxhxx
 - Horário de término: xxhxx
 - Local: Online - Plataforma Microsoft Teams
