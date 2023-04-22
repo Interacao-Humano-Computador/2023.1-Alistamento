@@ -25,7 +25,7 @@ A primeira reunião do semestre teve como propósito ambientar os membros dentro
 | Criar o template das atas de reunião | Bruno Martins |
 | Redigir a ata da reunião 1 | Bruno Martins |
 | Construção do cronograma (versão inicial) | Arthur Viana |
-| Iniciar a construção da gitpages | João Barreto, Arthur Augusto, Bruno Martins |
+| Iniciar a construção da gitpages | João Barreto, Arthur Augusto |
 
 
 ## Resoluções
