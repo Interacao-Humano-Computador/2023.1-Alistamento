@@ -1,7 +1,6 @@
 # Cronograma inicial
 
-O cronograma foi estruturado pelo Arthur de Melo Viana, contemplando e observando as datas previstas para as entregas de cada etapa assim como foram previstas no **plano de ensino** da disciplina de Interação Humano-Computador do semestre 2023.1. No entanto, vale ressaltar que o cronograma abaixo pode não estar **100% correto ou 100% completo**, em virtude de fatores diversos e empecilhos que poderão ocorrer ao longo desta jornada.
-Assim, cada tabela abaixo, em relação à sua respectiva entrega, apresenta a descrição da atividade, a data limite, os autores, data limite de revisão, e revisores (Tabelas 1 a 9).
+O cronograma foi estruturado pelo Arthur de Melo Viana, contemplando e observando as datas previstas para as entregas de cada etapa assim como foram previstas no **plano de ensino** da disciplina de Interação Humano-Computador do semestre 2023.1. Assim, cada tabela abaixo, em relação à sua respectiva entrega, apresenta a descrição da atividade, a data limite, os autores, data limite de revisão, e revisores (Tabelas 1 a 9).
 
 
 ### Entrega 01: Planejamento do Projeto - Data: 24/04

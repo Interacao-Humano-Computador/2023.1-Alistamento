@@ -9,7 +9,7 @@ Aqui se encontram as atividades desenvolvidas, cada uma com as suas respectivas 
 |---|---|---|---|---|
 | Escolha do site | 13/04 | **Todos** | 14/04 | **Todos** |
 | Ferramentas utilizadas | 22/04 | Bruno | 23/04 | João |
-| Criação da GitHub Page | 22/04 | Bruno e João | 23/04 | Bruno e João |
+| Criação da GitHub Page | 22/04 | Bruno e João | 23/04 | João |
 | Criação do Cronograma | 16/04 | Arthur de Melo | 17/04 | Bruno |
 | Processos de Design | ??/04 | Danilo e Arthur Augusto | ??/04 | Bruno e João |
 | Implementar Cronograma na GitPage | 22/04 | Bruno | 21/04 | João |
