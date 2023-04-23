@@ -9,10 +9,13 @@ nav:
       - Ata 2: atas/ata2.md
     - Planejamento:
       - Cronograma inicial: planejamento/cronograma.md
-    - Ferramentas: planejamento/ferramentas.md
-    - Metodologia: planejamento/metodologia.md
-    - Sites avaliados: planejamento/sites_avaliados.md
-    - Processo de design: planejamento/processo_design.md
+      - Ferramentas: planejamento/ferramentas.md
+      - Metodologia: planejamento/metodologia.md
+      - Sites avaliados: planejamento/sites_avaliados.md
+      - Processo de design: planejamento/processo_design.md
+      - Sites avaliados: planejamento/sites_avaliados.md
+      - Avaliação dos sites:
+        - Escola de Música: planejamento/avaliacoes/escola.md
 theme:
   name: readthedocs
   palette:
