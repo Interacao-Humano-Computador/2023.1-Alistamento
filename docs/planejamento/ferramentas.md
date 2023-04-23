@@ -12,7 +12,7 @@ Logo | Ferramenta | Finalidade |
 |![Github](../img/icones/excel.png) | Microsoft Excel | Utilizado para produzir o cronograma. |
 
 <div style="text-align: center">
-<p>Tabela 1: Ferramentas empregada no projeto (Fonte: autor, 2023). </p>
+<p>Tabela 1: Ferramentas empregadas no projeto (Fonte: autor, 2023). </p>
 </div>
 
 ## Bibliografia
