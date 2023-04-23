@@ -9,16 +9,16 @@ nav:
       - Ata 2: atas/ata2.md
     - Planejamento:
       - Cronograma inicial: planejamento/cronograma.md
+      - Cronograma realizado: planejamento/cronograma_real.md
       - Ferramentas: planejamento/ferramentas.md
       - Metodologia: planejamento/metodologia.md
-      - Sites avaliados: planejamento/sites_avaliados.md
-      - Processo de design: planejamento/processo_design.md
       - Sites avaliados: planejamento/sites_avaliados.md
       - Avaliação dos sites:
         - Escola de Música: planejamento/avaliacoes/escola.md
         - Alistamento Militar: planejamento/avaliacoes/alistamento.md
         - Shopee: planejamento/avaliacoes/shopee.md
         - Striker: planejamento/avaliacoes/striker.md
+      - Processo de design: planejamento/processo_design.md
 theme:
   name: readthedocs
   palette:
