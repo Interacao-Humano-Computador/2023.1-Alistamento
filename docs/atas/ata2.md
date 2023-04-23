@@ -1,4 +1,4 @@
-# Ata da Reunião x
+# Ata da Reunião 2
 
 ## Informações gerais
 - Data: 17/04/2023
@@ -33,5 +33,4 @@ Decidiu-se que, doravante, o Bruno Martins ficaria incumbido de redigir as atas 
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| x.x | dd/mm/2023 | bla bla bla | Fulano | Ciclano |
-| x.x | dd/mm/2023 | bla bla bla | Fulano | Ciclano |
+| 0.1 | 17/04/2023 | Início da GIT Page e das atas de reunião | Bruno, João e Artur | Todos |

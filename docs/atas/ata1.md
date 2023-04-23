@@ -37,5 +37,4 @@ Ficou decidido que as reuniões online acontecerão nas segundas às 10h30.
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| x.x | dd/mm/2023 | bla bla bla | Fulano | Ciclano |
-| x.x | dd/mm/2023 | bla bla bla | Fulano | Ciclano |
+| 0.0 | 08/04/2023 | Preparativos para o início do projeto | Todos | Todos |
