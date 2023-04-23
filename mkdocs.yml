@@ -20,7 +20,7 @@ nav:
         - Shopee: planejamento/avaliacoes/shopee.md
         - Striker: planejamento/avaliacoes/striker.md
 theme:
-  name: material
+  name: readthedocs
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
