@@ -11,7 +11,6 @@ O Alistamento Militar é um site governamental que tem por objetivo permitir que
 Este trabalho tem por objetivo analisar o site do Alistamento Militar Brasileiro para encontrar possíveis problemas na construção de sua interface e propor ideias que poderiam resolver tais problemas e melhorar a experiência dos usuários.
 
 ## Colaboradores
-<br>
 
 |Foto | Nome| GitHub| E-mail| 
 |:-----:|:-----:|:-----:|:-----:|
