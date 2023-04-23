@@ -16,6 +16,7 @@ nav:
       - Sites avaliados: planejamento/sites_avaliados.md
       - Avaliação dos sites:
         - Escola de Música: planejamento/avaliacoes/escola.md
+        - Alistamento Militar: planejamento/avaliacoes/alistamento.md
 theme:
   name: readthedocs
   palette:
