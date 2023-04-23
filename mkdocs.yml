@@ -20,7 +20,7 @@ nav:
         - Striker: planejamento/avaliacoes/striker.md
       - Processo de design: planejamento/processo_design.md
 theme:
-  name: material
+  name: readthedocs
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
