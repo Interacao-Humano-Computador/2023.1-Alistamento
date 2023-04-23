@@ -1,17 +1,20 @@
-site_name: 2023-1-Alistamento
-
-repo_name: "2023.1-Alistamento"
-repo_url: "https://github.com/Interacao-Humano-Computador/2023.1-Alistamento/"
-
+site_name: 2023.1-Alistamento
+site_url: https://interacao-humano-computador.github.io/2023.1-Alistamento/
+repo_name: 2023.1-Alistamento
+repo_url: https://github.com/Interacao-Humano-Computador/2023.1-Alistamento/
 nav:
-  - Home: index.md
-  - Atas de reunião: 
+    - Home: index.md
+    - Atas de Reunião:
       - Ata 1: atas/ata1.md
       - Ata 2: atas/ata2.md
-
-
+    - Planejamento:
+      - Cronograma inicial: planejamento/cronograma.md
+    - Ferramentas: planejamento/ferramentas.md
+    - Metodologia: planejamento/metodologia.md
+    - Sites avaliados: planejamento/sites_avaliados.md
+    - Processo de design: planejamento/processo_design.md
 theme:
-  name: material
+  name: readthedocs
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
