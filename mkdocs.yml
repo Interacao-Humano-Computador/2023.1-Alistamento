@@ -17,6 +17,8 @@ nav:
       - Avaliação dos sites:
         - Escola de Música: planejamento/avaliacoes/escola.md
         - Alistamento Militar: planejamento/avaliacoes/alistamento.md
+        - Shopee: planejamento/avaliacoes/shopee.md
+        - Striker: planejamento/avaliacoes/striker.md
 theme:
   name: readthedocs
   palette:
