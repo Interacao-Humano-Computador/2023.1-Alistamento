@@ -1,6 +1,3 @@
-# Welcome to MkDocs
-
-<<<<<<< HEAD
 ## O que é o site do Alistamento Militar Brasileiro?
 
 O Alistamento Militar é um site governamental que tem por objetivo permitir que os usuários tenham informações sobre como se alistar no Exército Brasileiro, entre elas estão:
