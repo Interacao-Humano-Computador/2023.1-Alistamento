@@ -19,6 +19,6 @@ Este trabalho tem por objetivo analisar o site do Alistamento Militar Brasileiro
 | <img width='100' src='https://avatars.githubusercontent.com/u/59586312?v=4'> | Arthur Augusto Rezende da Paixão | [arthur-augusto](https://github.com/arthur-augusto) | email@email.com |
 | <img width='100' src='https://avatars.githubusercontent.com/u/109696650?v=4'> | Arthur de Melo Viana | [arthurmlv](https://github.com/arthurmlv) | email@email.com |
 | <img width='100' src='https://avatars.githubusercontent.com/u/30751876?v=4'> | Bruno Martins Valério Bomfim | [gitbmvb](https://github.com/gitbmvb) | bruno.martval@gmail.com |
-| <img width='100' src='https://avatars.githubusercontent.com/u/89037034?v=4'> | Danilo Carvalho Antunes | [Danilo-Carvalho-Antunes](https://github.com/Danilo-Carvalho-Antunes) | email@email.com
+| <img width='100' src='https://avatars.githubusercontent.com/u/89037034?v=4'> | Danilo Carvalho Antunes | [Danilo-Carvalho-Antunes](https://github.com/Danilo-Carvalho-Antunes) | danilcarvalhoantunes@gmail.com
 | <img width='100' src='https://avatars.githubusercontent.com/u/88348513?v=4'> | Gabriel Marques de Souza | [GabrielMS00](https://github.com/GabrielMS00) | email@email.com |
 | <img width='100' src='https://avatars.githubusercontent.com/u/108282056?v=4'> | João Manoel Barreto Neto | [JoaoBarreto03 ](https://github.com/JoaoBarreto03 )| email@email.com |
