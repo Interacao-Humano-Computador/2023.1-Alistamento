@@ -1,15 +1,15 @@
 #Processo de Desing
-Design é um processo e possui três partes , estudar a situação atual , planejar e executar uma intervenção sobre o estado atual e por ultimo avalição do antes com o depois ..
+Design é um processo e possui três partes, estudar a situação atual, planejar e executar uma intervenção sobre o estado atual e por ultimo avalição do antes com o depois ..
 
-![Processo de Desing]([https://user-images.githubusercontent.com/89037034/234003541-7e0c998b-7409-4bc3-afca-d0a0a6e1d9b9.png](https://github.com/Interacao-Humano-Computador/2023.1-Alistamento/blob/main/docs/img/icones/Processo_Desing.png))
+![Processo de Desing](https://user-images.githubusercontent.com/89037034/234003541-7e0c998b-7409-4bc3-afca-d0a0a6e1d9b9.png)
 
 Uma resolução simples de um processo de design se trata em imaginar e pensar em um melhor solução diante um material já existente ou apenas tentar encontrar melhores ideias para as que ja forma pensadas como no processo de intervenção.
 
 ##Para o processo de design com a interação humano computador é necessário aprofundar um pouco mais de processos e conceitos.
 
-![Ciclo de vida simples]([https://user-images.githubusercontent.com/89037034/234003722-73d16a3d-1ecf-4423-aaf4-43d1b2c85fdc.png](https://github.com/Interacao-Humano-Computador/2023.1-Alistamento/blob/main/docs/img/icones/Ciclo_Simples.png))
+![Ciclo de vida simples](https://user-images.githubusercontent.com/89037034/234003722-73d16a3d-1ecf-4423-aaf4-43d1b2c85fdc.png)
 
-![Ciclo de vida em estrela]([https://user-images.githubusercontent.com/89037034/234003906-14c71af5-6600-4ecd-8227-b53caa81712d.png](https://github.com/Interacao-Humano-Computador/2023.1-Alistamento/blob/main/docs/img/icones/Ciclo_Estrela.png))
+![Ciclo de vida em estrela](https://user-images.githubusercontent.com/89037034/234003906-14c71af5-6600-4ecd-8227-b53caa81712d.png)
 
 - Engenharia de Usabilidade de Nielsen
     
@@ -26,7 +26,7 @@ Uma resolução simples de um processo de design se trata em imaginar e pensar e
     - Realize	testes	empíricos
     - Pratique	design	iterativo
     
-![Engenharia de Usabilidade de Mayhew]([https://user-images.githubusercontent.com/89037034/234004237-6bb94d37-fb31-4984-ae12-21fe52ca721a.png](https://github.com/Interacao-Humano-Computador/2023.1-Alistamento/blob/main/docs/img/icones/Engenharia_Mayhew.png))
+![Engenharia de Usabilidade de Mayhew](https://user-images.githubusercontent.com/89037034/234004237-6bb94d37-fb31-4984-ae12-21fe52ca721a.png)
 
 ### O Ciclo de vida escolhido
 

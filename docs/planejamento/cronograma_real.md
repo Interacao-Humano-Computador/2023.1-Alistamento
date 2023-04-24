@@ -11,10 +11,10 @@ Aqui se encontram as atividades desenvolvidas, cada uma com as suas respectivas 
 | Ferramentas utilizadas | 22/04 | Bruno | 23/04 | João |
 | Criação da GitHub Page | 22/04 | Bruno e João | 23/04 | João |
 | Criação do Cronograma | 16/04 | Arthur de Melo | 17/04 | Bruno |
-| Processos de Design | ??/04 | Danilo e Arthur Augusto | ??/04 | Bruno e João |
+| Processos de Design | 23/04 | Danilo e Arthur Augusto | 24/04 | Bruno, João e Arthur A. |
 | Implementar Cronograma na GitPage | 22/04 | Bruno | 21/04 | João |
 | Realização do Planejamento | 23/04 | Bruno e João | 23/04 | Bruno e João |
-| Gravar apresentação | 24/04 | Danilo | 24/04 | Bruno e João |
+| Gravar apresentação | 24/04 | Danilo | 24/04 | Gabriel |
 
 Tabela 1: Organização real da Entrega 1 (Fonte: autor, 2023).
 
