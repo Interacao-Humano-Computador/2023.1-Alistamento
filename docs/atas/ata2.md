@@ -22,6 +22,8 @@ Atualizar os membros sobre a atual situação do trabalho, verificar aquilo que 
 | Redigir a ata da reunião 2 | Bruno Martins |
 | Finalizar a construção da gitpages | João Barreto, Arthur Augusto, Bruno Martins |
 
+Tabela 1: Organização e distribuição das atividas semanais (Fonte: autor, 2023).
+
 
 ## Resoluções
 Decidiu-se que, doravante, o Bruno Martins ficaria incumbido de redigir as atas de reunião. A gitpages está parcialmente concluída, restando apenas alguns ajustes.
@@ -34,3 +36,5 @@ Decidiu-se que, doravante, o Bruno Martins ficaria incumbido de redigir as atas 
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
 | 0.2 | 17/04/2023 | Criação da GitPage | Augusto, Bruno e João | Danilo e João |
+
+Tabela 2: Histórico de versões do projeto (Fonte: autor, 2023).
