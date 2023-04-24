@@ -34,5 +34,7 @@ Uma branch deve ser criada para resolver um problema específico, e deve ser nom
 | ---- | -----  | ------ | ---------- | ----------|
 | 1.0 | 23/04/2023 | Descrição da Metodologia Completa | [Arthur de Melo](https://github.com/arthurmlv) | [João Barreto](https://github.com/JoaoBarreto03) |
 
+Tabela 1: Histórico das versões de metodologia (Fonte: autor, 2023).
+
 ## Referências
 >ALVES, Isaque, ROCHA, Carla. Qualifying Software Engineers Undergraduates in DevOps - Challenges of introducing technical and non-technical conceptss in a project-oriented course. **Arxiv**. [S. l.], v.1, 2021. Disponível em: <<https://arxiv.org/abs/2102.06662>>. Acesso em: 23/04/2023.
