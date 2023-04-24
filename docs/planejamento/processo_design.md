@@ -1,15 +1,15 @@
 #Processo de Desing
-Desing é um processo e possui tres partes , estudar a situacao atual , planejar e executar uma intervencao sobre o estado atual e por ultimo avalicao do antes com o depois .
+Design é um processo e possui três partes , estudar a situação atual , planejar e executar uma intervenção sobre o estado atual e por ultimo avalição do antes com o depois ..
 
-<img src "![image](https://user-images.githubusercontent.com/89037034/234003541-7e0c998b-7409-4bc3-afca-d0a0a6e1d9b9.png)" width = "100" height ="100">
+![Processo de Desing]([https://user-images.githubusercontent.com/89037034/234003541-7e0c998b-7409-4bc3-afca-d0a0a6e1d9b9.png](https://github.com/Interacao-Humano-Computador/2023.1-Alistamento/blob/main/docs/img/icones/Processo_Desing.png))
 
-Uma resolucao simples de um processo de desing se trata em imaginar e pensar em um melhor solucao diante um material ja existente ou apenas tentar encontrar melhores ideias para as que ja forma pensadas como no processo de intervencao.
+Uma resolução simples de um processo de design se trata em imaginar e pensar em um melhor solução diante um material já existente ou apenas tentar encontrar melhores ideias para as que ja forma pensadas como no processo de intervenção.
 
-##Para o processo de desing com a interacao humano computador é necessario aprofundar um pouco mais de processos e conceitos .
+##Para o processo de design com a interação humano computador é necessário aprofundar um pouco mais de processos e conceitos.
 
-<img src ="![image](https://user-images.githubusercontent.com/89037034/234003722-73d16a3d-1ecf-4423-aaf4-43d1b2c85fdc.png)" width ="300" height="300">
+![Ciclo de vida simples]([https://user-images.githubusercontent.com/89037034/234003722-73d16a3d-1ecf-4423-aaf4-43d1b2c85fdc.png](https://github.com/Interacao-Humano-Computador/2023.1-Alistamento/blob/main/docs/img/icones/Ciclo_Simples.png))
 
-<img src ="![image](https://user-images.githubusercontent.com/89037034/234003906-14c71af5-6600-4ecd-8227-b53caa81712d.png)" width = "300" height ="300">
+![Ciclo de vida em estrela]([https://user-images.githubusercontent.com/89037034/234003906-14c71af5-6600-4ecd-8227-b53caa81712d.png](https://github.com/Interacao-Humano-Computador/2023.1-Alistamento/blob/main/docs/img/icones/Ciclo_Estrela.png))
 
 - Engenharia de Usabilidade de Nielsen
     
@@ -26,7 +26,7 @@ Uma resolucao simples de um processo de desing se trata em imaginar e pensar em 
     - Realize	testes	empíricos
     - Pratique	design	iterativo
     
-<img src = "![image](https://user-images.githubusercontent.com/89037034/234004237-6bb94d37-fb31-4984-ae12-21fe52ca721a.png)" width = "500" height = "500" >
+![Engenharia de Usabilidade de Mayhew]([https://user-images.githubusercontent.com/89037034/234004237-6bb94d37-fb31-4984-ae12-21fe52ca721a.png](https://github.com/Interacao-Humano-Computador/2023.1-Alistamento/blob/main/docs/img/icones/Engenharia_Mayhew.png))
 
 ### O Ciclo de vida escolhido
 
