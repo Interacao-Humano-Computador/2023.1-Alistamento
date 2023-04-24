@@ -27,6 +27,8 @@ A primeira reunião do semestre teve como propósito ambientar os membros dentro
 | Construção do cronograma (versão inicial) | Arthur Viana |
 | Iniciar a construção da gitpages | João Barreto, Arthur Augusto |
 
+Tabela 1: Organização e distribuição das entregas iniciais (Fonte: autor, 2023).
+
 
 ## Resoluções
 Ficou decidido que as reuniões online acontecerão nas segundas às 10h30.
@@ -34,7 +36,10 @@ Ficou decidido que as reuniões online acontecerão nas segundas às 10h30.
 ## Gravação da reunião
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_38EUzZb_xQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
 | 0.1 | 08/04/2023 | Escolha do site | **todos** | **todos** |
+
+Tabela 2: Histórico de versão do projeto (Fonte: autor, 2023).
