@@ -7,9 +7,11 @@ Logo | Ferramenta | Finalidade |
 |---|---|---|
 |![Github](../img/icones/github.png) | Github | Armazenamento do repositório, código e documentações associadas. |
 |![Github](../img/icones/teams.png) | Microsoft Teams | Realização das reuniões semanais. |
+|![Github](../img/icones/excel.png) | Microsoft Excel | Utilizado para produzir o cronograma. |
+|![Github](../img/icones/mkdocs.png) | Mkdocs | Framework utilizado para construir este site. |
+|![Github](../img/icones/telegram.png) | Telegram | Manter a comunicação com o professor e o restante da turma. |
 |![Github](../img/icones/vscode.png) | VSCode | Editor de texto/código através do qual foi construída a gitpages e as documentações. |
 |![Github](../img/icones/youtube.png) | Youtube | Local de armazenamento das gravações das reuniões. |
-|![Github](../img/icones/excel.png) | Microsoft Excel | Utilizado para produzir o cronograma. |
 
 <div style="text-align: center">
 <p>Tabela 1: Ferramentas empregadas no projeto (Fonte: autor, 2023). </p>
