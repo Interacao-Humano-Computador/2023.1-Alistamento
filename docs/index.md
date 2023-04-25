@@ -1,6 +1,6 @@
 ## O que é o site do Alistamento Militar Brasileiro?
 
-O Alistamento Militar é um site governamental que tem por objetivo permitir que os usuários tenham informações sobre como se alistar no Exército Brasileiro, entre elas estão:
+O [Alistamento Militar](https://alistamento.eb.mil.br/) é um site governamental que tem por objetivo permitir que os usuários tenham informações sobre como se alistar no Exército Brasileiro, entre elas estão:
 
 - Orientações de alistamento;
 - Acompanhamento de solicitação;
