@@ -10,6 +10,7 @@
 Fazer os últimos retoques na github pages (images, legendas, tabelas, erros de digitação) e gravar o vídeo da Entrega 1.
 
 ## Participantes
+
 - Arthur Augusto Rezende da Paixão
 - Bruno Martins Valério Bomfim
 - Danilo Carvalho Antunes
@@ -28,6 +29,7 @@ Tabela 1: Organização e distribuição das atividas semanais (Fonte: autor, 20
 
 ## Resoluções
 Decidiu-se, em conjunto, em cada integrante falaria sobre os seguintes temas:
+
 - Home: Gabriel
 - Atas de reunião: Arthur Augusto
 - Cronogramas e Ferramentas: Bruno
