@@ -21,18 +21,18 @@ nav:
         - Striker: planejamento/avaliacoes/striker.md
       - Processo de design: planejamento/processo_design.md
 theme:
-  name: readthedocs
+  name: material
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: cyan
+      primary: teal
       toggle:
         icon: material/brightness-7
         name: Tema claro
 
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: teal
+      primary: lime
       toggle:
         icon: material/brightness-4
         name: Tema escuro
