@@ -23,10 +23,10 @@ Tabela 1: Organização da Entrega 1 (Fonte: autor, 2023).
 
 | Atividade | Entrega | Autores | Revisão | Revisores |
 |---|---|---|---|---|
-| Personas | 27/04 | Gabriel | 28/04 | Bruno |
-| Perfil do Usuário | 28/04 | Arthur Augusto e Danilo | 29/04 | Gabriel |
-| Aspectos éticos de pesquisa | 30/04 | João e Gabriel | 01/05 | Arthur Augusto |
-| Análise de tarefas do usuário | 28/04 | Bruno e Danilo | 29/04 | João |
+| Aspectos éticos de pesquisa: | 03/05 | João e Gabriel | 04/05 | Arthur Augusto |
+| Perfil do Usuário | 04/05 | Arthur Augusto e Danilo | 05/05 | Gabriel |
+| Personas | 06/05 | Gabriel | 06/05 | Bruno |
+| Análise de tarefas do usuário: Realizar os caminhos que o usuário faria no site | 07/05 | Bruno e Danilo | 07/05 | João |
 | Gravar apresentação | 07/05 | João | 08/05 | Danilo |
 
 Tabela 2: Organização da Entrega 2 (Fonte: autor, 2023).
