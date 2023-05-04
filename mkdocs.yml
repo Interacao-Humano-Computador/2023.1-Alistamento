@@ -20,6 +20,8 @@ nav:
         - Shopee: planejamento/avaliacoes/shopee.md
         - Striker: planejamento/avaliacoes/striker.md
       - Processo de design: planejamento/processo_design.md
+    - Análise de Requisitos:
+      - Aspectos Éticos: planejamento/aspectos_eticos.md
 theme:
   name: material
   palette:
