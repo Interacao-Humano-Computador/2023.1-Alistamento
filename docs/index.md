@@ -36,5 +36,5 @@ As principais motivações apresentadas para a escolha do site do Alistamento Mi
 
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 0.1 | 08/04/2023 | Escolha do site | **todos** | **todos** |
+| 0.1 | 20/04/2023 | Escolha do site | **todos** | **todos** |
 | 0.2 | 17/04/2023 | Criação da GitPage | Augusto, Bruno e João | Danilo e João |
