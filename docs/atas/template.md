@@ -5,8 +5,8 @@
 - Horário de início: xxhxx
 - Horário de término: xxhxx
 - Local: Online - Plataforma Microsoft Teams
-- Autor: fulano
-- Revisor: ciclano
+- **Autor (es)**: 
+- **Revisor (es)**: 
 
 ## Objetivos
 bla bla bla bla
@@ -24,7 +24,7 @@ bla bla bla bla
 | bla bla bla bla | Fulano
 | ble ble ble ble | Ciclano
 
-
+Tabela 1: Organização e distribuição das atividas semanais (Fonte: autor, 2023).
 
 ## Gravação da reunião
 <iframe></iframe>

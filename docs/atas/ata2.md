@@ -5,18 +5,22 @@
 - Horário de início: 10h41
 - Horário de término: 10h53
 - Local: Online - Plataforma Microsoft Teams
+- **Autor (es)**: Bruno Martins
+- **Revisor (es)**: João Barreto e Danilo Carvalho
 
 ## Objetivos
 Atualizar os membros sobre a atual situação do trabalho, verificar aquilo que obteve êxito e aquilo que necessita aprimoramento.
 
-## Participantes
+## Presentes
 - Arthur Augusto Rezende da Paixão
 - Bruno Martins Valério Bomfim
 - Danilo Carvalho Antunes
 - João Manoel Barreto Neto
 
-## Tarefas
+## Resoluções
+Decidiu-se que o Bruno Martins ficaria incumbido de redigir as atas de reunião. A gitpages está parcialmente concluída, restando apenas alguns ajustes.
 
+## Tarefas
 | Tarefa | Responsáveis |
 | ---- | ---- |
 | Redigir a ata da reunião 2 | Bruno Martins |
@@ -24,17 +28,11 @@ Atualizar os membros sobre a atual situação do trabalho, verificar aquilo que 
 
 Tabela 1: Organização e distribuição das atividas semanais (Fonte: autor, 2023).
 
-
-## Resoluções
-Decidiu-se que, doravante, o Bruno Martins ficaria incumbido de redigir as atas de reunião. A gitpages está parcialmente concluída, restando apenas alguns ajustes.
-
-
 ## Gravação da reunião
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6CylPWNjVF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Histórico de versão
-| Versão | Data | Descrição | Autor | Revisor |
-| :----: | :--: | :-------: | :---: | :-----: |
-| 0.2 | 17/04/2023 | Criação da GitPage | Augusto, Bruno e João | Danilo e João |
-
-Tabela 2: Histórico de versões do projeto (Fonte: autor, 2023).
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| --- | --- | --- | --- | --- |
+|  `1.0`   | 22/04/2023 | Criação da ata 2 | [Bruno Martins](https://github.com/gitbmvb) | [João Barreto](https://github.com/JoaoBarreto03) |
+|  `1.1`   | 05/05/2023 | Adição de atores e revisores à ata | [Bruno Martins](https://github.com/gitbmvb) | [João Barreto](https://github.com/JoaoBarreto03) e [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
