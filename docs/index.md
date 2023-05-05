@@ -42,7 +42,6 @@ Tabela 1: Participantes do grupo (Fonte: autor, 2023).
 </div>
 
 ## Histórico de versão
-
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 |  `1.0`   | 21/04/23 | Criação da primeira versão | [João Barreto](https://github.com/JoaoBarreto03) | [Bruno Martins](https://github.com/gitbmvb) |
