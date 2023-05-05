@@ -5,8 +5,8 @@
 - Horário de início: 10h30
 - Horário de término: 12h00
 - Local: Online - Plataforma Microsoft Teams
-- **Autor (es)**: Bruno Martins
-- **Revisor (es)**: João Barreto e Danilo Carvalho
+- **Autor(es)**: Bruno Martins
+- **Revisor(es)**: João Barreto e Danilo Carvalho
 
 ## Objetivos
 Antes da gravação, foram feitos os últimos retoques na github pages (images, legendas, tabelas, erros de digitação), e então gravado o vídeo da Entrega 1 (disponibilizado abaixo).
@@ -20,6 +20,7 @@ Antes da gravação, foram feitos os últimos retoques na github pages (images, 
 
 ## Resoluções
 Decidiu-se, em conjunto, que cada integrante falaria sobre os seguintes temas:
+
 - Home: Gabriel
 - Atas de reunião: Arthur Augusto
 - Cronogramas e Ferramentas: Bruno

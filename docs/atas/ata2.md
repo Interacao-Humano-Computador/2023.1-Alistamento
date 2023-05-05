@@ -5,8 +5,8 @@
 - Horário de início: 10h41
 - Horário de término: 10h53
 - Local: Online - Plataforma Microsoft Teams
-- **Autor**: Bruno Martins
-- **Revisor**: João Barreto e Danilo Carvalho
+- **Autor(es)**: Bruno Martins
+- **Revisor(es)**: João Barreto e Danilo Carvalho
 
 ## Objetivos
 Atualizar os membros sobre a atual situação do trabalho, verificar aquilo que obteve êxito e aquilo que necessita aprimoramento.

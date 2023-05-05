@@ -5,8 +5,8 @@
 - Horário de início: 10h47
 - Horário de término: 11h00
 - Local: Online - Plataforma Microsoft Teams
-- **Autor (es)**: Bruno Martins
-- **Revisor (es)**: João Barreto e Danilo Carvalho
+- **Autor(es)**: Bruno Martins
+- **Revisor(es)**: João Barreto e Danilo Carvalho
 
 ## Objetivos
 Aprimorar detalhes da gitpages para solucionar os problemas apontados pelo professor e pelo monitor durante a apresentação da Entrega 1. Além disso, procuramos alinhar os membros presentes sobre os artefatos necessários para entrega 2.
@@ -18,7 +18,7 @@ Aprimorar detalhes da gitpages para solucionar os problemas apontados pelo profe
 - João Manoel Barreto Neto
 
 ## Resoluções
-o Bruno Martins criou as issues na github com as tarefas que cada um deveria realizar, tanto das melhorias da Entrega 1 como dos artefatos da entrega 2. Os membros presentes ficaram satisfeitos com as tarefas que lhes foram incumbidas.
+O Bruno Martins criou as issues no github com as tarefas que cada um deveria realizar, tanto das melhorias da Entrega 1 como dos artefatos da entrega 2. Os membros presentes ficaram satisfeitos com as tarefas que lhes foram incumbidas.
 
 ## Tarefas
 | Tarefa | Responsáveis |
