@@ -5,8 +5,8 @@
 - Horário de início: 10h41
 - Horário de término: 10h53
 - Local: Online - Plataforma Microsoft Teams
-- **Autor (es)**: Bruno Martins
-- **Revisor (es)**: João Barreto e Danilo Carvalho
+- **Autor**: Bruno Martins
+- **Revisor**: João Barreto e Danilo Carvalho
 
 ## Objetivos
 Atualizar os membros sobre a atual situação do trabalho, verificar aquilo que obteve êxito e aquilo que necessita aprimoramento.
@@ -18,7 +18,7 @@ Atualizar os membros sobre a atual situação do trabalho, verificar aquilo que 
 - João Manoel Barreto Neto
 
 ## Resoluções
-Decidiu-se que o Bruno Martins ficaria incumbido de redigir as atas de reunião. A gitpages está parcialmente concluída, restando apenas alguns ajustes.
+Decidiram que o Bruno Martins ficaria incumbido de redigir as atas de reunião. A gitpages está parcialmente concluída, restando apenas alguns ajustes.
 
 ## Tarefas
 | Tarefa | Responsáveis |
