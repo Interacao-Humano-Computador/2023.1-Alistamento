@@ -42,4 +42,4 @@ Tabela 1: Organização e distribuição das atividas semanais (Fonte: autor, 20
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 |  `1.0`   | 24/04/2023 | Criação da ata 3 | [Bruno Martins](https://github.com/gitbmvb) | [João Barreto](https://github.com/JoaoBarreto03) |
-|  `1.1`   | 05/05/2023 | Adição de atores e revisores à ata | [Bruno Martins](https://github.com/gitbmvb) | [João Barreto](https://github.com/JoaoBarreto03) e [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
+|  `1.1`   | 05/05/2023 | Adição de autores e revisores à ata | [Bruno Martins](https://github.com/gitbmvb) | [João Barreto](https://github.com/JoaoBarreto03) e [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
