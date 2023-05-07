@@ -23,6 +23,7 @@ nav:
       - Processo de design: planejamento/processo_design.md
     - Análise de Requisitos:
       - Aspectos Éticos: analise_requisitos/aspectos_eticos.md
+      - Análise de Tarefas: analise_requisitos/analise_tarefas.md
 theme:
   name: material
   palette:
