@@ -5,8 +5,8 @@
 - Horário de início: 16h10
 - Horário de término: 16h25
 - Local: Online - Plataforma Microsoft Teams
-- **Autor (es)**: Bruno Martins
-- **Revisor (es)**: João Barreto e Danilo Carvalho
+- **Autor(es)**: Bruno Martins
+- **Revisor(es)**: João Barreto e Danilo Carvalho
 
 ## Objetivos
 A primeira reunião do semestre teve como propósito ambientar os membros dentro do grupo, planejando um dia fixo para as reuniões, atividades, deveres, compromissos, e tarefas que cada um deveria fazer. Além disso, começou-se uma discussão sobre o possível site para o trabalho em grupo, além de arrazoar sobre os sites dos trabalhos individuais.
@@ -40,4 +40,4 @@ Tabela 1: Organização e distribuição das entregas iniciais (Fonte: autor, 20
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 |  `1.0`   | 22/04/2023 | Criação da ata 1 | [Bruno Martins](https://github.com/gitbmvb) | [João Barreto](https://github.com/JoaoBarreto03) |
-|  `1.1`   | 05/05/2023 | Adição de atores e revisores à ata | [Bruno Martins](https://github.com/gitbmvb) | [João Barreto](https://github.com/JoaoBarreto03) e [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
+|  `1.1`   | 05/05/2023 | Adição de autores e revisores à ata | [Bruno Martins](https://github.com/gitbmvb) | [João Barreto](https://github.com/JoaoBarreto03) e [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |

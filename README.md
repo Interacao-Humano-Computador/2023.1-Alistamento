@@ -2,7 +2,7 @@
 Repositório destinado ao desenvolvimento do projeto da disciplina de Interação Humano-Computador, com o prof. André Barros de Sales, na Universidade de Brasília/FGA no semestre 2023.1.  
 
 ## Objetivo
-O [Alistamento Militar](https://alistamento.eb.mil.br/) (Figura 1.1) é um site governamental que tem por objetivo permitir que os usuários obtenham informações sobre o processo de alistamento no Exército Brasileiro, tais como:
+O [Alistamento Militar](https://alistamento.eb.mil.br/) é um site governamental que tem por objetivo permitir que os usuários obtenham informações sobre o processo de alistamento no Exército Brasileiro, tais como:
 
 - Orientações de alistamento;
 - Acompanhamento de solicitação;
