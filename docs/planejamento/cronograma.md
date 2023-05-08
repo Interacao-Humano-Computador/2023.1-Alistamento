@@ -8,12 +8,12 @@ O cronograma foi estruturado pelo Arthur de Melo Viana, contemplando e observand
 | Atividade | Entrega | Autores | Revisão | Revisores |
 |---|---|---|---|---|
 | Escolha do site | 13/04 | **Todos** | 14/04 | Bruno e Gabriel |
-| Ferramentas utilizadas | 18/04 | Bruno e Gabriel | 19/04 | Arthur Augusto |
-| Criação da GitHub Page | 18/04 | Danilo e João | 19/04 | **Todos** |
-| Criação do Cronograma | 16/04 | Arthur de Melo | 17/04 | Danilo |
-| Processos de Design | 19/04 | Danilo e Arthur Augusto | 20/04 | João |
+| Listar ferramentas utilizadas | 18/04 | Bruno e Gabriel | 19/04 | Arthur Augusto |
+| Criação da estrutura da GitHub Page | 18/04 | Danilo e João | 19/04 | **Todos** |
+| Criação do Cronograma completo | 16/04 | Arthur de Melo | 17/04 | Danilo |
+| Processos de Design: Conceito e ciclo de vida escolhido | 19/04 | Danilo e Arthur Augusto | 20/04 | João |
 | Implementar Cronograma na GitPage | 20/04 | Bruno | 21/04 | Bruno |
-| Realização do Planejamento | 20/04 | **Todos** | 21/04 | Arthur Augusto e João |
+| Realização do Planejamento: Criação das Issues | 20/04 | **Todos** | 21/04 | Arthur Augusto e João |
 | Gravar apresentação | 22/04 | João | 23/04 | Danilo |
 
 Tabela 1: Organização da Entrega 1 (Fonte: autor, 2023).
@@ -23,7 +23,7 @@ Tabela 1: Organização da Entrega 1 (Fonte: autor, 2023).
 
 | Atividade | Entrega | Autores | Revisão | Revisores |
 |---|---|---|---|---|
-| Aspectos éticos de pesquisa: | 03/05 | João e Gabriel | 04/05 | Arthur Augusto |
+| Aspectos éticos de pesquisa: Introdução e apresentação dos princípios éticos| 03/05 | João e Gabriel | 04/05 | Arthur Augusto |
 | Perfil do Usuário | 04/05 | Arthur Augusto e Danilo | 05/05 | Gabriel |
 | Personas | 06/05 | Gabriel | 06/05 | Bruno |
 | Análise de tarefas do usuário: Realizar os caminhos que o usuário faria no site | 07/05 | Bruno e Danilo | 07/05 | João |
