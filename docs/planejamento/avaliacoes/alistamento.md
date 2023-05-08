@@ -1,8 +1,10 @@
+**Arthur de Melo Viana, 211029147**
 
-Aluno: ARTHUR DE MELO VIANA – 211029147
+Disciplina de Interação Humano-Computador, 2023.1
 
-Matéria: Interação Humano Computador – Turma A
+Prof. André Barros de Sales
 
+---
 # Planejamento da Avaliação de IHC – Alistamento Militar Online
 
 Essa avaliação de IHC tem como objetivo verificar se o _site_ do Exército Brasileiro para a realização do Alistamento Militar Online conseguiu atender às mais diversas camadas sociais. Dado que todos os jovens que completam 18 anos em um determinado ano devem realizar sua inscrição nos primeiros seis meses daquele ano.
@@ -85,3 +87,9 @@ Para todo erro que o usuário cometer, o sistema deve dar um feedback com mensag
 ### 10. Ajuda e documentação
 
 Nesse tópico, analisa-se os recursos de ajuda ao usuário. Para tal, verificou-se que o sistema não apresenta um serviço de atendimento online para ajudar o usuário, mas disponibiliza uma página de Perguntas Frequentes, com diversas respostas às mais variadas perguntas. Tal seção é dividida em três tópicos, cada um deles com várias perguntas e suas respectivas respostas para os mais diferentes casos. As perguntas são diretas e simples de entender e as respostas são diretas, sem termos complicados e com poucas palavras.
+
+## Histórico de versão
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| --- | --- | --- | --- | --- |
+|  `1.0`   | 18/04/2023 | Criação inicial do documento | [Arthur de Melo](https://github.com/arthurmlv) | N/A |
+|  `1.1`   | 23/04/2023 | Upload do documento para a gitpages | [Bruno Martins](https://github.com/gitbmvb) | [João Barreto](https://github.com/JoaoBarreto03) |

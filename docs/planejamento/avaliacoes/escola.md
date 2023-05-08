@@ -1,11 +1,10 @@
-Bruno Martins Valério Bomfim, **211039297**
+**Bruno Martins Valério Bomfim, 211039297**
 
 Disciplina de Interação Humano-Computador, 2023.1
 
 Prof. André Barros de Sales
 
-<br>
-
+---
 # Estudo de caso: Avaliação Heurística de um Site da Web
 
 Este artigo possui como propósito realizar uma avaliação heurística do site da [Escola de Música de Brasília (EMB)](https://www.escolademusicadebrasilia.com/), como parte do processo de aprendizagem e formação da disciplina de Interação Humano-Computador do curso de Engenharia de Software da Universidade de Brasília (UnB), sob a orientação do prof. André Barros de Sales.
@@ -298,6 +297,17 @@ Posto isso, podemos começar a analisar o site.
     - Correção possível: Construir uma seção de ajuda, como uma FAQ (Frequently Asked Questions).
 
 
+## Bibliografia
 [1](#sdfootnote1anc)Texto adaptado do portal do MEC: "Escola de Brasília é referência no mundo em educação musical." MEC, [http://portal.mec.gov.br/component/tags/tag/escola-de-musica-de-brasilia](http://portal.mec.gov.br/component/tags/tag/escola-de-musica-de-brasilia). Acesso em 15 de abril de 2023.
 
 [2](#sdfootnote2anc)Conteúdo adaptado do artigo " **Avaliação Heurística de Sítios na Web**", de Cristiano Maciel, José Luis T. Nogueira, Leandro Neumann Ciuffo, e Ana Cristina Bicharra Garcia, pertencente ao repositório online do Instituto de Computação da Universidade Federal Fluminense (UFF). Disponível em [http://www.ic.uff.br/](http://www.ic.uff.br/). Acesso em 16 de abril de 2023.
+
+BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+
+Análise de tarefas. Disponível em: <https://github.com/Interacao-Humano-Computador/2022.2-Lichess>. Acesso em 07 de abril de 2023. 
+
+## Histórico de versão
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| --- | --- | --- | --- | --- |
+|  `1.0`   | 18/04/2023 | Criação inicial do documento | [Bruno Martins](https://github.com/gitbmvb) | N/A |
+|  `1.1`   | 23/04/2023 | Upload do documento para a gitpages | [Bruno Martins](https://github.com/gitbmvb) | [João Barreto](https://github.com/JoaoBarreto03) |
