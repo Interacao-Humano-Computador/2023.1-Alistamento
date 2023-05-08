@@ -77,6 +77,8 @@ Nos coletamos dados demográficos e pessoais sobre o usuário, e além disso, pe
 
 ## Estatísticas do Questionário
 
+Aplicamos o questionário de forma presencial para 20 voluntários. Focamos a aplicação para pessoas de 17 a 19 anos do sexo masculino.
+
 1. Qual a sua idade?
     - 17 - 2
     - 18 - 17
