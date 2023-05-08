@@ -1,12 +1,12 @@
-#Personas 
+# Personas 
 
-##Conceito
+## Conceito
 >"Os modelos são
 usado nas ciências naturais e sociais para representar fenômenos complexos com uma abstração útil. Assim como os economistas criam modelos para descrever o comportamento dos mercados e os físicos criam modelos para descrever o comportamento das partículas, temos
 descobrimos que usar nossa pesquisa para criar modelos descritivos de nossos usuários é uma
 ferramenta poderosa para design de interação. Chamamos esses modelos de usuário de personas." (About Face 3 The Essentials of  Interaction Design Alan Cooper, Robert Reimann, and Dave Cronin ,p.75).
 
-##Porque de uma persona ?
+## Porque de uma persona ?
 Para criar um produto que deve satisfazer um público diversificado de usuários, a lógica pode dizer
 você para torná-lo tão amplo em sua funcionalidade quanto possível para acomodar os mais
 pessoas. Essa lógica, no entanto, é falha. A melhor maneira de acomodar com sucesso um
@@ -18,16 +18,16 @@ os usuários mais importantes são atendidos sem comprometer nossa capacidade de
 de usuários secundários. Personas fornecem uma ferramenta poderosa para comunicar sobre diferentes tipos de usuários e suas necessidades, decidindo quais usuários são os mais importantes.
 importante visar no design de forma e comportamento.
 
-##Como foi feita ?
+## Como foi feita ?
 A persona foi construida por meio da pesquisa do perfil do usário e por meio da pesquisa e dos diferentes tipo de usários foram feitos personas ficticias na expectativa de representar casos reais sem serem relacionados a pessoas específicas.
 Por meio da video aula <Interfaces Humano-Computador - Mapas de empatia e personas> feita pela universidade UNIVESP foi feito um embasamento sobre como as personas devem ser construídas.
 
-##Personas criadas
+## Personas criadas
 
-###Carlito Pereira da Lima, Estudante de
+### Carlito Pereira da Lima, Estudante de
 Engenharias - UnB campo Gama.
 
-![Universitario.png](..docs/img/Persona.1.jpg)
+![Universitario.png](../img/requisitos/persona1.jpg)
 
 <div style="text-align: center">
 <p> Figura 1: Imagem fictícia da persona. (Fonte: Autores, 2023).</p>
@@ -69,11 +69,11 @@ Por gostar de tecnologia possui suas opiniões forte sobre o site como , não
 acha a interface do site agradável e nem clara , mas acha o site útil e
 objetivo, porem um pouco confuso.
 
-###Natan Passiante Ferreira , Estudante
+### Natan Passiante Ferreira , Estudante
 de Engenharias - UnB campo Gama e
 Aprendiz de Mecânico.
 
-![Universitario.png](..docs/img/Persona.2.jpg)
+![Universitario.png](../img/requisitos/persona2.jpg)
 
 <div style="text-align: center">
 <p> Figura 2: Imagem fictícia da persona. (Fonte: Autores, 2023).</p>
