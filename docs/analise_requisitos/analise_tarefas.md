@@ -54,9 +54,15 @@ A tarefa "inscrever-se no processo de alistamento" é uma das principais que os 
 
 ## 3. GOMS (Goals, Operators, Methods, and Selection Rules)
 
+O GOMS é um método de analise de tarefas que concede a representação do conhecimento que é necessário para a realização de uma tarefa por parte de um usuário. Estão inclusos nessas representação: <b>goals</b> que são estruturas simbólicas que definem um estado de coisas a ser alcançado e determinam um conjunto de métodos possíveis pelos quais isso pode ser alcançado; <b>operators</b> que são as ações na qual o software permite com que o usuário execute e que estão relacionadas diretamente com o dispositivo em si; <b>methods</b> que são as sequências claras de goals e operators na qual possibilitam o usuário de concluir a tarefa; <b>selection rules</b> que são as regras que o usuário pode seguir para decidir qual método ele irá utilizar para atingir determinada meta (goal).
+
 ### 3.1. Análise da tarefa: solicitar o certificado de dispensa.
 
+A tarefa de solicitar o cerificado de dispensa é uma parte importante dentro do site do Alistamento Militar Online, trata-se da parte final do processo de alistamento. Para efetuar a solicitação há apenas um caminho dentro do site, no entanto, antes de concluir, é necessário escolher a forma de pagamento para a emissão do documento, sendo assim, surge uma bifurcação antes de chegar na meta. Dessa maneira, é possível fazer uma análise de tarefas GOMS que parte da situação inicial para a <b>selection rules</b>, essa dá origem a dois <b>methods</b>, cada <b>method</b> possui seus <b>operators</b> específicos, ao final, ambos os <b>methods</b> convergem para uma <b>goal</b> em comum, ou seja, a meta final do processo.
 
+![Diagrama_GOMS](../img/requisitos/Diagrama-GOMS.png)
+<div style="text-align: center">
+<p>Figura 3: Diagrama GOMS para o objetivo "solicitar o certificado de dispensa". (Fonte: autor, 2023).</p>  
 
 ## Bibliografia
 
@@ -67,4 +73,4 @@ Análise de tarefas. Disponível em: <https://github.com/Interacao-Humano-Comput
 ## Histórico de versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-|  `1.0`   | 07/05/2023 | Criação inicial do documento | [Bruno Martins](https://github.com/gitbmvb) | [João Barreto](https://github.com/JoaoBarreto03) e [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
+|  `1.0`   | 07/05/2023 | Criação inicial do documento | [Bruno Martins](https://github.com/gitbmvb) e [Gabriel Souza](https://github.com/GabrielMS00) | [João Barreto](https://github.com/JoaoBarreto03) e [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
