@@ -5,7 +5,7 @@
 
 A questão central da análise de tarefas é definir - por meio de métodos de coleta, classificação e interpretação de dados - um desempenho satisfatório para um sistema e seus componentes, isto é, não se trata apenas de listar ações, mas compreender como um sistema de trabalho afeta o domínio de aplicação, e vice-versa.
 
-A coleta de um conjunto de objetivos (psicológicos) das pessoasm produz listas de ações realizadas (no mundo físico e através de sistema computacional) por um agente para alcançá-los. No entanto, independentemente da maneira como os dados para uma análise sejam coletados, haverá somente uma simulação das verdadeiras tarefas de interesse, devido ao número potencialmente abrangente de tarefas realizadas por diferentes pessoas e a limitação para obtenção de dados, de modo que estes estarão sempre incompletos (Diaper, 2003).
+A coleta de um conjunto de objetivos (psicológicos) das pessoas produz listas de ações realizadas (no mundo físico e através de sistema computacional) por um agente para alcançá-los. No entanto, independentemente da maneira como os dados para uma análise sejam coletados, haverá somente uma simulação das verdadeiras tarefas de interesse, devido ao número potencialmente abrangente de tarefas realizadas por diferentes pessoas e a limitação para obtenção de dados, de modo que estes estarão sempre incompletos (Diaper, 2003).
 
 A análise de tarefas deve buscar identificar dados conflitantes e disparidade entre o relato oficial e a prática do trabalho através de informações obtidas em entrevistas, questionários, documentação e programas de treinamento e sistemas existentes.
 
