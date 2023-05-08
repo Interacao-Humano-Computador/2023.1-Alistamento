@@ -28,13 +28,10 @@ A branch principal é protegida, dessa forma, deve-se sempre abrir um pull reque
 
 Uma branch deve ser criada para resolver um problema específico, e deve ser nomeada de forma que a vicissitude em questão seja reconhecível. Além disso, ao findar o processo do pull request, caso não haja a necessidade de se utilizar mais aquela branch naquele momento, delete-a. 
 
-## Histórico de versão
-
-| Versão | Data | Descrição | Autor(es) | Revisor(es) |
-| ---- | -----  | ------ | ---------- | ----------|
-| 1.0 | 23/04/2023 | Descrição da Metodologia Completa | [Arthur de Melo](https://github.com/arthurmlv) | [João Barreto](https://github.com/JoaoBarreto03) |
-
-Tabela 1: Histórico das versões de metodologia (Fonte: autor, 2023).
-
 ## Referências
->ALVES, Isaque, ROCHA, Carla. Qualifying Software Engineers Undergraduates in DevOps - Challenges of introducing technical and non-technical conceptss in a project-oriented course. **Arxiv**. [S. l.], v.1, 2021. Disponível em: <<https://arxiv.org/abs/2102.06662>>. Acesso em: 23/04/2023.
+ALVES, Isaque, ROCHA, Carla. Qualifying Software Engineers Undergraduates in DevOps - Challenges of introducing technical and non-technical conceptss in a project-oriented course. **Arxiv**. [S. l.], v.1, 2021. Disponível em: <<https://arxiv.org/abs/2102.06662>>. Acesso em: 23/04/2023.
+
+## Histórico de versão
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| --- | --- | --- | --- | --- |
+|  `1.0`   | 23/04/2023 | Descrição da Metodologia Completa | [Arthur de Melo](https://github.com/arthurmlv) | [João Barreto](https://github.com/JoaoBarreto03) |

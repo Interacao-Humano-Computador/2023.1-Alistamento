@@ -49,4 +49,7 @@ O site do Striker(casa de boliche em Brasília) foi avaliado pelo membro Danilo 
 - Páginas repetitivas;
 - Falta de uma página explicativa sobre aqueles que não conhecem o boliche.
 
-
+## Histórico de versão
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| --- | --- | --- | --- | --- |
+|  `1.0`   | 23/04/2023 | Criação inicial do documento | [João Barreto](https://github.com/JoaoBarreto03) | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
