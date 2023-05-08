@@ -27,35 +27,35 @@ Logo | Ferramenta | Finalidade |
 </div>
 
 ## Bibliografia
-[1] Figma. Disponível em: [https://www.figma.com/](https://www.figma.com/). Acesso em: 06 maio 2023.
+[1] **Figma**. Disponível em: [https://www.figma.com/](https://www.figma.com/). Acesso em: 06 maio 2023.
 
-[2] Firefox. Disponível em: [https://pt.wikipedia.org/wiki/Firefox](https://pt.wikipedia.org/wiki/Firefox). Acesso em: 06 maio 2023.
+[2] **Firefox**. Disponível em: [https://www.mozilla.org/pt-BR/firefox/](https://www.mozilla.org/pt-BR/firefox/). Acesso em: 06 maio 2023.
 
-[3] GitHub. Disponível em: [https://pt.wikipedia.org/wiki/GitHub](https://pt.wikipedia.org/wiki/GitHub). Acesso em: 06 maio 2023.
+[3] **GitHub**. Disponível em: [https://www.github.com](https://www.github.com). Acesso em: 06 maio 2023.
 
-[4] Google Chrome. Disponível em: [https://pt.wikipedia.org/wiki/Google_Chrome](https://pt.wikipedia.org/wiki/Google_Chrome). Acesso em: 06 maio 2023.
+[4] **Google Chrome**. Disponível em: [https://www.google.com/chrome/](https://www.google.com/chrome/). Acesso em: 06 maio 2023.
 
-[5] Google Docs. Disponível em: [https://pt.wikipedia.org/wiki/Google_Docs](https://pt.wikipedia.org/wiki/Google_Docs). Acesso em: 06 maio 2023.
+[5] **Google Docs**. Disponível em: [https://docs.google.com/document/u/0/](https://docs.google.com/document/u/0/). Acesso em: 06 maio 2023.
 
-[6] Google Forms. Disponível em: [https://pt.wikipedia.org/wiki/Google_Forms](https://pt.wikipedia.org/wiki/Google_Forms). Acesso em: 06 maio 2023.
+[6] **Google Forms**. Disponível em: [https://workspace.google.com/intl/pt-BR/lp/forms/](https://workspace.google.com/intl/pt-BR/lp/forms/). Acesso em: 06 maio 2023.
 
-[7] Microsoft Excel. Disponível em: [https://pt.wikipedia.org/wiki/Microsoft_Excel](https://pt.wikipedia.org/wiki/Microsoft_Excel). Acesso em: 06 maio 2023.
+[7] **Microsoft Excel**. Disponível em: [https://www.microsoft.com/pt-br/microsoft-365/excel](https://www.microsoft.com/pt-br/microsoft-365/excel). Acesso em: 06 maio 2023.
 
-[8] Microsoft Teams. Disponível em: [https://pt.wikipedia.org/wiki/Microsoft_Teams](https://pt.wikipedia.org/wiki/Microsoft_Teams). Acesso em: 06 maio 2023.
+[8] **Microsoft Teams**. Disponível em: [https://teams.microsoft.com/](https://teams.microsoft.com/). Acesso em: 06 maio 2023.
 
-[9] Miro. Disponível em: [https://miro.com/](https://miro.com/). Acesso em: 06 maio 2023.
+[9] **Miro**. Disponível em: [https://miro.com/](https://miro.com/). Acesso em: 06 maio 2023.
 
-[10] MkDocs. Disponível em: [https://www.mkdocs.org/](https://www.mkdocs.org/). Acesso em: 06 maio 2023.
+[10] **MkDocs**. Disponível em: [https://www.mkdocs.org/](https://www.mkdocs.org/). Acesso em: 06 maio 2023.
 
-[11] Telegram. Disponível em: [https://pt.wikipedia.org/wiki/Telegram_(software)](https://pt.wikipedia.org/wiki/Telegram_(software)). Acesso em: 06 maio 2023.
+[11] **Telegram**. Disponível em: [https://telegram.org/](https://telegram.org/). Acesso em: 06 maio 2023.
 
-[12] This person doesn't exist. Disponível em: [https://this-person-does-not-exist.com/](https://this-person-does-not-exist.com/). Acesso em: 06 maio 2023.
+[12] **This person doesn't exist**. Disponível em: [https://this-person-does-not-exist.com/](https://this-person-does-not-exist.com/). Acesso em: 06 maio 2023.
 
-[13] Visual Studio Code (VS Code). Disponível em: [https://pt.wikipedia.org/wiki/Visual_Studio_Code](https://pt.wikipedia.org/wiki/Visual_Studio_Code). Acesso em: 06 maio 2023.
+[13] **Visual Studio Code (VS Code)**. Disponível em: [https://code.visualstudio.com/](https://code.visualstudio.com/). Acesso em: 06 maio 2023.
 
-[14] WhatsApp. Disponível em: [https://pt.wikipedia.org/wiki/WhatsApp](https://pt.wikipedia.org/wiki/WhatsApp). Acesso em: 06 maio 2023.
+[14] **WhatsApp**. Disponível em: [https://www.whatsapp.com/?lang=pt_br](https://www.whatsapp.com/?lang=pt_br). Acesso em: 06 maio 2023.
 
-[15] YouTube. Disponível em: [https://pt.wikipedia.org/wiki/YouTube](https://pt.wikipedia.org/wiki/YouTube). Acesso em: 06 maio 2023.
+[15] **YouTube**. Disponível em: [https://www.youtube.com/](https://www.youtube.com/). Acesso em: 06 maio 2023.
 
 ## Histórico de versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |

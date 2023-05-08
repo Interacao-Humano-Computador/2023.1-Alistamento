@@ -63,3 +63,8 @@ Sobre o prisma mostrado anteriormente , nesse projeto foi decidido usar a Engenh
 
 ## Referências 
 >BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
+## Histórico de versão
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| --- | --- | --- | --- | --- |
+|  `1.0`   | 23/04/2023 | Criação inicial do documento | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | [João Barreto](https://github.com/JoaoBarreto03) |

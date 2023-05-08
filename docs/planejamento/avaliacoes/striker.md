@@ -1,7 +1,14 @@
+**Danilo Carvalho Antunes, 211039312**
+
+Disciplina de Interação Humano-Computador, 2023.1
+
+Prof. André Barros de Sales
+
+---
 # Avaliação do site
 
-Nesse relatório será feito a avalição do site <Striker Pier 21 Brasília/DF –
-Boliche, Games, Bar e Restaurante (strikerdf.com.br)>, é um site do
+Nesse relatório será feito a avalição do site Striker Pier 21 Brasília/DF –
+Boliche, Games, Bar e Restaurante (strikerdf.com.br), é um site do
 boliche de Brasília que tem por finalidade trazer informações sobre o
 estabelecimento. O método escolhido é o de inspeção com já relatado no
 planejamento e será feito sobre o frame work D.E.C.I.D.E.
@@ -120,4 +127,8 @@ necessidades especiais e que desejam utilizar o site , ser direto e
 objetivo com o seu produto , não possui anúncios de outros sites ou
 produtos e possui uma interface intuitiva.
 
-
+## Histórico de versão
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| --- | --- | --- | --- | --- |
+|  `1.0`   | 17/04/2023 | Criação inicial do documento | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | N/A |
+|  `1.1`   | 23/04/2023 | Upload do documento para a gitpages | [Bruno Martins](https://github.com/gitbmvb) | [João Barreto](https://github.com/JoaoBarreto03) |

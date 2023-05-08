@@ -1,8 +1,10 @@
-Aluno: João Manoel Barreto Neto
+**João Manoel Barreto Neto, 211039519**
 
-Matrícula: 211039519
+Disciplina de Interação Humano-Computador, 2023.1
 
+Prof. André Barros de Sales
 
+---
 # Avaliação individual - Interação Humano Computador
 
 Como havia sido relatado no planejamento, o método de avaliação escolhido é o de inspeção.
@@ -103,4 +105,8 @@ E: A partir das informações obtidas na inspeção, é possível concluir que:
 - O portal de ajuda possui questionamentos importantes que auxiliam na experiência do
     usuário.
 
-
+## Histórico de versão
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| --- | --- | --- | --- | --- |
+|  `1.0`   | 17/04/2023 | Criação inicial do documento | [João Barreto](https://github.com/JoaoBarreto03) | N/A |
+|  `1.1`   | 23/04/2023 | Upload do documento para a gitpages | [Bruno Martins](https://github.com/gitbmvb) |
