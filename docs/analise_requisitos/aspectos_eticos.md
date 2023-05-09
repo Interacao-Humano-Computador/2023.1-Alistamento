@@ -30,3 +30,8 @@ social.
 
 ## Bibliografia
 [1] BARBOSA, Simone; SILVA, Bruno. “Interação Humano-Computador". Elsevier Editora Ltda, 2010.
+
+## Histórico de versão
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| --- | --- | --- | --- | --- |
+|  `1.0`   | 07/05/2023 | Criação inicial do documento | [Bruno Martins](https://github.com/gitbmvb) e [Gabriel Souza](https://github.com/GabrielMS00) | [João Barreto](https://github.com/JoaoBarreto03) e [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |

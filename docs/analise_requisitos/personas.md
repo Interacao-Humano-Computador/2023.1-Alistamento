@@ -19,7 +19,7 @@ de usuários secundários. Personas fornecem uma ferramenta poderosa para comuni
 importante visar no design de forma e comportamento.
 
 ## Como foi feita ?
-A persona foi construida por meio da pesquisa do perfil do usário e por meio da pesquisa e dos diferentes tipo de usários foram feitos personas ficticias na expectativa de representar casos reais sem serem relacionados a pessoas específicas.
+A persona foi construida por meio da pesquisa do perfil do usuário e por meio da pesquisa e dos diferentes tipo de usários foram feitos personas ficticias na expectativa de representar casos reais sem serem relacionados a pessoas específicas.
 Por meio da video aula <Interfaces Humano-Computador - Mapas de empatia e personas> feita pela universidade UNIVESP foi feito um embasamento sobre como as personas devem ser construídas.
 
 ## Personas criadas
