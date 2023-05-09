@@ -6,11 +6,8 @@ A metodologia pode ser descrita como um conjunto de estratégias utilizadas para
 
 ## Extreme Programming
 
-No Extreme Programming, configuram-se 12 principais práticas, no entanto, fez-se uma adaptação para a disciplina: o foco é somente em três. No planejamento, na padronização do código e na programação pareada. Com essas três características, torna-se possível um feedback rápido e a manutenção da simplicidade do que é produzido pelos membros.
+No Extreme Programming, o foco está na agilidade da produção e na manutenção do que é produzido. Dessa forma, por meio do planejamento e da padronização do código torna-se possível um feedback rápido e uma melhor organização.
 
-### Programação Pareada
-
-Esse tópico é de suma importância nessa matéria, dado que erros de documentação e de conformidade com os padrões estabelecidos pelo grupo acontecem frequentemente. Logo, ao invés de se ter uma correção após o fim da ação, o erro é imediatamente identificado pelo parceiro. 
 
 ## Scrum
 
@@ -29,7 +26,7 @@ A branch principal é protegida, dessa forma, deve-se sempre abrir um pull reque
 Uma branch deve ser criada para resolver um problema específico, e deve ser nomeada de forma que a vicissitude em questão seja reconhecível. Além disso, ao findar o processo do pull request, caso não haja a necessidade de se utilizar mais aquela branch naquele momento, delete-a. 
 
 ## Referências
-ALVES, Isaque, ROCHA, Carla. Qualifying Software Engineers Undergraduates in DevOps - Challenges of introducing technical and non-technical conceptss in a project-oriented course. **Arxiv**. [S. l.], v.1, 2021. Disponível em: <<https://arxiv.org/abs/2102.06662>>. Acesso em: 23/04/2023.
+[1] Bourque and R.E. Fairley, eds., Guide to the Software Engineering Body of Knowledge, Version 3.0, IEEE Computer Society, 2014; www.swebok.org.
 
 ## Histórico de versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
