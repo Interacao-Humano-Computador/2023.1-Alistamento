@@ -36,7 +36,7 @@ Cada tópico foi apresentado pelo membrou que executou tal tópico
 | Apresentação das personas | Danilo Carvalho
 | Apresentação da análise de tarefas | Bruno Martins e Gabriel Marques
 
-Tabela 1: Organização e distribuição das atividas semanais (Fonte: autor, 2023).
+Tabela 1: Organização da apresentação da Entrega 2 (Fonte: autor, 2023).
 
 ## Gravação da reunião
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VehmfrPEr7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
