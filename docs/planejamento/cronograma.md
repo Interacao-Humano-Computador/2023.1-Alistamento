@@ -34,11 +34,11 @@ Tabela 2: Organização da Entrega 2 (Fonte: autor, 2023).
 ### Entrega 03: Princípios gerais do projeto - Data: 16/05
 | Atividade | Entrega | Autores | Revisão | Revisores |
 |---|---|---|---|---|
-| Princípios gerais de projeto: listagem dos princípios e descrição de cada um | 10/05 | Gabriel | 11/05 | Bruno |
-| Metas de usabilidade: definição de metas e identificação de requisitos levantados a partir delas | 11/05 | Arthur Augusto e Danilo | 12/05 | Gabriel |
-| Guia de estilo: definição do objetivo, apresentação do conteúdo do guia | 13/05 | João e Gabriel | 14/05 | Arthur Augusto |
-| Características da plataforma: listagem e explicação de cada característica | 12/05 | Bruno e Danilo | 13/05 | João |
-| Gravar apresentação | 15/05 | João | 16/05 | Danilo |
+| Princípios gerais de projeto: listagem dos princípios e descrição de cada um | 11/05 | João e Danilo | 12/05 | Bruno |
+| Metas de usabilidade: definição de metas e identificação de requisitos levantados a partir delas | 12/05 | Arthur Augusto e Gabriel | 13/05 | João |
+| Guia de estilo: definição do objetivo, apresentação do conteúdo do guia | 13/05 | Bruno | 14/05 | Arthur Augusto |
+| Características da plataforma: listagem e explicação de cada característica | 13/05 | Arthur Augusto e João | 14/05 | Gabriel |
+| Gravar apresentação | 15/05 | Arthur Augusto, Bruno, Danilo, Gabriel, João | 16/05 | Arthur Augusto, Bruno, Danilo, Gabriel, João |
 
 Tabela 3: Organização da Entrega 3 (Fonte: autor, 2023).
 
