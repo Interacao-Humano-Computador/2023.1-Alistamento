@@ -27,6 +27,7 @@ nav:
       - Perfil do Usuário: analise_requisitos/perfil_do_usuario.md
       - Personas: analise_requisitos/personas.md
       - Análise de Tarefas: analise_requisitos/analise_tarefas.md
+      - Princípios Gerais do Projeto: analise_requisitos/principios_gerais.md
     - Apresentações: apresentacoes.md
 theme:
   name: material
