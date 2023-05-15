@@ -4,7 +4,7 @@
 
 As metas de usabilidade servem de auxílio para os Designs na parte da identificação dos padrões de qualidade que o sistema deve atingir, se tratando da possibilidade e da capacidade que o usuário deve possuir de comprir com as tarefas e objetivos dentro do sistema, tudo isso da forma mais simples e intuitiva possível.
 
-Focando na usabilidade em si, se trata de um conjunto de conceitos que que tornam possível a definição de valores para atributos que definem quão fácil é utilizar uma interface. Lembrando que estas metas podem ser utilizadas tanto no projeto da interface quanto no processo de avaliação dela.
+Focando na usabilidade em si, se trata de um conjunto de conceitos que tornam possível a definição de valores para atributos que definem quão fácil é utilizar uma interface. Lembrando que estas metas podem ser utilizadas tanto no projeto da interface quanto no processo de avaliação dela.
 
 ## 2. As metas de usabilidade
 
@@ -63,7 +63,7 @@ Capacidade do usuário em manter o conhecimento que foi adquirido na utilizaçã
 ## Histórico de versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-|  `1.0`   | 14/05/2023 | Criação do documento: metasUsabilidade.md | [Gabriel Souza](https://github.com/GabrielMS00) | [Bruno Martins](https://github.com/gitbmvb) |
+|  `1.0`   | 14/05/2023 | Criação do documento: metas_usabilidade.md | [Gabriel Souza](https://github.com/GabrielMS00) | [Bruno Martins](https://github.com/gitbmvb) |
 
 
 
