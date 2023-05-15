@@ -73,7 +73,7 @@ objetivo, porem um pouco confuso.
 de Engenharias - UnB campo Gama e
 Aprendiz de Mecânico.
 
-![Universitario.png](../img/requisitos/baixados(1).jpg)
+![Universitario.png](../img/requisitos/baixados (1).jpg)
 
 <div style="text-align: center">
 <p> Figura 2: Natan. (Fonte: Autores, 2023).</p>
@@ -118,7 +118,7 @@ sobre a utilização do site.
 
 ### Natalia Amaral Silva, Estudante de Medicina - UnB campo Darcy Ribeiro.
 
-![Universitario.png](../img/requisitos/baixados(2).jpg)
+![Universitario.png](../img/requisitos/baixados (2).jpg)
  <div style="text-align: center">
 <p> Figura 3: Natalia . (Fonte: Autores, 2023).</p>
 </div>
@@ -163,5 +163,5 @@ Video aula feita pela UNIVESP do youtube Interfaces Humano-Computador - Mapas de
 ## Histórico de versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-|  `1.1`   | 14/05/2023 | Criação inicial do documento | [Arthur Augusto](https://github.com/arthur-augusto) e [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | [Bruno Martins](https://github.com/gitbmvb) e [João Barreto](https://github.com/JoaoBarreto03) |
+|  `2.0`   | 14/05/2023 | Criação inicial do documento | [Arthur Augusto](https://github.com/arthur-augusto) e [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | [Bruno Martins](https://github.com/gitbmvb) e [João Barreto](https://github.com/JoaoBarreto03) |
 
