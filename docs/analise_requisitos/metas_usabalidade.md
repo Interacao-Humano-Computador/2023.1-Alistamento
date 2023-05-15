@@ -63,7 +63,7 @@ Capacidade do usuário em manter o conhecimento que foi adquirido na utilizaçã
 ## Histórico de versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-|  `1.0`   | 14/05/2023 | Criação do documento: metas_usabilidade.md | [Gabriel Souza](https://github.com/GabrielMS00) | [Bruno Martins](https://github.com/gitbmvb) |
+|  `1.0`   | 14/05/2023 | Criação do documento: metas_usabilidade.md | [Gabriel Souza](https://github.com/GabrielMS00) e [Arthur Augusto](https://github.com/arthur-augusto) | [Bruno Martins](https://github.com/gitbmvb) |
 
 
 
