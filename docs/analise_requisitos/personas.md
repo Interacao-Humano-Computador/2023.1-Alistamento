@@ -22,7 +22,7 @@ importante visar no design de forma e comportamento.
 A persona foi construida por meio da pesquisa do perfil do usuário e por meio da pesquisa e dos diferentes tipo de usários foram feitos personas ficticias na expectativa de representar casos reais sem serem relacionados a pessoas específicas.
 Por meio da video aula <Interfaces Humano-Computador - Mapas de empatia e personas> feita pela universidade UNIVESP foi feito um embasamento sobre como as personas devem ser construídas.
 
-#Personas Primárias :
+## Personas Primárias :
 
 ### Carlito Pereira da Lima, Estudante de
 Engenharias - UnB campo Gama.
@@ -43,14 +43,14 @@ Primeiro semestre do curso de engenharias.
 Possui um celular e computador.
 Não trabalha nem estagia.
 
-Comportamento :
-Seu passatempo são jogos online , que joga no seu computador todo dia um
-pouco , depois dos estudos da universidade . É uma pessoa extremamente
-competitiva , sempre gostou de tecnologia sua vida toda , é rodeado de
+Comportamento:
+Seu passatempo são jogos online, que joga no seu computador todo dia um
+pouco, depois dos estudos da universidade. É uma pessoa extremamente
+competitiva, sempre gostou de tecnologia sua vida toda, é rodeado de
 Personas. 2
 amigos e sempre pontual com as responsabilidades. Não possui animais de
 estimação.
-Fez 18 anos recentemente , não possui interesse no serviço militar e já
+Fez 18 anos recentemente, não possui interesse no serviço militar e já
 realizou o processo de alistamento militar. 
 
 Necessidade e Metas:
@@ -65,8 +65,8 @@ Busca conseguir um estagio o quanto antes.
 Impressões do site de alistamento militar:
 Já possuiu problemas ao utilizar o site, problema de pagamento e de
 agendamento.
-Por gostar de tecnologia possui suas opiniões forte sobre o site como , não
-acha a interface do site agradável e nem clara , mas acha o site útil e
+Por gostar de tecnologia possui suas opiniões forte sobre o site como, não
+acha a interface do site agradável e nem clara, mas acha o site útil e
 objetivo, porem um pouco confuso.
 
 ### Natan Passiante Ferreira , Estudante
@@ -90,13 +90,13 @@ Possui um celular e computador.
 Trabalha e estuda.
 Possui um salario de 947,00 como aprendiz de mecânico.
 
-Comportamento :
+Comportamento:
 Seu passatempo é mexer em carros antigos na oficina do seu tio. Trabalha
-das 8h as 12h e depois vai o para universidade . É uma pessoa
-extremamente alegre , sempre gostou de carros sua vida toda , é solitário e
-sua melhor companhia é o seu carro e sua esposa . Possui animais de
-estimação , um salsicha chamado Brutus que tem 2 anos e meio.
-Fez 19 anos recentemente , não possui interesse no serviço militar e já
+das 8h as 12h e depois vai o para universidade. É uma pessoa
+extremamente alegre, sempre gostou de carros sua vida toda, é solitário e
+sua melhor companhia é o seu carro e sua esposa. Possui animais de
+estimação, um salsicha chamado Brutus que tem 2 anos e meio.
+Fez 19 anos recentemente, não possui interesse no serviço militar e já
 realizou o processo de alistamento militar. 
 
 Necessidade e Metas:
@@ -111,12 +111,12 @@ Impressões do site de alistamento militar:
 Não possuiu nem um problema ao utilizar o site embora demorou um pouco
 para entender como o site funcionava. Nunca se considerou um cara ligado
 a tecnologia e por isso acha que o site possui características razoáveis para
-o que ele deveria ter , nada fora da curva mas também nada que seja ruim
+o que ele deveria ter, nada fora da curva mas também nada que seja ruim
 sobre a utilização do site 
   
-#Persona Secundária
+## Persona Secundária
 
-###Natalia Amaral Silva , Estudante de Medicina - UnB campo Darcy Ribeiro.
+### Natalia Amaral Silva, Estudante de Medicina - UnB campo Darcy Ribeiro.
 ![Universitario.png](../img/requisitos/baixados(2).jpg)
  <div style="text-align: center">
 <p> Figura 3: Natalia . (Fonte: Autores, 2023).</p>
@@ -132,20 +132,20 @@ Primeiro semestre do curso de medicina.
 Possui um celular e computador.
 Apenas estuda.
 
-Comportamento :
-Seu passatempo é ler livros de romance. Estuda das 8h as 20h na universidade . É uma pessoa extremamente alegre , sempre gostou da área medica , sua melhor companhia é o seu cachorro, titi um pitbull que tem 5 anos.
-Fez 18 anos recentemente , não possui interesse no serviço militar e não realizará o processo de alistamento militar.  
+Comportamento:
+Seu passatempo é ler livros de romance. Estuda das 8h as 20h na universidade. É uma pessoa extremamente alegre, sempre gostou da área medica, sua melhor companhia é o seu cachorro, titi um pitbull que tem 5 anos.
+Fez 18 anos recentemente, não possui interesse no serviço militar e não realizará o processo de alistamento militar.  
 
 Necessidade e Metas:
-Entrou na universidade querendo ser neurocirurgiã .
+Entrou na universidade querendo ser neurocirurgiã.
 Pretende ter um bom salario para ter a sua própria casa e viver com sua família.
 Deseja começar a trabalhar assim que possível.
 
 Impressões do site de alistamento militar:
 Não possui nenhuma interação com o site de alistamento militar pois é do sexo feminino e o site é apenas para pessoas do sexo masculino.
   
-#Elenco das personas
-  Para a construção das personas foi pensado na criação de três personas apenas. Pelo nosso perfil de usário teriamos apenas 2 tipos distintos de usarios. Os usarios que utilizam ou ja utilizaram o site e os usarios que não utilizam e nunca irão utilizar o site , porém séria necessário duas personas para aqueles que utilizam , sendo a primeira persona uma que encontrou problemas ao usar o site mas conseguiu fazer o processo do alistamento e uma persona que passou pelo processo sem o menor problema , já terceira persona é alguém que nunca utilizou o site. Por tanto, para esse projeto não é encontrado outros motivos que justifiquem a criação de novas personas.  
+## Elenco das personas
+  Para a construção das personas foi pensado na criação de três personas apenas. Pelo nosso perfil de usário teriamos apenas 2 tipos distintos de usarios. Os usarios que utilizam ou ja utilizaram o site e os usarios que não utilizam e nunca irão utilizar o site, porém séria necessário duas personas para aqueles que utilizam, sendo a primeira persona uma que encontrou problemas ao usar o site mas conseguiu fazer o processo do alistamento e uma persona que passou pelo processo sem o menor problema, já terceira persona é alguém que nunca utilizou o site. Por tanto, para esse projeto não é encontrado outros motivos que justifiquem a criação de novas personas.  
 
 ## Bibliografia
 
