@@ -22,15 +22,15 @@ importante visar no design de forma e comportamento.
 A persona foi construida por meio da pesquisa do perfil do usuário e por meio da pesquisa e dos diferentes tipo de usários foram feitos personas ficticias na expectativa de representar casos reais sem serem relacionados a pessoas específicas.
 Por meio da video aula <Interfaces Humano-Computador - Mapas de empatia e personas> feita pela universidade UNIVESP foi feito um embasamento sobre como as personas devem ser construídas.
 
-## Personas criadas
+#Personas Primárias :
 
 ### Carlito Pereira da Lima, Estudante de
 Engenharias - UnB campo Gama.
 
-![Universitario.png](../img/requisitos/persona1.jpg)
+![Universitario.png](../img/requisitos/baixados.jpg)
 
 <div style="text-align: center">
-<p> Figura 1: Imagem fictícia da persona. (Fonte: Autores, 2023).</p>
+<p> Figura 1: Carlito. (Fonte: Autores, 2023).</p>
 </div>
 
 Fatos e dados demográficos:
@@ -73,10 +73,10 @@ objetivo, porem um pouco confuso.
 de Engenharias - UnB campo Gama e
 Aprendiz de Mecânico.
 
-![Universitario.png](../img/requisitos/persona2.jpg)
+![Universitario.png](../img/requisitos/baixados(1).jpg)
 
 <div style="text-align: center">
-<p> Figura 2: Imagem fictícia da persona. (Fonte: Autores, 2023).</p>
+<p> Figura 2: Natan. (Fonte: Autores, 2023).</p>
 </div>
 
 Fatos e dados demográficos:
@@ -113,6 +113,39 @@ para entender como o site funcionava. Nunca se considerou um cara ligado
 a tecnologia e por isso acha que o site possui características razoáveis para
 o que ele deveria ter , nada fora da curva mas também nada que seja ruim
 sobre a utilização do site 
+  
+#Persona Secundária
+
+###Natalia Amaral Silva , Estudante de Medicina - UnB campo Darcy Ribeiro.
+![Universitario.png](../img/requisitos/baixados(2).jpg)
+ <div style="text-align: center">
+<p> Figura 3: Natalia . (Fonte: Autores, 2023).</p>
+</div>
+  
+Fatos e dados demográficos:
+
+Sexo Feminino.
+Mora com o pai no bairro EFT.
+Mora a 25Km de distancia da universidade.
+18 anos.
+Primeiro semestre do curso de medicina.
+Possui um celular e computador.
+Apenas estuda.
+
+Comportamento :
+Seu passatempo é ler livros de romance. Estuda das 8h as 20h na universidade . É uma pessoa extremamente alegre , sempre gostou da área medica , sua melhor companhia é o seu cachorro, titi um pitbull que tem 5 anos.
+Fez 18 anos recentemente , não possui interesse no serviço militar e não realizará o processo de alistamento militar.  
+
+Necessidade e Metas:
+Entrou na universidade querendo ser neurocirurgiã .
+Pretende ter um bom salario para ter a sua própria casa e viver com sua família.
+Deseja começar a trabalhar assim que possível.
+
+Impressões do site de alistamento militar:
+Não possui nenhuma interação com o site de alistamento militar pois é do sexo feminino e o site é apenas para pessoas do sexo masculino.
+  
+#Elenco das personas
+  Para a construção das personas foi pensado na criação de três personas apenas. Pelo nosso perfil de usário teriamos apenas 2 tipos distintos de usarios. Os usarios que utilizam ou ja utilizaram o site e os usarios que não utilizam e nunca irão utilizar o site , porém séria necessário duas personas para aqueles que utilizam , sendo a primeira persona uma que encontrou problemas ao usar o site mas conseguiu fazer o processo do alistamento e uma persona que passou pelo processo sem o menor problema , já terceira persona é alguém que nunca utilizou o site. Por tanto, para esse projeto não é encontrado outros motivos que justifiquem a criação de novas personas.  
 
 ## Bibliografia
 
@@ -121,10 +154,10 @@ The Essentials of
 Interaction Design
 Alan Cooper, Robert Reimann, and Dave Cronin.
 
-Video aula feita pela UNIVESP do youtube <Interfaces Humano-Computador - Mapas de empatia e personas>.
+Video aula feita pela UNIVESP do youtube Interfaces Humano-Computador - Mapas de empatia e personas.
 
 ## Histórico de versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-|  `1.0`   | 08/05/2023 | Criação inicial do documento | [Arthur Augusto](https://github.com/arthur-augusto) e [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | [Bruno Martins](https://github.com/gitbmvb) e [João Barreto](https://github.com/JoaoBarreto03) |
+|  `1.1`   | 14/05/2023 | Criação inicial do documento | [Arthur Augusto](https://github.com/arthur-augusto) e [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | [Bruno Martins](https://github.com/gitbmvb) e [João Barreto](https://github.com/JoaoBarreto03) |
 
