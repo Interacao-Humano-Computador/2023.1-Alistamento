@@ -37,4 +37,4 @@ Usando os métodos Scrum e Extreme Programming como inspiração, teremos uma re
 ## Histórico de versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-|  `2.0`   | 15/05/2023 | Correção da Metodologia Completa | [Arthur de Melo](https://github.com/arthurmlv) | [João Barreto](https://github.com/JoaoBarreto03) |
+|  `1.1`   | 15/05/2023 | Correção da Metodologia Completa | [Arthur Augusto](https://github.com/arthur-augusto) | [João Barreto](https://github.com/JoaoBarreto03) |
