@@ -7,13 +7,13 @@ O cronograma foi estruturado pelo Arthur de Melo Viana, contemplando e observand
 
 | Atividade | Entrega | Autores | Revisão | Revisores |
 |---|---|---|---|---|
-| Escolha do site: motivação e objetivo do site | 13/04 | **Todos** | 14/04 | Bruno e Gabriel |
+| Escolha do site: motivação e objetivo do site | 13/04 | Arthur, Bruno, Danilo, Gabriel, João | 14/04 | Bruno e Gabriel |
 | Listar ferramentas utilizadas: apresentação das ferramentas e utilização de cada uma delas| 18/04 | Bruno e Gabriel | 19/04 | Arthur Augusto |
-| Criação da estrutura da GitHub Page: Template de abas e tema | 18/04 | Danilo e João | 19/04 | **Todos** |
+| Criação da estrutura da GitHub Page: Template de abas e tema | 18/04 | Danilo e João | 19/04 | Arthur, Bruno, Danilo, Gabriel, João |
 | Criação do Cronograma completo: datas, autores, revisores e divisão de tarefas | 16/04 | Arthur de Melo | 17/04 | Danilo |
 | Processos de Design: Conceito e ciclo de vida escolhido | 19/04 | Danilo e Arthur Augusto | 20/04 | João |
 | Implementar Cronograma na GitPage | 20/04 | Bruno | 21/04 | Bruno |
-| Realização do Planejamento: avaliação dos sites, contendo introdução e metodologia utilizada | 20/04 | **Todos** | 21/04 | Arthur Augusto e João |
+| Realização do Planejamento: avaliação dos sites, contendo introdução e metodologia utilizada | 20/04 | Arthur, Bruno, Danilo, Gabriel, João | 21/04 | Arthur Augusto e João |
 | Gravar apresentação | 22/04 | João | 23/04 | Danilo |
 
 Tabela 1: Organização da Entrega 1 (Fonte: autor, 2023).
@@ -102,5 +102,10 @@ Tabela 9: Organização da Entrega Final (Fonte: autor, 2023).
 
 
 ## Bibliografia
-
 [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <>. Acesso em: 22 de abril de 2023;
+
+## Histórico de versão
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| --- | --- | --- | --- | --- |
+|  `1.0`   | 23/04/2023 | Criação do cronograma | [Bruno Martins](https://github.com/gitbmvb) | [João Barreto](https://github.com/JoaoBarreto03) |
+|  `1.1`   | 08/05/2023 | Detalhamento das descrições das atividades do cronograma | [João Barreto](https://github.com/JoaoBarreto03)| [Bruno Martins](https://github.com/gitbmvb) |

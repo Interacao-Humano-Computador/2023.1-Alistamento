@@ -93,6 +93,11 @@
 | <img src="../../img/requisitos/yt.png" width="50" height="50"> | **Youtube**: Link para o canal do Youtube do site. |
 | <img src="../../img/requisitos/pageup.png" width="50" height="50"> | Subir para o topo da página. |
 
+<div style="text-align: center">
+<p> Tabela 1: Principais ícones utilizados no site. (Fonte: Autores, 2023).</p>
+</div>
+
+
 ### 3.4. Cores
 &emsp;&emsp;As duas únicas cores utilizadas são as seguintes (Figura 3):
 
@@ -135,3 +140,4 @@ BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 |  `1.0`   | 15/05/2023 | Criação inicial do guia de estilo | [Bruno Martins](https://github.com/gitbmvb) | [Arthur Augusto](https://github.com/arthur-augusto) |
+|  `1.1`   | 15/05/2023 | Adicionando legenda à tabela de ícones | [Bruno Martins](https://github.com/gitbmvb) | [Gabriel Souza](https://github.com/GabrielMS00) e [Arthur Augusto](https://github.com/arthur-augusto) |
