@@ -7,7 +7,7 @@ Aqui se encontram as atividades desenvolvidas, cada uma com as suas respectivas 
 
 | Atividade | Entrega | Autores | Revisão | Revisores |
 |---|---|---|---|---|
-| Escolha do site | 13/04 | **Todos** | 14/04 | **Todos** |
+| Escolha do site | 13/04 | Arthur, Bruno, Danilo, Gabriel, João | 14/04 | Arthur, Bruno, Danilo, Gabriel, João |
 | Ferramentas utilizadas | 22/04 | Bruno | 23/04 | João |
 | Criação da GitHub Page | 22/04 | Bruno e João | 23/04 | João |
 | Criação do Cronograma | 16/04 | Arthur de Melo | 17/04 | Bruno |
@@ -30,6 +30,23 @@ Tabela 1: Organização real da Entrega 1 (Fonte: autor, 2023).
 
 Tabela 2: Organização da Entrega 2 (Fonte: autor, 2023).
 
-## Bibliografia
+### Entrega 03: Princípios gerais do projeto - Data: 16/05
+| Atividade | Entrega | Autores | Revisão | Revisores |
+|---|---|---|---|---|
+| Princípios gerais de projeto: listagem dos princípios e descrição de cada um | 11/05 | João e Danilo | 12/05 | Bruno |
+| Metas de usabilidade: definição de metas e identificação de requisitos levantados a partir delas | 12/05 | Arthur Augusto e Gabriel | 13/05 | João |
+| Guia de estilo: definição do objetivo, apresentação do conteúdo do guia | 13/05 | Bruno | 14/05 | Arthur Augusto |
+| Características da plataforma: listagem e explicação de cada característica | 13/05 | Arthur Augusto e João | 14/05 | Gabriel |
+| Gravar apresentação | 15/05 | Arthur Augusto, Bruno, Danilo, Gabriel, João | 16/05 | Arthur Augusto, Bruno, Danilo, Gabriel, João |
 
+Tabela 3: Organização da Entrega 3 (Fonte: autor, 2023).
+
+## Bibliografia
 [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <>. Acesso em: 22 de abril de 2023;
+
+## Histórico de versão
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| --- | --- | --- | --- | --- |
+|  `1.0`   | 24/04/2023 | Criação do cronograma realizado | [Bruno Martins](https://github.com/gitbmvb) | [João Barreto](https://github.com/JoaoBarreto03) |
+|  `1.1`   | 08/05/2023 | Adição da etapa 2 do cronograma realizado | [João Barreto](https://github.com/JoaoBarreto03)| [Bruno Martins](https://github.com/gitbmvb) |
+|  `1.2`   | 15/05/2023 | Adição da etapa 3 do cronograma realizado | [Bruno Martins](https://github.com/gitbmvb) | [Gabriel Souza](https://github.com/GabrielMS00) e [Arthur Augusto](https://github.com/arthur-augusto) |
