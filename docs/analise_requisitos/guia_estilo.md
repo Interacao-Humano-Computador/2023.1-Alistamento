@@ -25,23 +25,17 @@
     - 2.1. Descrição do ambiente de trabalho do usuário
 3. Elementos de interface
     - 3.1. Disposição espacial e grid
-    - 3.2. Janelas
-    - 3.3. Tipografia
-    - 3.4. Símbolos não tipográficos
-    - 3.5. Cores
-    - 3.6. Animações
+    - 3.2. Tipografia
+    - 3.3. Símbolos não tipográficos
+    - 3.4. Cores
 4. Elementos de interação
     - 4.1. Estilos de interação
-    - 4.2. Seleção de um estilo
-    - 4.3. Aceleradores (teclas de atalho)
 5. Elementos de ação
     - 5.1. Preenchimento de campos
     - 5.2. Seleção
-    - 5.3. Ativação
 6. Vocabulário e padrões
     - 6.1. Terminologia
     - 6.2. Tipos de tela (para tarefas comuns)
-    - 6.3. Sequências de diálogos (e.g., para feedback ou confirmação de uma operação)
 
 
 ### 1.3. Público-alvo
@@ -99,7 +93,7 @@
 | <img src="../../img/requisitos/yt.png" width="50" height="50"> | **Youtube**: Link para o canal do Youtube do site. |
 | <img src="../../img/requisitos/pageup.png" width="50" height="50"> | Subir para o topo da página. |
 
-### 3.5. Cores
+### 3.4. Cores
 &emsp;&emsp;As duas únicas cores utilizadas são as seguintes (Figura 3):
 
 - Preto (***#000000***): para textos, header e footer.
@@ -118,11 +112,6 @@
 ## 4. Elementos de interação
 ### 4.1. Estilos de interação
 &emsp;&emsp;O estilo de interação predominante no site do Alistamento Militar é o **comando direto**, pois o usuário interage diretamente com os elementos da interface, sem a necessidade de intermediários.
-
-### 4.2. Seleção de um estilo
-
-
-
 
 ## 5. Elementos de ação
 ### 5.1. Preenchimento de campos
