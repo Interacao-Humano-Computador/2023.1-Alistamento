@@ -28,8 +28,10 @@ nav:
       - Personas: analise_requisitos/personas.md
       - Análise de Tarefas: analise_requisitos/analise_tarefas.md
       - Princípios Gerais do Projeto: analise_requisitos/principios_gerais.md
+      - Características da Plataforma: analise_requisitos/caracteristicas.md
       - Metas de Usabilidade: analise_requisitos/metas_usabilidade.md
       - Guia de Estilo: analise_requisitos/guia_estilo.md
+
     - Apresentações: apresentacoes.md
 theme:
   name: material
