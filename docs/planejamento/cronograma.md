@@ -45,8 +45,8 @@ Tabela 3: Organização da Entrega 3 (Fonte: autor, 2023).
 ### Entrega 04: Planejamentos - Data: 22/05
 | Atividade | Entrega | Autores | Revisão | Revisores |
 |---|---|---|---|---|
-| Planejamento da avaliação do storyboard: Metodologia utilizada, papel dos avaliadores, criação das perguntas e desenvolvimento dos storyboards | 17/05 | Bruno e Gabriel | 17/05 | Bruno e Gabriel |
-| Planejamento do relato dos resultados: listagem de elementos do relato, metodologia, problemas e sugestões | 17/05 | Danilo e João | 17/05 | Arthur Augusto |
+| Planejamento da avaliação do storyboard: Metodologia utilizada, papel dos avaliadores, criação das perguntas e desenvolvimento dos storyboards | 19/05 | Bruno e Gabriel | 19/05 | Bruno e Gabriel |
+| Planejamento do relato dos resultados: listagem de elementos do relato, metodologia, problemas e sugestões | 19/05 | Danilo e João | 19/05 | Arthur Augusto |
 | Planejamento da avaliação de análise de tarefas: Definir a metodologia a ser utilizada para executar o planejamento da análise de tarefas e do teste piloto | 20/05 | João | 20/05 | Danilo |
 | Planejamento do relato dos resultados da avaliação da análise de tarefas: apresentação da metodologia, definição do objetivo, análise dos dados e sugestões| 20/05 | Danilo e Arthur Augusto | 20/05 | João |
 | Gravar apresentação | 21/05 | Bruno | 21/05 | Gabriel |
