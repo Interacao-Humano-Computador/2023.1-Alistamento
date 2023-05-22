@@ -7,7 +7,7 @@ O uso de storyboards é fundamental para auxiliar os desenvolvedores a compreend
 Para essa etapa do projeto, foi criado um storyboard para representar uma possível situação real na qual a utilização do site do Alistamento Militar fosse útil, cumprindo seu objetivo e facilitando a vida de seus usuários.
 
 
-![Storyboard](https://github.com/Interacao-Humano-Computador/2023.1-Alistamento/blob/storyboard---Gabriel/docs/img/requisitos/storyboard.jpg)
+![Storyboard](https://github.com/Interacao-Humano-Computador/2023.1-Alistamento/blob/main/docs/img/requisitos/storyboard.jpg)
 <p>Figura 1: Storyboard. (Fonte: Autor, 2023).</p>
 
 
