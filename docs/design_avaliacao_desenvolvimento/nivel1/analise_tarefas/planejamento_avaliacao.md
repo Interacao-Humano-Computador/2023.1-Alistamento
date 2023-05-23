@@ -1,96 +1,120 @@
+# Planejamento da Avaliação do Storyboard
+
 ## Introdução
+>“A avaliação de IHC é uma atividade fundamental em qualquer processo de desenvolvimento que busque produzir um sistema interativo com alta qualidade de uso. Ela orienta o avaliador a fazer um julgamento de valor sobre a qualidade de uso da solução de IHC e a identificar problemas na interação e na interface que prejudiquem a experiência particular do usuário durante o uso do sistema. Assim, é possível corrigir os problemas relacionados com a qualidade de uso antes de inserir o sistema interativo no cotidiano dos usuários, seja um sistema novo ou uma nova versão de algum sistema existente” (BARBOSA e SILVA, 2011, p. 286).
 
-Na etapa da análise de requisitos foi realizada a análise de tarefas para se obter informações importantes sobre as tarefas executadas pelos usuários, com base no Perfil do Usuário construído na etapa anterior. Com o objetivo de se obter mais detalhes acerca da experiência dos usuários com o site do Alistamento Militar, serão realizadas entrevistas com diferentes pessoas que utilizam esta plataforma. Dessa forma, o avaliador poderá propor melhorias e construir uma nova interface que atenda as necessidades do usuário.
+Este artefato armazena o planejamento da avaliação dos storyboards do site do Alistamento Militar. Compreende-se como storyboard a “**representação visual de uma história através de quadros estáticos, compostos por desenhos, colagens, fotografias ou qualquer outra técnica disponível**”, com a finalidade de “**comunicar uma ideia a terceiros ou para visualizar o encadeamento de uma solução, com o objetivo de se detectar aspectos em aberto no produto ou refinar um serviço final**” (Design thinking: inovação em negócios, Maurício Vianna et al., 2012).
 
-## Planejamento
+Para tanto,  será empregado o framework DECIDE (Sharp, Rogers e Preece, 2007):
 
-Para o planejamento dessa análise de IHC, será utilizado o Framework DECIDE, cujas letras significam:
+- Determinar os objetivos da avaliação de IHC.
+- Explorar perguntas a serem respondidas com a avaliação.
+- Escolher (Choose) os métodos de avaliação a serem utilizados.
+- Identificar e administrar as questões práticas da avaliação.
+- Decidir como lidar com as questões éticas.
+- Avaliar (Evaluate), interpretar e apresentar os dados.
 
-+ D - Determinar os objetivos da avaliação
-+ E - Explorar perguntas dessa avaliação
-+ C - Choose (Escolher) os métodos de avaliação
-+ I - Identificar e administrar as questões práticas de avaliação
-+ D - Decidir como lidar com as questões éticas
-+ E - Evaluate (Avaliar), interpretar e apresentar os dados
+## 1. Objetivos
+O objetivo deste artefato é orientar os membros do grupo 05 de IHC durante a produção dos storyboards referentes ao site do Alistamento Militar, de modo que estes estejam de acordo com a realidade, as tarefas e necessidades de seus usuários.
 
+## 2. Métodos de avaliação
+Será empregado o método de avaliação por **investigação**, porque ele não exige que os usuários utilizem um sistema interativo durante a coleta de dados. Assim, faremos uma **entrevista semiestruturada**, guiada por um **roteiro híbrido**, isto é, com tópicos atuando como lembretes e perguntas de lembrete.
 
-### Determinar os objetivos da avaliação
+## 3. Questões práticas da avaliação
+### 3.1. Recrutamento dos participantes
+Os participantes selecionados serão estudantes dos cursos de engenharia da FGA que se adequam ao [perfil de usuário](../../../analise_requisitos/perfil_do_usuario.md) do nosso projeto. A entrevista poderá ser online ou presencial, durante o horário que melhor ficar para o entrevistador e os entrevistados.
+Serão elaborados 2 storyboards, no qual cada um contará com um entrevistador e dois entrevistados específicos.
 
+### 3.2. Provável cronograma
+As atividades serão realizadas seguindo o cronograma abaixo (Tabela 1):
 
-Essa avaliação tem por objetivo obter informações mais detalhadas sobre: 
-
-+ As interações dos usuários com a plataforma;
-+ Os problemas de interface apresentados;
-+ A concordância com os príncipios gerais de projeto;
-+ A proposição de melhorias de design;
-+ A exploração e implementação de novas tecnologias que facilitem a utilização pelo usuário.
-
-### Explorar perguntas dessa avaliação
-
-As perguntas a serem feitas durante a entrevista estão listadas abaixo:
-
-| Número | Pergunta | Resposta possível | Tipo de pergunta
-| ---- | ---- | ---- | ---- |
-| 1 | Qual seu nome completo? | Discursiva | Fechada
-| 2 | Qual seu nível de escolaridade? | Discursiva | Fechada
-| 3 | Com qual frequência você utiliza as tecnologias de informação (Computadores, celulares, etc.)? | Nenhum - Pouco - Mediano - Muito | Fechada
-| 4 | Você pretende seguir carreira militar? | sim - não | Fechada
-| 5 | O que você sabe sobre o Alistamento Militar? | Discursiva | Fechada
-| 6 | Você possui cadastro no GOV? | sim - não | Fechada
-| 7 | Quais as funcionalidades você pretendia encontrar no site do Alistamento? | Discursiva | Fechada
-| 8 | Você acha o site do Alistamento fácil de utilizar? | Discursiva | Fechada
-| 9 | Você acha que o site oferece o suporte necessário, quanto a explicação das funcionalidades? | Discursiva | Fechada
-| 10 | O design e a estética do site é apresentável? Quais elementos poderiam ser melhorados? | Discursiva | Fechada
+| Data | Horário | Local | Atividade | Autor(es) | Revisor(es) |
+| :-: | - | - | - | - | - |
+| 23/05/2023| 10h | Remoto | Execução do teste piloto | Bruno | Bruno |
+| 23 a 26/05/2023 | Flexível | Presencial/FGA ou remoto | Entrevista com os participantes | Danilo e João | Arthur |
+| 27 e 28 /05/2023 | Flexível | Presencial/FGA ou Remoto | Registro dos resultados no repositório | João | Bruno |
 
 <div style="text-align: center">
-<p> Tabela 1: Questionário para a entrevista da análise de tarefas (Fonte: Autor, 2023).</p>
+<p> Tabela 1: Cronograma das atividades de storyboards. (Fonte: autor, 2023).</p>
 </div>
 
+### 3.3. Equipamentos e recursos necessários
+Para a realização da entrevista, será necessário exibir os storyboards de forma impressa ou virtual. Caso seja virtual, é preciso um dispositivo com tamanho de tela tal que não requererá demasiado esforço do candidato para enxergar.
 
-### Choose (Escolher) os métodos de avaliação
+A entrevista é uma forma de coleta de informações de baixo custo. No entanto, caso haja despesas extras, elas serão divididas entre os integrantes do grupo.
 
-Para esta avaliação será utilizado o método da entrevista, como uma forma de obter informações de usuários reais sobre a interface do site do Alistamento, a partir das perguntas apresentadas no item anterior. A escolha desse método foi pensada visando a análise das opiniões e expectativas do usuário sobre a plataforma em questão, sejam elas negativas ou não, pois a partir do feedback do usuário, é possível propor melhores soluções.
+### 3.4. Teste Piloto
+O objetivo deste teste é avaliar o próprio planejamento, e analisar se a avaliação, tal como planejada, produz os dados necessários para responder a questões e objetivos do estudo. Um dos integrantes do grupo será responsável por conduzir o teste-piloto na data prevista acima como se fosse uma sessão normal de avaliação. Assim, ele terá a oportunidade de verificar se a linguagem nas explicações e nos materiais fornecidos é clara e objetiva, e se esses materiais contêm informações adequadas e suficientes para orientar o participante durante a avaliação.
+Se algum problema for detectado no teste-piloto, o planejamento da avaliação e o material de apoio devem ser corrigidos. Caso sejam feitas muitas mudanças ou o avaliador sinta necessidade, outros testes-pilotos podem ser executados, até que tudo esteja pronto para a realização da avaliação definitiva.
 
-### Identificar e administrar as questões práticas
+## 4. Questões éticas
+As entrevistas seguirão os [aspectos éticos](../../../analise_requisitos/aspectos_eticos.md) definidos anteriormente: autonomia, beneficência, não-maleficência, justiça e equidade.
+Previamente à realização da entrevista, será apresentado ao usuário o termo de consentimento (Apêndice 1). Caso o usuário aceite os termos, daremos prosseguimento à entrevista.
+		
+## 5. Estrutura do relatório
 
-As questões práticas para essa avaliação estão relacionadas com os entrevistados, que são usuários reais da plataforma escolhidos com base nas Personas definidas no processo de análise de requisitos. Dessa forma,  3 pessoas serão entrevistadas para essa avaliação e a gravação deste encontro será realizada pela plataforma Microsoft Teams. As respostas serão coletadas por um dos integrantes do grupo, enquanto o outro será o entrevistador.
+- 5.1 Apresentação: o entrevistador se apresenta e explica o objetivo da entrevista.
+- Parte principal: aplicar o roteiro de perguntas abaixo (Tabela 2). Para cada pergunta, haverá 3 respostas possíveis: “**sim**”, “**não**” ou “**não sei informar**”.  No caso de o entrevistado responder com “não” ou “não sei informar”, o entrevistador deve buscar entender seu ponto de vista, aplicando perguntas adicionais de forma livre e respeitável - sempre anotando as sugestões que surgirem.
+- Conclusão: o entrevistador agradece ao entrevistado pelo seu tempo e disponibilidade, e se coloca à disposição para esclarecer dúvidas sobre o projeto.
 
-|Entrevistador | Entrevistado | Data | Hora 
-| ---- | ---- | ---- | ----
-| João Barreto e Bruno Martins | Fernando Dias | 24/05 | 20h
-| Danilo Carvalho e Arthur Augusto | Ian Costa | 25/05 | 20h
-| Gabriel Marques e João Barreto | Maurício Araújo | 25/05 | 20h
+| Número | Pergunta |
+| :-: | - |
+| 1 | A história apresentada no storyboard é clara e compreensível? |
+| 2 | Os eventos do storyboard seguem uma sequência lógica e coerente? |
+| 3 | As informações essenciais para a compreensão da história estão adequadamente representadas no storyboard?
+| 4 | O storyboard transmite a mensagem e o tema pretendidos de forma eficaz? |
+| 5 | A estrutura visual do storyboard é organizada e fácil de acompanhar? |
+| 6 | Os elementos visuais (como cenários, figurinos e objetos) estão alinhados com a ambientação e contexto da história? |
+| 7 | Os diálogos e balões de fala estão claramente representados e ajudam a compreender a história? |
+| 8 | As ações dos personagens são coerentes com suas características e motivações estabelecidas? |
+
 <div style="text-align: center">
-<p> Tabela 2: Cronograma das entrevistas de análise de tarefas (Fonte: Autor, 2023).</p>
+<p> Tabela 2: Roteiro de perguntas do projeto. (Fonte: autor, 2023).</p>
 </div>
 
+## Apêndice 1
+Termo de Consetimento Livre e Esclarecido da entrevista:
 
-### Decidir como lidar com as questões éticas
+>Termo de Consentimento Livre e Esclarecido
 
-Para que o entrevistado tenha plena consciência daquilo que está participando e para garantir que nenhuma informação do usuário seja manipulada ou utilizada para fins além da pesquisa, será necessário a concordância do seguinte termo de consentimento:
+>Prezado (a) participante,
 
->Esta entrevista está sendo realizada pelo Grupo 5 da disciplina de Interação Humano Computador do curso de Engenharia de Software   da Universidade de Brasília, com o objetivo de contribuir com a análise e desenvolvimento de soluções para a interface do site do Alistamento Militar. As perguntas que serão respondidas pelos entrevistados não serão manipuladas de forma alguma, sendo papel dos entrevistadores apenas colher as informações e analisar quais são os pontos mais críticos da plataforma. Além disso, os entrevistadores irão manter o pleno respeito ao entrevistado durante esse processo e garantir que as respostas não afetem os usuários, mas proponham a construção de uma plataforma mais agradável.
+>Somos a equipe 05 da matéria de Interação Humano-Computador, do semestre 2023.1 sob a orientação do prof. André Barros de Sales. Estamos elaborando uma avaliação de design do site do Alistamento Militar, e nesta etapa, queremos conhecer o que algumas das pessoas que são afetadas pelo sistema pensam a respeito do processo atual e como imaginam que o novo sistema deveria apoiar o seu trabalho.
 
->Dessa forma, você concorda com os termos mencionados
+>Estamos realizando uma série de pesquisas, e solicitamos seu consentimento para a realização e gravação de uma entrevista. Para decidir sobre o seu consentimento, é importante que você conheça as seguintes informações sobre a pesquisa:
 
-> sim [ ]
-> não [ ]
+>- Os dados coletados durante a entrevista destinam-se estritamente a atividades de análise e desenvolvimento do projeto do Alistamento Militar.
 
-### Evaluate (Avaliar), interpretar e apresentar os dados
+>- Nossa equipe tem o compromisso de divulgar os resultados de nossas pesquisas para o cliente. A divulgação desses resultados pauta-se no respeito à sua privacidade, e o anonimato dos participantes será preservado em quaisquer documentos que elaborarmos.
 
-Com todos os dados coletados, será realizada uma avaliação detalhada sobre qual o principal problema apontado, quais as limitações e de que forma elas poderiam ser corrigidas. A partir dessa análise, os dados serão apresentados de forma sintetizada.
+>- O consentimento para a entrevista é uma escolha livre, feita mediante a prestação de todos os esclarecimentos necessários sobre a pesquisa.
 
-### Planejamento do teste piloto
+>- A entrevista pode ser interrompida a qualquer momento, segundo a sua disponibilidade e vontade.
+		
+>De posse dessas informações, gostaríamos que você se pronunciasse acerca da entrevista:
 
-Antes da entrevista, serão testadas a plataforma Teams e todos os elementos integrados, a verificação do site quanto a atualização da página ou sobrecarga do servidor. Para isso, esses critérios serão checados e será realizada uma reunião simulada apenas para teste.
+>( ) Dou meu consentimento para a sua realização.
+
+>( ) Não consinto com a sua realização.
+
+>Brasília-DF, __ de maio de 2023.
+
+>Assinatura do entrevistador:_________________
+
+>Assinatura do entrevistado:_________________
+
 
 ## Bibliografia
-
 BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
-Seidman, Irving (2019). Interviewing as Qualitative Research: A Guide for Researchers in Education and the Social Sciences. Teachers College Press, New York, NY, 5th edition edition.
+
+Planejamento da Avaliação de Storyboards. Disponível em: [https://interacao-humano-computador.github.io/2022.2-Lichess/design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_avaliacao/](https://interacao-humano-computador.github.io/2022.2-Lichess/design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_avaliacao/). Acesso em 07 de abril de 2023. 
+
+Maurício Vianna et al. Design Thinking: Inovação em negócios. Editora MJV Press, Rio de Janeiro, 2012.
 
 ## Histórico de versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-|  `1.0`   | 19/05/2023 | Criação inicial do Planejamento da Análse de Tarefas | [João Barreto](https://github.com/JoaoBarreto03) | [Arthur Augusto](https://github.com/arthur-augusto) |
-|  `1.1`   | 22/05/2023 | Adicionando termo de consentimento atualizado | [João Barreto](https://github.com/JoaoBarreto03) | [Arthur Augusto](https://github.com/arthur-augusto) |
+|  `1.0`   | 20/05/2023 | Criação inicial do documento: adição da introdução, metodologia, objetivos, questões práticas e éticas. | [Bruno Martins](https://github.com/gitbmvb) | [Gabriel Souza](https://github.com/GabrielMS00) |
+|  `1.1`   | 20/05/2023 | Adição do termo de consentimento, cronograma, teste-piloto e estrutura do relatório. | [Bruno Martins](https://github.com/gitbmvb) | [Gabriel Souza](https://github.com/GabrielMS00) |
+|  `1.2`   | 21/05/2023 | Revisão geral do artefato e adição de itens pendentes (bibliografia, lengendas nas tabelas, etc). | [Bruno Martins](https://github.com/gitbmvb) | [Gabriel Souza](https://github.com/GabrielMS00) |
+|  `1.3`   | 22/05/2023 | Consertando a indexação (item 1, 2, 3, etc) e editando o número de storyboards produzidos e o cronograma. | [Bruno Martins](https://github.com/gitbmvb) | [Arthur Augusto](https://github.com/arthur-augusto) |
