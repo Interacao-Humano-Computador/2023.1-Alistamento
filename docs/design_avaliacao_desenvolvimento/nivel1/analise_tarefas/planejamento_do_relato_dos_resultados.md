@@ -1,8 +1,8 @@
-#Planejamento do relato dos resultados:
-##Introdução:
+# Planejamento do relato dos resultados:
+## Introdução:
 O objetivo desse planejamento é organizar a disposição dos dados coletados durante a avaliação da análise de tarefas. Dessa forma, o relato de resultados onde serão levantados pontos de melhoria para site de alistamento militar gerando sugestões de reprojeto pela equipe.
 
-##Metodologia:
+## Metodologia:
 O relato dos resultados será construido sobre os seguintes criterios descritos no livro [1]:
 
 - Objetivo e escopo da avaliação;
@@ -13,13 +13,15 @@ O relato dos resultados será construido sobre os seguintes criterios descritos 
 - Listagem de problemas encontrados;
 - Sugestões de reprojeto do sistema;
 
-##O relato dos resultados da avaliação da Análise de tarefas:
+## O relato dos resultados da avaliação da Análise de tarefas:
 Será documentado sobre os seguintes tópicos:
-###Objetivo e escopo da avaliação:
+
+### Objetivo e escopo da avaliação:
 Onde é preciso ser explicado e mostrado os objetivos alcançados pela avaliação.
 
-###Formato do relato:
+### Formato do relato:
 Descrever qual atividade foi executada para coleta de dados e como a avaliação ocorreu e além disso a construção de uma tabela que possa mostrar com mais detalhe a avaliação.
+
 | Data | Avaliador | Avaliado | Local | Hora |
 | --- | --- | --- | --- | --- |
 
@@ -29,10 +31,10 @@ Em caso de uma entrevista os campos avaliador e avaliado da avaliação seriam s
 A fim de ter uma ideia geral do público entrevistado, deverá ser feito um resumo identificando esses usuários e o possível perfil de cada usuário.
 Para a melhor comprensão será de extrema importancia um resumo sobre os dados coletados para que fique de mais claro e objetivo.
 
-###Análise dos dados:
+### Análise dos dados:
 Aqui irá ser realizado a conclusão dos dados coletados. Um artefato que não deve faltar nessa tópico é a lista de problemas encontrados que deve possuir habilidade de rastreio por categoria.
 
-##Possíveis correções para os problemas encontrados:
+## Possíveis correções para os problemas encontrados:
 Por fim, será feita sugestões de correções para cada um dos problemas identificados, indicando a prioridade de cada uma das correções.
 
 ## Referências 
