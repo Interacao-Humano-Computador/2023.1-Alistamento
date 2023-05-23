@@ -23,14 +23,14 @@ Será empregado o método de avaliação por **investigação**, porque ele não
 ## 3. Questões práticas da avaliação
 ### 3.1. Recrutamento dos participantes
 Os participantes selecionados serão estudantes dos cursos de engenharia da FGA que se adequam ao [perfil de usuário](../../../analise_requisitos/perfil_do_usuario.md) do nosso projeto. A entrevista poderá ser online ou presencial, durante o horário que melhor ficar para o entrevistador e os entrevistados.
-Serão elaborados 5 storyboards, no qual cada um contará com um entrevistador e entrevistado específicos.
+Serão elaborados 2 storyboards, no qual cada um contará com um entrevistador e dois entrevistados específicos.
 
 ### 3.2. Provável cronograma
 As atividades serão realizadas seguindo o cronograma abaixo (Tabela 1):
 
 | Data | Horário | Local | Atividade | Autor(es) | Revisor(es) |
 | :-: | - | - | - | - | - |
-| 22/05/2023| 14h | Remoto | Execução do teste piloto | Bruno | Bruno |
+| 23/05/2023| 10h | Remoto | Execução do teste piloto | Bruno | Bruno |
 | 23 a 26/05/2023 | Flexível | Presencial/FGA ou remoto | Entrevista com os participantes | Danilo e João | Arthur |
 | 27 e 28 /05/2023 | Flexível | Presencial/FGA ou Remoto | Registro dos resultados no repositório | João | Bruno |
 
@@ -38,12 +38,12 @@ As atividades serão realizadas seguindo o cronograma abaixo (Tabela 1):
 <p> Tabela 1: Cronograma das atividades de storyboards. (Fonte: autor, 2023).</p>
 </div>
 
-## 3.3. Equipamentos e recursos necessários
+### 3.3. Equipamentos e recursos necessários
 Para a realização da entrevista, será necessário exibir os storyboards de forma impressa ou virtual. Caso seja virtual, é preciso um dispositivo com tamanho de tela tal que não requererá demasiado esforço do candidato para enxergar.
 
 A entrevista é uma forma de coleta de informações de baixo custo. No entanto, caso haja despesas extras, elas serão divididas entre os integrantes do grupo.
 
-## 3.4 Teste Piloto
+### 3.4. Teste Piloto
 O objetivo deste teste é avaliar o próprio planejamento, e analisar se a avaliação, tal como planejada, produz os dados necessários para responder a questões e objetivos do estudo. Um dos integrantes do grupo será responsável por conduzir o teste-piloto na data prevista acima como se fosse uma sessão normal de avaliação. Assim, ele terá a oportunidade de verificar se a linguagem nas explicações e nos materiais fornecidos é clara e objetiva, e se esses materiais contêm informações adequadas e suficientes para orientar o participante durante a avaliação.
 Se algum problema for detectado no teste-piloto, o planejamento da avaliação e o material de apoio devem ser corrigidos. Caso sejam feitas muitas mudanças ou o avaliador sinta necessidade, outros testes-pilotos podem ser executados, até que tudo esteja pronto para a realização da avaliação definitiva.
 
@@ -117,3 +117,4 @@ Maurício Vianna et al. Design Thinking: Inovação em negócios. Editora MJV Pr
 |  `1.0`   | 20/05/2023 | Criação inicial do documento: adição da introdução, metodologia, objetivos, questões práticas e éticas. | [Bruno Martins](https://github.com/gitbmvb) | [Gabriel Souza](https://github.com/GabrielMS00) |
 |  `1.1`   | 20/05/2023 | Adição do termo de consentimento, cronograma, teste-piloto e estrutura do relatório. | [Bruno Martins](https://github.com/gitbmvb) | [Gabriel Souza](https://github.com/GabrielMS00) |
 |  `1.2`   | 21/05/2023 | Revisão geral do artefato e adição de itens pendentes (bibliografia, lengendas nas tabelas, etc). | [Bruno Martins](https://github.com/gitbmvb) | [Gabriel Souza](https://github.com/GabrielMS00) |
+|  `1.3`   | 22/05/2023 | Consertando a indexação (item 1, 2, 3, etc) e editando o número de storyboards produzidos e o cronograma. | [Bruno Martins](https://github.com/gitbmvb) | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
