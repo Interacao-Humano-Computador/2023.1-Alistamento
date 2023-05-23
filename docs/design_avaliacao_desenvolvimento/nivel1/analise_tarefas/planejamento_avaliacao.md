@@ -58,8 +58,8 @@ As questões práticas para essa avaliação estão relacionadas com os entrevis
 |Entrevistador | Entrevistado | Data | Hora 
 | ---- | ---- | ---- | ----
 | João Barreto e Bruno Martins | Fernando Dias | 24/05 | 20h
-| Danilo Carvalho e Arthur Augusto | --- | 25/05 | 20h
-| Gabriel Marques e João Barreto | --- | 25/05 | 20h
+| Danilo Carvalho e Arthur Augusto | Ian Costa | 25/05 | 20h
+| Gabriel Marques e João Barreto | Maurício Araújo | 25/05 | 20h
 <div style="text-align: center">
 <p> Tabela 2: Cronograma das entrevistas de análise de tarefas (Fonte: Autor, 2023).</p>
 </div>
@@ -69,12 +69,12 @@ As questões práticas para essa avaliação estão relacionadas com os entrevis
 
 Para que o entrevistado tenha plena consciência daquilo que está participando e para garantir que nenhuma informação do usuário seja manipulada ou utilizada para fins além da pesquisa, será necessário a concordância do seguinte termo de consentimento:
 
-* Esta entrevista está sendo realizada pelo Grupo 5 da disciplina de Interação Humano Computador do curso de Engenharia de Software   da Universidade de Brasília, com o objetivo de contribuir com a análise e desenvolvimento de soluções para a interface do site do Alistamento Militar. As perguntas que serão respondidas pelos entrevistados não serão manipuladas de forma alguma, sendo papel dos entrevistadores apenas colher as informações e analisar quais são os pontos mais críticos da plataforma. Além disso, os entrevistadores irão manter o pleno respeito ao entrevistado durante esse processo e garantir que as respostas não afetem os usuários, mas proponham a construção de uma plataforma mais agradável.
+>Esta entrevista está sendo realizada pelo Grupo 5 da disciplina de Interação Humano Computador do curso de Engenharia de Software   da Universidade de Brasília, com o objetivo de contribuir com a análise e desenvolvimento de soluções para a interface do site do Alistamento Militar. As perguntas que serão respondidas pelos entrevistados não serão manipuladas de forma alguma, sendo papel dos entrevistadores apenas colher as informações e analisar quais são os pontos mais críticos da plataforma. Além disso, os entrevistadores irão manter o pleno respeito ao entrevistado durante esse processo e garantir que as respostas não afetem os usuários, mas proponham a construção de uma plataforma mais agradável.
 
-Dessa forma, você concorda com os termos mencionados
+>Dessa forma, você concorda com os termos mencionados
 
-- sim [ ]
-- não [ ]
+> sim [ ]
+> não [ ]
 
 ### Evaluate (Avaliar), interpretar e apresentar os dados
 
@@ -92,5 +92,5 @@ Seidman, Irving (2019). Interviewing as Qualitative Research: A Guide for Resear
 ## Histórico de versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-|  `1.0`   | 15/05/2023 | Criação inicial do guia de estilo | [Bruno Martins](https://github.com/gitbmvb) | [Arthur Augusto](https://github.com/arthur-augusto) |
-|  `1.1`   | 15/05/2023 | Adicionando legenda à tabela de ícones | [Bruno Martins](https://github.com/gitbmvb) | [Gabriel Souza](https://github.com/GabrielMS00) e [Arthur Augusto](https://github.com/arthur-augusto) |
+|  `1.0`   | 19/05/2023 | Criação inicial do Planejamento da Análse de Tarefas | [João Barreto](https://github.com/JoaoBarreto03) | [Arthur Augusto](https://github.com/arthur-augusto) |
+|  `1.1`   | 22/05/2023 | Adicionando termo de consentimento atualizado | [João Barreto](https://github.com/JoaoBarreto03) | [Arthur Augusto](https://github.com/arthur-augusto) |
