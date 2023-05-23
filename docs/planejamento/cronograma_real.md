@@ -40,6 +40,18 @@ Tabela 2: Organização da Entrega 2 (Fonte: autor, 2023).
 
 Tabela 3: Organização da Entrega 3 (Fonte: autor, 2023).
 
+### Entrega 04: Planejamentos - Data: 22/05
+| Atividade | Entrega | Autores | Revisão | Revisores |
+|---|---|---|---|---|
+| Planejamento da avaliação do storyboard: Metodologia utilizada, papel dos avaliadores, criação das perguntas, questões práticas, questões éticas. | 21/05 | Bruno | 21/05 | Gabriel |
+| Desenvolvimento dos storyboards | 21/05 | Gabriel | 21/05 | Bruno |
+| Planejamento do relato dos resultados: listagem de elementos do relato, metodologia, problemas e sugestões | 22/05 | Arthur | 22/05 | João |
+| Planejamento da avaliação de análise de tarefas: Definir a metodologia a ser utilizada para executar o planejamento da análise de tarefas e do teste piloto | 19/05 | João | 20/05 | Arthur |
+| Planejamento do relato dos resultados da avaliação da análise de tarefas: apresentação da metodologia, definição do objetivo, análise dos dados e sugestões| 20/05 | Danilo | 20/05 | João |
+| Gravar apresentação | 22/05 | Arthur, Bruno, Danilo, Gabriel, João. | 22/05 | N/A |
+
+Tabela 4: Organização da Entrega 4 (Fonte: autor, 2023).
+
 ## Bibliografia
 [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <>. Acesso em: 22 de abril de 2023;
 
@@ -49,3 +61,4 @@ Tabela 3: Organização da Entrega 3 (Fonte: autor, 2023).
 |  `1.0`   | 24/04/2023 | Criação do cronograma realizado | [Bruno Martins](https://github.com/gitbmvb) | [João Barreto](https://github.com/JoaoBarreto03) |
 |  `1.1`   | 08/05/2023 | Adição da etapa 2 do cronograma realizado | [João Barreto](https://github.com/JoaoBarreto03)| [Bruno Martins](https://github.com/gitbmvb) |
 |  `1.2`   | 15/05/2023 | Adição da etapa 3 do cronograma realizado | [Bruno Martins](https://github.com/gitbmvb) | [Gabriel Souza](https://github.com/GabrielMS00) e [Arthur Augusto](https://github.com/arthur-augusto) |
+|  `1.2`   | 22/05/2023 | Adição da etapa 4 do cronograma realizado | [Bruno Martins](https://github.com/gitbmvb) | [Gabriel Souza](https://github.com/GabrielMS00) e [Arthur Augusto](https://github.com/arthur-augusto) |
