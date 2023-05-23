@@ -15,11 +15,13 @@ O relato dos resultados será construido sobre os seguintes criterios descritos 
 
 ## O relato dos resultados da avaliação da Análise de tarefas:
 Será documentado sobre os seguintes tópicos:
+
 ### Objetivo e escopo da avaliação:
 Onde é preciso ser explicado e mostrado os objetivos alcançados pela avaliação.
 
 ### Formato do relato:
 Descrever qual atividade foi executada para coleta de dados e como a avaliação ocorreu e além disso a construção de uma tabela que possa mostrar com mais detalhe a avaliação.
+
 | Data | Avaliador | Avaliado | Local | Hora |
 | --- | --- | --- | --- | --- |
 
