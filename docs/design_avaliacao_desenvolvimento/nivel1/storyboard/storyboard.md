@@ -22,4 +22,4 @@ O Storyboard acima (Figura 2) representa um cenário na qual o usuário passa em
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 |  `1.0`   | 21/05/2023 | Criação inicial do documento: Storyboard | [Gabriel Souza](https://github.com/GabrielMS00) | [Bruno Martins](https://github.com/gitbmvb) |
-| `1.1`   | 22/05/2023  |  Atualização: adição do storyboard 2 | [Gabriel Souza](https://github.com/GabrielMS00) | [Bruno Martins](https://github.com/gitbmvb) |
+| `1.1`   | 22/05/2023  |  Atualização: adição do storyboard 2 | [Gabriel Souza](https://github.com/GabrielMS00) | [Arthur Augusto](https://github.com/arthur-augusto) |
