@@ -53,6 +53,39 @@ A tarefa "inscrever-se no processo de alistamento" é uma das principais que os 
 <p> Figura 2: Diagrama HTA para o objetivo "inscrever-se no processo de alistamento". (Fonte: autor, 2023).</p>
 </div>
 
+A tarefa "Acompanhar o alistamento" é uma funcionalidade que permite que o usuário tenha acesso a situação atual do seu processo de alistamento. A Tabela 2 e a Figura 3 exibem a HTA dessa tarefa em seu formato textual e via diagrama, respectivamente.
+
+| Objetivos/Operações | Problemas e recomendações |
+| - | - |
+| 0. Acompanhar Alistamento  | **input**: acesso pelo botão "Acompanhar Alistamento" na tela inicial.<br>**feedback**: Tela com dados do usuário, datas de alistamento e data de emissão do documento correspondente. <br> **plano**: acessar o link para emissão de certificado ou acessar o link para agendar atendimento do candidatos, ambos relacionados a outra página.<br>**recomendação**: Criar botões secundários que permitem que os usuários sejam redirecionados para a atividade que ele quer realizar. |
+| 1. Solicitar certificado | **input**: Abrir o link para solicitação de certificado<br>**feedback**: Dados do requerimento, status e situação do pagamento da taxa de emissão. <br>**plano**: Apenas observação dos dados<br>**recomendação**: Esta funcionalidade poderia estar relacionada apenas com a tarefa de emissão do documento requerido.    Na segunda página, aparece opções de local e data para agendamento  | |
+| 2. Agendar atendimento na junta militar | **input**: Acesso pelo link de agendamento <br> **feedback**: Tela com as opções de seleção do local e da data para atendimento.<br> **plano**: Selecionar o local para o agendamento e a data desejada, de acordo com a disponibilidade. **recomendação**: Esta funcionalidade já está na página principal, não havendo a necessidade dela em forma de um link nessa página. | |
+
+<div style="text-align: center">
+<p> Tabela 2: HTA para o objetivo "Acompanhar o alistamento". (Fonte: autor, 2023).</p>
+</div>
+
+Outra tarefa importante é a de "Encontrar os locais de atendimento", a qual permite que o usuário encontre a junta militar mais próxima para se apresentar e efetivar o alistamento.
+
+| Objetivos/Operações | Problemas e recomendações |
+| - | - |
+| 0. Pesquisar local de atendimento  | **input**: Acesso pelo botão "Locais de Atendimento" na página inicial.<br>**feedback**: Apresentação de todas as juntas disponíveis para o dado pesquisado e mensagem de erro, caso não tenha um município correspondente ao que foi inserido. <br> **plano**:  Barra de pesquisa para ser digitado o município desejado e um botão para pesquisar, com o ícone de uma lupa, além das opções de ir para a próxima página de Juntas Militares, caso hajam mais de 10 na pesquisa realizada.<br>**recomendação**: Deve haver a possibilidade de agendar o atendimento ou tirar dúvidas pelo próprio site, sem necessitar do contato via telefone ou e-mail. |
+| 1. Filtrar lista de locais| **input**: Campo de pesquisa para encontrar algum bairro ou informação do tipo para filtrar os locais já listados na funcionalidade anterior.<br>**feedback**: Resultado dos filtros aplicados a pesquisa. <br>**plano**: Digitar o filtro e encontrar os resultados desejados.<br>**recomendação**: Esta funcionalidade poderia permitir a seleção de bairros como filtro, a partir de um botão com múltiplas escolhas já definidas.  | |
+
+<div style="text-align: center">
+<p> Tabela 3: HTA para o objetivo "Pesquisar local de atendimento". (Fonte: autor, 2023).</p>
+</div> 
+
+A tarefa de "Autenticar certificado" consiste na verificação a autenticidade de um documento a partir de seu registro (RA) e de seu código autenticador.
+
+| Objetivos/Operações | Problemas e recomendações |
+| - | - |
+| 0. Verificar autenticidade  | **input**: Acesso pelo botão "Autenticar Certificado" na página inicial.<br>**feedback**: Diz se o documento é válido ou inválido por meio de uma mensagem na mesma tela. <br> **plano**: Uma barra de pesquisa para ser digitado o registro RA e outra barra para o código autenticador, além do botão "autenticar" para executar a funcionalidade<br>**recomendação**: Deve haver a orientação do formato em que o RA e o código devem ser inseridos. |
+
+<div style="text-align: center">
+<p> Tabela 4: HTA para o objetivo "Autenticar certificado". (Fonte: autor, 2023).</p>
+</div> 
+
 ## 3. GOMS (Goals, Operators, Methods, and Selection Rules)
 O GOMS é um método de analise de tarefas que concede a representação do conhecimento que é necessário para a realização de uma tarefa por parte de um usuário. Estão inclusos nessas representação: <b>goals</b> que são estruturas simbólicas que definem um estado de coisas a ser alcançado e determinam um conjunto de métodos possíveis pelos quais isso pode ser alcançado; <b>operators</b> que são as ações na qual o software permite com que o usuário execute e que estão relacionadas diretamente com o dispositivo em si; <b>methods</b> que são as sequências claras de goals e operators na qual possibilitam o usuário de concluir a tarefa; <b>selection rules</b> que são as regras que o usuário pode seguir para decidir qual método ele irá utilizar para atingir determinada meta (goal).
 
