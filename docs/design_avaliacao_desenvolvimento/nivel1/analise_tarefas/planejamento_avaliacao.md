@@ -56,9 +56,9 @@ As questões práticas para essa avaliação estão relacionadas com os entrevis
 
 |Entrevistador | Entrevistado | Data | Hora 
 | ---- | ---- | ---- | ----
-| João Barreto e Bruno Martins | Fernando Dias | 27/05 | 20h
-| Danilo Carvalho e Arthur Augusto | Ian Costa | 27/05 | 20h
-| Gabriel Marques e João Barreto | Maurício Araújo | 28/05 | 20h
+| João Barreto e Arthur Augusto | Fernando Dias | 27/05 | 20h
+| Danilo Carvalho e João Barreto | Ian Costa | 27/05 | 20h
+| Arthur Augusto e João Barreto | Maurício Araújo | 28/05 | 20h
 | João Barreto e Danilo Carvalho | Guilherme Soares | 28/05 | 20h
 <div style="text-align: center">
 <p> Tabela 2: Cronograma das entrevistas da análise de tarefas (Fonte: Autor, 2023).</p>
@@ -94,3 +94,4 @@ Seidman, Irving (2019). Interviewing as Qualitative Research: A Guide for Resear
 | --- | --- | --- | --- | --- |
 |  `1.0`   | 19/05/2023 | Criação inicial do Planejamento da Análse de Tarefas | [João Barreto](https://github.com/JoaoBarreto03) | [Arthur Augusto](https://github.com/arthur-augusto) |
 |  `1.1`   | 22/05/2023 | Adicionando termo de consentimento atualizado | [João Barreto](https://github.com/JoaoBarreto03) | [Arthur Augusto](https://github.com/arthur-augusto) |
+|  `1.2`   | 26/05/2023 | Modificações para aplicação em modelo conceitual | [João Barreto](https://github.com/JoaoBarreto03) | [Bruno Martins](https://github.com/gitbmvb) |

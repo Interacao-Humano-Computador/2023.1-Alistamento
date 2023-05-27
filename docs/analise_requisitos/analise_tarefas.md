@@ -53,6 +53,8 @@ A tarefa "inscrever-se no processo de alistamento" é uma das principais que os 
 <p> Figura 2: Diagrama HTA para o objetivo "inscrever-se no processo de alistamento". (Fonte: autor, 2023).</p>
 </div>
 
+### 2.2. Análise da tarefa: Acompanhar o alistamento
+
 A tarefa "Acompanhar o alistamento" é uma funcionalidade que permite que o usuário tenha acesso a situação atual do seu processo de alistamento. A Tabela 2 e a Figura 3 exibem a HTA dessa tarefa em seu formato textual e via diagrama, respectivamente.
 
 | Objetivos/Operações | Problemas e recomendações |
@@ -65,6 +67,8 @@ A tarefa "Acompanhar o alistamento" é uma funcionalidade que permite que o usu�
 <p> Tabela 2: HTA para o objetivo "Acompanhar o alistamento". (Fonte: autor, 2023).</p>
 </div>
 
+### 2.3. Análise da tarefa: Encontrar os locais de atendimento
+
 Outra tarefa importante é a de "Encontrar os locais de atendimento", a qual permite que o usuário encontre a junta militar mais próxima para se apresentar e efetivar o alistamento.
 
 | Objetivos/Operações | Problemas e recomendações |
@@ -75,6 +79,8 @@ Outra tarefa importante é a de "Encontrar os locais de atendimento", a qual per
 <div style="text-align: center">
 <p> Tabela 3: HTA para o objetivo "Pesquisar local de atendimento". (Fonte: autor, 2023).</p>
 </div> 
+
+### 2.4. Análise da tarefa: Autenticar certificado
 
 A tarefa de "Autenticar certificado" consiste na verificação a autenticidade de um documento a partir de seu registro (RA) e de seu código autenticador.
 
@@ -108,3 +114,4 @@ Análise de tarefas. Disponível em: <https://github.com/Interacao-Humano-Comput
 | --- | --- | --- | --- | --- |
 |  `1.0`   | 07/05/2023 | Criação inicial do documento: conceitos iniciais e HTA | [Bruno Martins](https://github.com/gitbmvb) e [Gabriel Souza](https://github.com/GabrielMS00) | [João Barreto](https://github.com/JoaoBarreto03) e [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
 |  `1.1`   | 07/05/2023 | Adição da análise GOMS | [Gabriel Souza](https://github.com/GabrielMS00) | [João Barreto](https://github.com/JoaoBarreto03) e [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
+|  `1.2`   | 27/05/2023 | Adição de mais 3 tarefas da análise HTA | [João Barreto](https://github.com/JoaoBarreto03) | [Bruno Martins](https://github.com/gitbmvb) |
