@@ -1,6 +1,6 @@
 ## Introdução
 
-Na etapa da análise de requisitos foi realizada a análise de tarefas para se obter informações importantes sobre as tarefas executadas pelos usuários, com base no Perfil do Usuário construído na etapa anterior. Com o objetivo de se obter mais detalhes acerca da experiência dos usuários com o site do Alistamento Militar, serão realizadas entrevistas com diferentes pessoas que utilizam esta plataforma. Dessa forma, o avaliador poderá propor melhorias e construir uma nova interface que atenda as necessidades do usuário.
+Na etapa da análise de requisitos foi realizada a análise de tarefas para se obter informações importantes sobre as tarefas executadas pelos usuários, com base no Perfil do Usuário construído na etapa anterior. Com o objetivo de se obter mais detalhes acerca das funcionalidades que a atividade de alistamento deve ter, serão realizadas entrevistas com diferentes pessoas que precisam se alistar. Dessa forma, o avaliador poderá propor melhorias e construir uma nova interface que atenda as necessidades do usuário.
 
 ## Planejamento
 
@@ -19,11 +19,12 @@ Para o planejamento dessa análise de IHC, será utilizado o Framework DECIDE, c
 
 Essa avaliação tem por objetivo obter informações mais detalhadas sobre: 
 
-+ As interações dos usuários com a plataforma;
-+ Os problemas de interface apresentados;
-+ A concordância com os príncipios gerais de projeto;
-+ A proposição de melhorias de design;
-+ A exploração e implementação de novas tecnologias que facilitem a utilização pelo usuário.
++ Quais atividades são realizadas no processo de alistamento;
++ Como é feito o acompanhamento do alistamento ;
++ De que forma o usuário pretende encontrar uma Junta Militar
++ Como é emitido um certificado militar;
++ Qual a melhor forma de verificar se o certificado é valido;
++ Quais informações importantes o usuário precisa saber sobre o processo de alistamento.
 
 ### Explorar perguntas dessa avaliação
 
@@ -31,16 +32,14 @@ As perguntas a serem feitas durante a entrevista estão listadas abaixo:
 
 | Número | Pergunta | Resposta possível | Tipo de pergunta
 | ---- | ---- | ---- | ---- |
-| 1 | Qual seu nome completo? | Discursiva | Fechada
-| 2 | Qual seu nível de escolaridade? | Discursiva | Fechada
-| 3 | Com qual frequência você utiliza as tecnologias de informação (Computadores, celulares, etc.)? | Nenhum - Pouco - Mediano - Muito | Fechada
-| 4 | Você pretende seguir carreira militar? | sim - não | Fechada
-| 5 | O que você sabe sobre o Alistamento Militar? | Discursiva | Fechada
-| 6 | Você possui cadastro no GOV? | sim - não | Fechada
-| 7 | Quais as funcionalidades você pretendia encontrar no site do Alistamento? | Discursiva | Fechada
-| 8 | Você acha o site do Alistamento fácil de utilizar? | Discursiva | Fechada
-| 9 | Você acha que o site oferece o suporte necessário, quanto a explicação das funcionalidades? | Discursiva | Fechada
-| 10 | O design e a estética do site é apresentável? Quais elementos poderiam ser melhorados? | Discursiva | Fechada
+| 1 | Com qual frequência você utiliza as tecnologias de informação (Computadores, celulares, etc.)? | Nenhum - Pouco - Mediano - Muito | Fechada
+| 2 | O que você sabe sobre o Alistamento Militar? | Discursiva | Fechada
+| 3 | Você sabe quais os documentos são necessários para a realização do alistamento? | Discursiva | Fechada
+| 4 | Como você pretende encontrar uma junta militar para iniciar o processo? | Discursiva | Fechada
+| 5 | Qual retorno você pretende receber após concluir o processo de alistamento? | Discursiva | Fechada
+| 6 | Após a conclusão da entrada do processo, quais outras questões você gostaria de resolver? | Discursiva | Fechada
+| 7 | De qual maneira você acha mais fácil acompanhar o processo do alistamento? | Discursiva | Fechada
+| 8 | Como você pretende receber os certificados militares? | Discursiva | Fechada
 
 <div style="text-align: center">
 <p> Tabela 1: Questionário para a entrevista da análise de tarefas (Fonte: Autor, 2023).</p>
@@ -49,19 +48,20 @@ As perguntas a serem feitas durante a entrevista estão listadas abaixo:
 
 ### Choose (Escolher) os métodos de avaliação
 
-Para esta avaliação será utilizado o método da entrevista, como uma forma de obter informações de usuários reais sobre a interface do site do Alistamento, a partir das perguntas apresentadas no item anterior. A escolha desse método foi pensada visando a análise das opiniões e expectativas do usuário sobre a plataforma em questão, sejam elas negativas ou não, pois a partir do feedback do usuário, é possível propor melhores soluções.
+Para esta avaliação será utilizado o método da entrevista, como uma forma de obter informações de pessoas reais, que se alistaram esse ano, a partir das perguntas apresentadas no item anterior. A escolha desse método foi pensada visando a análise das opiniões e expectativas dessas pessoas sobre o processo em questão, uma vez que a partir do feedback delas, é possível propor melhores soluções.
 
 ### Identificar e administrar as questões práticas
 
-As questões práticas para essa avaliação estão relacionadas com os entrevistados, que são usuários reais da plataforma escolhidos com base nas Personas definidas no processo de análise de requisitos. Dessa forma,  3 pessoas serão entrevistadas para essa avaliação e a gravação deste encontro será realizada pela plataforma Microsoft Teams. As respostas serão coletadas por um dos integrantes do grupo, enquanto o outro será o entrevistador.
+As questões práticas para essa avaliação estão relacionadas com os entrevistados, que foram escolhidos com base nas Personas definidas no processo de análise de requisitos. Dessa forma, 4 pessoas serão entrevistadas para essa avaliação e a gravação deste encontro será realizada pela plataforma Microsoft Teams. As respostas serão coletadas por um dos integrantes do grupo, enquanto o outro será o entrevistador.
 
 |Entrevistador | Entrevistado | Data | Hora 
 | ---- | ---- | ---- | ----
-| João Barreto e Bruno Martins | Fernando Dias | 24/05 | 20h
-| Danilo Carvalho e Arthur Augusto | Ian Costa | 25/05 | 20h
-| Gabriel Marques e João Barreto | Maurício Araújo | 25/05 | 20h
+| João Barreto e Bruno Martins | Fernando Dias | 27/05 | 20h
+| Danilo Carvalho e Arthur Augusto | Ian Costa | 27/05 | 20h
+| Gabriel Marques e João Barreto | Maurício Araújo | 28/05 | 20h
+| João Barreto e Danilo Carvalho | Guilherme Soares | 28/05 | 20h
 <div style="text-align: center">
-<p> Tabela 2: Cronograma das entrevistas de análise de tarefas (Fonte: Autor, 2023).</p>
+<p> Tabela 2: Cronograma das entrevistas da análise de tarefas (Fonte: Autor, 2023).</p>
 </div>
 
 
@@ -69,20 +69,20 @@ As questões práticas para essa avaliação estão relacionadas com os entrevis
 
 Para que o entrevistado tenha plena consciência daquilo que está participando e para garantir que nenhuma informação do usuário seja manipulada ou utilizada para fins além da pesquisa, será necessário a concordância do seguinte termo de consentimento:
 
->Esta entrevista está sendo realizada pelo Grupo 5 da disciplina de Interação Humano Computador do curso de Engenharia de Software   da Universidade de Brasília, com o objetivo de contribuir com a análise e desenvolvimento de soluções para a interface do site do Alistamento Militar. As perguntas que serão respondidas pelos entrevistados não serão manipuladas de forma alguma, sendo papel dos entrevistadores apenas colher as informações e analisar quais são os pontos mais críticos da plataforma. Além disso, os entrevistadores irão manter o pleno respeito ao entrevistado durante esse processo e garantir que as respostas não afetem os usuários, mas proponham a construção de uma plataforma mais agradável.
+>Esta entrevista está sendo realizada pelo Grupo 5 da disciplina de Interação Humano Computador do curso de Engenharia de Software da Universidade de Brasília, com o objetivo de contribuir com a análise e desenvolvimento de soluções para a interface do site do Alistamento Militar. As perguntas que serão respondidas pelos entrevistados não serão manipuladas de forma alguma, sendo papel dos entrevistadores apenas colher as informações e analisar quais são os pontos mais críticos da plataforma. Além disso, os entrevistadores irão manter o pleno respeito ao entrevistado durante esse processo e garantir que as respostas não afetem os usuários, mas proponham a construção de uma plataforma mais agradável. 
 
->Dessa forma, você concorda com os termos mencionados
+>Dessa forma, você concorda com os termos mencionados e permite que a sua imagem seja utilizada na gravação? 
 
 > sim [ ]
 > não [ ]
 
 ### Evaluate (Avaliar), interpretar e apresentar os dados
 
-Com todos os dados coletados, será realizada uma avaliação detalhada sobre qual o principal problema apontado, quais as limitações e de que forma elas poderiam ser corrigidas. A partir dessa análise, os dados serão apresentados de forma sintetizada.
+Com todos os dados coletados, será realizada uma avaliação detalhada sobre quais as atividades os usuários pretendem realizar no processo de alistamento e de que forma elas poderiam ser transformadas em uma plataforma para melhor atendê-los. A partir dessa análise, os dados serão apresentados de forma sintetizada.
 
 ### Planejamento do teste piloto
 
-Antes da entrevista, serão testadas a plataforma Teams e todos os elementos integrados, a verificação do site quanto a atualização da página ou sobrecarga do servidor. Para isso, esses critérios serão checados e será realizada uma reunião simulada apenas para teste.
+Antes da entrevista, será testada a plataforma Teams, por meio da qual será gravada tal reunião, e verificar se a câmera, o áudio e a gravação estão funcionando corretamente. Para isso, esses critérios serão checados por meio de uma reunião simulada apenas para teste. O teste piloto será realizado no dia 27/05 às 10h da manhã. 
 
 ## Bibliografia
 
