@@ -31,7 +31,7 @@ Essa avaliação tem por objetivo obter informações mais detalhadas sobre:
 As perguntas a serem feitas durante a entrevista estão listadas abaixo:
 
 | Número | Pergunta | Tipo de pergunta
-| ---- | ---- | ---- | ---- |
+| ---- | ---- | ---- 
 | 1 | Com qual frequência você utiliza as tecnologias de informação (Computadores, celulares, etc.)? |Objetiva ---> [] Nenhum - [] Pouco - [] Mediano - [] Muito | 
 | 2 | O que você sabe sobre o Alistamento Militar? | Discursiva | 
 | 3 | Você sabe quais os documentos são necessários para a realização do alistamento? | Discursiva |
@@ -75,13 +75,35 @@ As questões práticas para essa avaliação estão relacionadas com os entrevis
 
 Para que o entrevistado tenha plena consciência daquilo que está participando e para garantir que nenhuma informação do usuário seja manipulada ou utilizada para fins além da pesquisa, será necessário a concordância do seguinte termo de consentimento:
 
->Esta entrevista está sendo realizada pelo Grupo 5 da disciplina de Interação Humano Computador do curso de Engenharia de Software da Universidade de Brasília, com o objetivo de contribuir com a análise e desenvolvimento de soluções para a interface do site do Alistamento Militar. As perguntas que serão respondidas pelos entrevistados não serão manipuladas de forma alguma, sendo papel dos entrevistadores apenas colher as informações e analisar quais são os pontos mais críticos da plataforma. Além disso, os entrevistadores irão manter o pleno respeito ao entrevistado durante esse processo e garantir que as respostas não afetem os usuários, mas proponham a construção de uma plataforma mais agradável. 
+Termo de Consetimento Livre e Esclarecido da entrevista:
 
->Dessa forma, você concorda com os termos mencionados e permite que a sua imagem seja utilizada na gravação? 
+>Termo de Consentimento Livre e Esclarecido
 
-> sim [ ]
-> não [ ]
+>Prezado (a) participante,
 
+>Somos a equipe 05 da matéria de Interação Humano-Computador, do semestre 2023.1 sob a orientação do prof. André Barros de Sales. Estamos elaborando uma avaliação de design do site do Alistamento Militar, e nesta etapa, queremos conhecer o que algumas das pessoas que são afetadas pelo sistema pensam a respeito do processo atual e como imaginam que o novo sistema deveria apoiar o seu trabalho.
+
+>Estamos realizando uma série de pesquisas, e solicitamos seu consentimento para a realização e gravação de uma entrevista. Para decidir sobre o seu consentimento, é importante que você conheça as seguintes informações sobre a pesquisa:
+
+>- Os dados coletados durante a entrevista destinam-se estritamente a atividades de análise e desenvolvimento do projeto do Alistamento Militar.
+
+>- Nossa equipe tem o compromisso de divulgar os resultados de nossas pesquisas para o cliente. A divulgação desses resultados pauta-se no respeito à sua privacidade, e o anonimato dos participantes será preservado em quaisquer documentos que elaborarmos.
+
+>- O consentimento para a entrevista é uma escolha livre, feita mediante a prestação de todos os esclarecimentos necessários sobre a pesquisa.
+
+>- A entrevista pode ser interrompida a qualquer momento, segundo a sua disponibilidade e vontade.
+		
+>De posse dessas informações, gostaríamos que você se pronunciasse acerca da entrevista:
+
+>( ) Dou meu consentimento para a sua realização.
+
+>( ) Não consinto com a sua realização.
+
+>Brasília-DF, __ de maio de 2023.
+
+>Assinatura do entrevistador:_________________
+
+>Assinatura do entrevistado:_________________
 ### Evaluate (Avaliar), interpretar e apresentar os dados
 
 Com todos os dados coletados, será realizada uma avaliação detalhada sobre quais as atividades os usuários pretendem realizar no processo de alistamento e de que forma elas poderiam ser transformadas em uma plataforma para melhor atendê-los. A partir dessa análise, os dados serão apresentados de forma sintetizada.
