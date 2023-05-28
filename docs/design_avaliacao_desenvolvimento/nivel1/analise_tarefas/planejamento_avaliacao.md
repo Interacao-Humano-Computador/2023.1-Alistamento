@@ -30,16 +30,22 @@ Essa avaliação tem por objetivo obter informações mais detalhadas sobre:
 
 As perguntas a serem feitas durante a entrevista estão listadas abaixo:
 
-| Número | Pergunta | Resposta possível | Tipo de pergunta
+| Número | Pergunta | Tipo de pergunta
 | ---- | ---- | ---- | ---- |
-| 1 | Com qual frequência você utiliza as tecnologias de informação (Computadores, celulares, etc.)? | Nenhum - Pouco - Mediano - Muito | Fechada
-| 2 | O que você sabe sobre o Alistamento Militar? | Discursiva | Fechada
-| 3 | Você sabe quais os documentos são necessários para a realização do alistamento? | Discursiva | Fechada
-| 4 | Como você pretende encontrar uma junta militar para iniciar o processo? | Discursiva | Fechada
-| 5 | Qual retorno você pretende receber após concluir o processo de alistamento? | Discursiva | Fechada
-| 6 | Após a conclusão da entrada do processo, quais outras questões você gostaria de resolver? | Discursiva | Fechada
-| 7 | De qual maneira você acha mais fácil acompanhar o processo do alistamento? | Discursiva | Fechada
-| 8 | Como você pretende receber os certificados militares? | Discursiva | Fechada
+| 1 | Com qual frequência você utiliza as tecnologias de informação (Computadores, celulares, etc.)? |Objetiva ---> [] Nenhum - [] Pouco - [] Mediano - [] Muito | 
+| 2 | O que você sabe sobre o Alistamento Militar? | Discursiva | 
+| 3 | Você sabe quais os documentos são necessários para a realização do alistamento? | Discursiva |
+| 4 | Como você pretende encontrar uma junta militar para iniciar o processo? | Discursiva |
+| 5 | Qual retorno você pretende receber após concluir o processo de alistamento? | Discursiva |
+| 6 | Após a conclusão da entrada do processo, quais outras questões você gostaria de resolver? | Discursiva |
+| 7 | De qual maneira você acha mais fácil acompanhar o processo do alistamento? | Discursiva | 
+| 8 | Como você pretende receber os certificados militares? | Discursiva |
+| 9 | Qual foi sua maior dificuldade na hora de executar a tarefa "inscrever-se no processo de alistamento" ? | Discursiva |
+| 10 | A tarefa de "acompanhar o processo de alistamento" atendeu ao que você esperava? | Discursiva 
+| 11 | Na tarefa "encontrar os locais de atendimento" foi fácil encontrar uma junta militar? | Discursiva 
+| 12 | Você teve algum problema na tarefa de "solicitar o certificado de dispensa"? | Discursiva 
+| 13 | Quais foram suas dificuldades na hora de executar a tarefa "Autenticar certificado"? | Discursiva 
+
 
 <div style="text-align: center">
 <p> Tabela 1: Questionário para a entrevista da análise de tarefas (Fonte: Autor, 2023).</p>
