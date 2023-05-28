@@ -36,12 +36,15 @@ nav:
         - Análise de Tarefas:
           - Planejamento da Avaliação da Análise de Tarefas: design_avaliacao_desenvolvimento/nivel1/analise_tarefas/planejamento_avaliacao.md 
           - Planejamento do Relato dos Resultados da Análise de Tarefas: design_avaliacao_desenvolvimento/nivel1/analise_tarefas/planejamento_do_relato_dos_resultados.md
-          # - Relato dos Resultados da Análise de Tarefas: design_avaliacao_desenvolvimento/nivel1/analise_tarefas/relato_resultados.md 
+          - Relato dos Resultados da Análise de Tarefas: design_avaliacao_desenvolvimento/nivel1/analise_tarefas/relato_resultados.md 
         - Storyboard:
           - Planejamento da Avaliação do Storyboard: design_avaliacao_desenvolvimento/nivel1/storyboard/planejamento_avaliacao.md 
           - Planejamento do Relato dos Resultados do Storyboard: design_avaliacao_desenvolvimento/nivel1/storyboard/planejamento_do_relato_dos_resultados.md
-          # - Relato dos Resultados do Storyboard: design_avaliacao_desenvolvimento/nivel1/storyboard/relato_resultados.md
+          - Relato dos Resultados do Storyboard: design_avaliacao_desenvolvimento/nivel1/storyboard/relato_resultados.md
           - Storyboards desenvolvidos: design_avaliacao_desenvolvimento/nivel1/storyboard/storyboard.md
+      - Nível 2:
+        - Planejamento da Avaliação dos Protótipos de Papel: design_avaliacao_desenvolvimento/nivel2/planejamento-avaliacao-prototipo-papel.md
+        - Planejamento do Relato dos Resultados dos Protótipos de Papel: design_avaliacao_desenvolvimento/nivel2/planejamento-relato-avaliacao-prototipo-papel.md
     - Apresentações: apresentacoes.md
 theme:
   name: material
