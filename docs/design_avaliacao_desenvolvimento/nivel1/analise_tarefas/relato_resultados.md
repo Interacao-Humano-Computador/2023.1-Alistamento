@@ -38,4 +38,4 @@ As perguntas a serem feitas durante a entrevista estão listadas abaixo:
 ## Histórico de versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-|  `1.0`   | 19/05/2023 | Criação inicial do Relato da Análse de Tarefas | [João Barreto](https://github.com/JoaoBarreto03) | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
+|  `1.0`   | 19/05/2023 | Criação inicial do Relato da Análise de Tarefas | [João Barreto](https://github.com/JoaoBarreto03) | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |

@@ -57,11 +57,11 @@ Tabela 4: Organização da Entrega 4 (Fonte: autor, 2023).
 
 | Atividade | Entrega | Autores | Revisão | Revisores |
 |---|---|---|---|---|
-| Relato dos resultados do storyboard: apresentação da metodologia, objetivos da avaliação dos storyboards e gravação do teste piloto | 23/05 | Arthur Augusto e João | 23/05 | Bruno |
-| Relato dos resultados da análise de tarefas:  apresentação da metodologia e dos dados coletados. Gravação da entrevista| 25/05 | Gabriel e Danilo | 25/05 | Arthur Augusto |
-| Planejamento da avaliação na prototipação de papel: descrição dos objetivos, metodologias e ferramentas. Listagem dos elementos do protótipo, termo de consentimento e entrevista | 24/05 | Bruno e Gabriel | 24/05 | Danilo |
-| Planejamento do relato de resultados da avaliação na prototipação de papel: Descrição dos elementos do relato, objetivo, metodologia, sugestões | 26/05 | Bruno e Arthur Augusto | 26/05 | João |
-| Gravar apresentação | 28/05 | Bruno | 29/05 | Gabriel |
+| Relato dos resultados do storyboard: apresentação da metodologia, objetivos da avaliação dos storyboards e gravação do teste piloto | 27/05 | Arthur Augusto e Gabriel | 27/05 | Bruno |
+| Relato dos resultados da análise de tarefas:  apresentação da metodologia e dos dados coletados. Gravação da entrevista| 28/05 | João e Danilo | 28/05 | Arthur Augusto |
+| Planejamento da avaliação na prototipação de papel: descrição dos objetivos, metodologias e ferramentas. Listagem dos elementos do protótipo, termo de consentimento e entrevista | 28/05 | Bruno e Gabriel | 28/05 | Danilo |
+| Planejamento do relato de resultados da avaliação na prototipação de papel: Descrição dos elementos do relato, objetivo, metodologia, sugestões | 29/05 | Bruno e Arthur Augusto | 29/05 | João |
+| Gravar apresentação | 29/05 | Bruno | 29/05 | Gabriel |
 
 Tabela 5: Organização da Entrega 5 (Fonte: autor, 2023).
 
