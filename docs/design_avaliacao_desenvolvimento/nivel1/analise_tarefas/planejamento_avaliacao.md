@@ -32,7 +32,7 @@ As perguntas a serem feitas durante a entrevista estão listadas abaixo:
 
 | Número | Pergunta | Tipo de pergunta
 | ---- | ---- | ---- 
-| 1 | Com qual frequência você utiliza as tecnologias de informação (Computadores, celulares, etc.)? |Objetiva ---> [] Nenhum - [] Pouco - [] Mediano - [] Muito | 
+| 1 | Com qual frequência você utiliza as tecnologias de informação (Computadores, celulares, etc.)? |Objetiva<br><br> [ ] Nenhum <br> [ ] Pouco <br> [ ] Mediano <br> [ ] Muito | 
 | 2 | O que você sabe sobre o Alistamento Militar? | Discursiva | 
 | 3 | Você sabe quais os documentos são necessários para a realização do alistamento? | Discursiva |
 | 4 | Como você pretende encontrar uma junta militar para iniciar o processo? | Discursiva |
