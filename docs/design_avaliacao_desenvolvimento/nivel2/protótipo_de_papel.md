@@ -101,3 +101,12 @@ A seguir, temos as imagens do protótipo de realizar o alistamento militar, acom
 
 <p> Imagem 14: requerer segunda via do certificado de dispensa - parte 2 - Clicar no botão Certificados militares (Fonte: Autores, 2023).</p>
 </div>
+
+## Bibliografia
+BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+
+
+## Histórico de versão
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| --- | --- | --- | --- | --- |
+|  `1.0`   | 29/05/2023 | Criação inicial do documento: Protótipo de papel | [Gabriel Souza](https://github.com/GabrielMS00) | [Bruno Martins](https://github.com/gitbmvb) |
