@@ -95,4 +95,4 @@ Conclui-se que é necessário fazer algumas alterações e melhorias no artefato
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 |  `1.0`   | 19/05/2023 | Criação inicial do Relato da Análise de Tarefas | [João Barreto](https://github.com/JoaoBarreto03) | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
-|  `1.0`   | 29/05/2023 | Adição dos relatos feitos e criação de um conclusão para os relatos. | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | [João Barreto (https://github.com/JoaoBarreto03) |
+|  `1.1`   |29/05/2023 | Adição dos relatos feitos e criação de um conclusão para os relatos. | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | [João Barreto](ttps://github.com/JoaoBarreto03)|
