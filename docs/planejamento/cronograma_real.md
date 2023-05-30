@@ -52,6 +52,17 @@ Tabela 3: Organização da Entrega 3 (Fonte: autor, 2023).
 
 Tabela 4: Organização da Entrega 4 (Fonte: autor, 2023).
 
+### Entrega 05: Análise de Requisitos - Data: 29/05
+
+| Atividade | Entrega | Autores | Revisão | Revisores |
+|---|---|---|---|---|
+| Relato dos resultados da análise de tarefas:  apresentação da metodologia e dos dados coletados. Gravação da entrevista| 29/05 | João e Danilo | 29/05 | Arthur Augusto |
+| Planejamento da avaliação na prototipação de papel: descrição dos objetivos, metodologias e ferramentas. Listagem dos elementos do protótipo, termo de consentimento e entrevista | 27/05 | Bruno | 28/05 | Danilo |
+| Planejamento do relato de resultados da avaliação na prototipação de papel: Descrição dos elementos do relato, objetivo, metodologia, sugestões | 28/05 | Bruno | 28/05 | Danilo |
+| Gravar apresentação | 29/05 | Danilo | 29/05 | Gabriel |
+
+Tabela 5: Organização da Entrega 5 (Fonte: autor, 2023).
+
 ## Bibliografia
 [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <>. Acesso em: 22 de abril de 2023;
 
@@ -61,4 +72,5 @@ Tabela 4: Organização da Entrega 4 (Fonte: autor, 2023).
 |  `1.0`   | 24/04/2023 | Criação do cronograma realizado | [Bruno Martins](https://github.com/gitbmvb) | [João Barreto](https://github.com/JoaoBarreto03) |
 |  `1.1`   | 08/05/2023 | Adição da etapa 2 do cronograma realizado | [João Barreto](https://github.com/JoaoBarreto03)| [Bruno Martins](https://github.com/gitbmvb) |
 |  `1.2`   | 15/05/2023 | Adição da etapa 3 do cronograma realizado | [Bruno Martins](https://github.com/gitbmvb) | [Gabriel Souza](https://github.com/GabrielMS00) e [Arthur Augusto](https://github.com/arthur-augusto) |
-|  `1.2`   | 22/05/2023 | Adição da etapa 4 do cronograma realizado | [Bruno Martins](https://github.com/gitbmvb) | [Gabriel Souza](https://github.com/GabrielMS00) e [Arthur Augusto](https://github.com/arthur-augusto) |
+|  `1.3`   | 22/05/2023 | Adição da etapa 4 do cronograma realizado | [Bruno Martins](https://github.com/gitbmvb) | [Gabriel Souza](https://github.com/GabrielMS00) e [Arthur Augusto](https://github.com/arthur-augusto) |
+|  `1.4`   | 29/05/2023 | Adição da etapa 5 do cronograma realizado | [Bruno Martins](https://github.com/gitbmvb) | [Arthur](https://github.com/arthur-augusto), [Gabriel](https://github.com/GabrielMS00), [Danilo](https://github.com/Danilo-Carvalho-Antunes), [João](https://github.com/JoaoBarreto03) |
