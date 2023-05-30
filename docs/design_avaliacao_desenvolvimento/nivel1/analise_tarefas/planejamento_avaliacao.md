@@ -62,10 +62,10 @@ As questões práticas para essa avaliação estão relacionadas com os entrevis
 
 |Entrevistador | Entrevistado | Data | Hora 
 | ---- | ---- | ---- | ----
-| João Barreto e Arthur Augusto | Fernando Dias | 27/05 | 20h
-| Danilo Carvalho e João Barreto | Ian Costa | 27/05 | 20h
-| Arthur Augusto e João Barreto | Maurício Araújo | 28/05 | 20h
-| João Barreto e Danilo Carvalho | Guilherme Soares | 28/05 | 20h
+| Danilo Carvalho e João Barreto | Cauã Nycolas | 28/05 | 13h
+| João Barreto e Danilo Carvalho | Maurício Araújo  | 28/05 | 14h
+| João Barreto e Danilo Carvalho | Arthur Souza | 29/05 | 13h
+
 <div style="text-align: center">
 <p> Tabela 2: Cronograma das entrevistas da análise de tarefas (Fonte: Autor, 2023).</p>
 </div>
