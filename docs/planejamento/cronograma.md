@@ -68,8 +68,11 @@ Tabela 5: Organização da Entrega 5 (Fonte: autor, 2023).
 ### Entrega 06: Verificação de artefatos 1 - Data: 05/06
 | Atividade | Entrega | Autores | Revisão | Revisores |
 |---|---|---|---|---|
-| Planejamento de verificação dos artefatos: cronograma, ferramentas, metodologia, sites avvaliados e processos de design | 31/05 | Arthur Augusto, Bruno, Danilo, Gabriel, João | 01/06 | João e Danilo |
-| Relato da verificação e ajustes nos artefatos | 03/06 | Arthur Augusto, Bruno, Danilo, Gabriel, João | 04/06 | Gabriel e Bruno |
+| Planejamento e execução da avaliação dos artefatos da Etapa 01 do grupo 06: Home page, cronograma, cronograma executado, metolodia, ferramentas e processo de Design. | 02/06 | Bruno Martins | 05/06 | João Barreto |
+| Planejamento e execução da avaliação dos artefatos da Etapa 02 do grupo 06: Perfil do usuário, aspectos éticos de pesquisas envolvendo pessoas, personas e análise de tarefas. | 02/06 | Gabriel Marques | 05/06 | Arthur Augusto |
+| Planejamento e execução da avaliação dos artefatos da Etapa 03 do grupo 06: Princípios gerais de projeto, metas de usabilidade, guia de estilo. | 02/06 | João Barreto | 05/06 | Bruno Martins |
+| Planejamento e execução da avaliação dos artefatos da Etapa 04 do grupo 06: Planejamento da avaliação do storyboard e análise de tarefas, planejamento do relato dos resultados da avaliação do storyboard e o planejamento do relato dos resultados da avaliação do análise de tarefas. | 02/06 | Arthur Augusto | 05/06 | Gabriel Marques |
+| Planejamento e execução da avaliação dos artefatos da Etapa 05 do grupo 06: Relato dos resultados do storyboard e da análise de tarefas, planejamento da avaliação do protótipo de papel e do planejamento do relato dos resultados da avaliação do protótipo de papel.| 02/06 | Danilo Carvalho | 05/06 | Bruno Martins |
 | Gravar apresentação | 04/06 | Bruno | 05/06 | Gabriel |
 
 Tabela 6: Organização da Entrega 6 (Fonte: autor, 2023).
@@ -109,3 +112,4 @@ Tabela 9: Organização da Entrega Final (Fonte: autor, 2023).
 | --- | --- | --- | --- | --- |
 |  `1.0`   | 23/04/2023 | Criação do cronograma | [Bruno Martins](https://github.com/gitbmvb) | [João Barreto](https://github.com/JoaoBarreto03) |
 |  `1.1`   | 08/05/2023 | Detalhamento das descrições das atividades do cronograma | [João Barreto](https://github.com/JoaoBarreto03)| [Bruno Martins](https://github.com/gitbmvb) |
+|  `1.2`   | 05/06/2023 | Aprimorando a descrição das tarefas da Etapa 06. | [Bruno Martins](https://github.com/gitbmvb) | [João Barreto](https://github.com/JoaoBarreto03) |
