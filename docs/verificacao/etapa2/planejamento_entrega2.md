@@ -51,7 +51,7 @@ Tabela 1: Critérios para verificação da Padronização na etapa 2. (Fonte: Au
 | 7 | O perfil do usuário possui: As expectativas quanto ao produto? | |
 | 8 | O perfil do usuário possui: O domínio tecnológico? | |
 | 9 | O perfil do usuário possui: Os idiomas? | |
-| 10 | O perfil do usuário possui: Foram utilizadas no mínimo duas técnicas para colegar dados sobre os requisitos dos usuários (entrevistas, grupos de foco, questionários, brainstorming, classificação de cartões, estudos de campo ou investigação contextual)? | |
+| 10 | Foram utilizadas no mínimo duas técnicas para colegar dados sobre os requisitos dos usuários (entrevistas, grupos de foco, questionários, brainstorming, classificação de cartões, estudos de campo ou investigação contextual)? | |
 
 Tabela 2: Lista de verificação: Perfil do usuário (Fonte: Autor, 2023).
 
