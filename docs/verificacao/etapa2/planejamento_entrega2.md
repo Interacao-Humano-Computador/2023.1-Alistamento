@@ -34,7 +34,7 @@ As perguntas deverão ser respondidas com (sim, não ou incompleto), tudo de for
 | 7 |	O vídeo da apresentação está na categoria "não listado" do youtube? 		| |
 | 8 |	O cronograma desta etapa possui datas de início e fim? 		| |
 | 9 |	Todos os artefatos construídos possuem revisores? 		| |
-| 10 |	Há uma ata de reunião criada para a etapa 3? | |
+| 10 |	Há uma ata de reunião criada para a etapa 2? | |
 
 Tabela 1: Critérios para verificação da Padronização na etapa 2. (Fonte: Autor, 2023).
 
