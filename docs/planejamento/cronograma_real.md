@@ -63,6 +63,18 @@ Tabela 4: Organização da Entrega 4 (Fonte: autor, 2023).
 
 Tabela 5: Organização da Entrega 5 (Fonte: autor, 2023).
 
+### Entrega 06: Verificação de artefatos 1 - Data: 05/06
+| Atividade | Entrega | Autores | Revisão | Revisores |
+|---|---|---|---|---|
+| Planejamento e execução da avaliação dos artefatos da Etapa 01 do grupo 06: Home page, cronograma, cronograma executado, metolodia, ferramentas e processo de Design. | Planejamento: 04/06, Avaliação: 05/06 | Bruno Martins | 05/06 | João Barreto |
+| Planejamento e execução da avaliação dos artefatos da Etapa 02 do grupo 06: Perfil do usuário, aspectos éticos de pesquisas envolvendo pessoas, personas e análise de tarefas. | 05/06 | Gabriel Marques | 05/06 | João Barreto |
+| Planejamento e execução da avaliação dos artefatos da Etapa 03 do grupo 06: Princípios gerais de projeto, metas de usabilidade, guia de estilo. | 04/06 | João Barreto | 04/06 | Bruno Martins |
+| Planejamento e execução da avaliação dos artefatos da Etapa 04 do grupo 06: Planejamento da avaliação do storyboard e análise de tarefas, planejamento do relato dos resultados da avaliação do storyboard e o planejamento do relato dos resultados da avaliação do análise de tarefas. | 05/06 | Arthur Augusto | 05/06 | João e Gabriel |
+| Planejamento e execução da avaliação dos artefatos da Etapa 05 do grupo 06: Relato dos resultados do storyboard e da análise de tarefas, planejamento da avaliação do protótipo de papel e do planejamento do relato dos resultados da avaliação do protótipo de papel.| 04/06 | Danilo Carvalho | 04/06 | João Barreto |
+| Gravar apresentação | 05/06 | Arthur, Bruno, Danilo, Gabriel, João | 05/06 | N/A |
+
+Tabela 6: Organização da Entrega 6 (Fonte: autor, 2023).
+
 ## Bibliografia
 [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <>. Acesso em: 22 de abril de 2023;
 
@@ -74,3 +86,4 @@ Tabela 5: Organização da Entrega 5 (Fonte: autor, 2023).
 |  `1.2`   | 15/05/2023 | Adição da etapa 3 do cronograma realizado | [Bruno Martins](https://github.com/gitbmvb) | [Gabriel Souza](https://github.com/GabrielMS00) e [Arthur Augusto](https://github.com/arthur-augusto) |
 |  `1.3`   | 22/05/2023 | Adição da etapa 4 do cronograma realizado | [Bruno Martins](https://github.com/gitbmvb) | [Gabriel Souza](https://github.com/GabrielMS00) e [Arthur Augusto](https://github.com/arthur-augusto) |
 |  `1.4`   | 29/05/2023 | Adição da etapa 5 do cronograma realizado | [Bruno Martins](https://github.com/gitbmvb) | [Arthur](https://github.com/arthur-augusto), [Gabriel](https://github.com/GabrielMS00), [Danilo](https://github.com/Danilo-Carvalho-Antunes), [João](https://github.com/JoaoBarreto03) |
+|  `1.5`   | 05/06/2023 | Adição da etapa 6 do cronograma realizado | [Bruno Martins](https://github.com/gitbmvb) | [Arthur](https://github.com/arthur-augusto), [Gabriel](https://github.com/GabrielMS00), [Danilo](https://github.com/Danilo-Carvalho-Antunes), [João](https://github.com/JoaoBarreto03) |
