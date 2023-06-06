@@ -35,7 +35,7 @@ Tabela 1: Critérios para verificação da Padronização na entrega 4. (Fonte: 
 |  | Pergunta | Resposta (Sim, Não, Incompleto) |
 |----| ----- | ---- |
 | 1 | O planejamento da avaliação seguiu o Framework DECIDE? |  |
-| 2 | Os objetivos da avaliação foram bem definidos? | Incompleto |
+| 2 | Os objetivos da avaliação foram bem definidos? |  |
 | 3 | As perguntas a serem respondidas foram bem elaboradas? |  |
 | 4 | Foram escolhidos os métodos de avaliação que serão utilizados? |  |
 | 5 | Questões práticas? (quantidade de usários, presencial ou remota, data de realização, recursos, etc.) |  |
@@ -51,13 +51,13 @@ Tabela 2: Critérios para verificação do planejamento da avaliação do Storyb
 
 |  | Pergunta | Resposta (Sim, Não, Incompleto) |
 |----| ----- | ---- |
-| 1 | O planejamento da avaliação seguiu o Framework DECIDE? | Sim |
-| 2 | Os objetivos da avaliação foram bem definidos? | Sim |
-| 3 | As perguntas a serem respondidas foram bem elaboradas? | Não |
-| 4 | Foram escolhidos os métodos de avaliação que serão utilizados? | Sim |
-| 5 | Questões práticas? (quantidade de usários, presencial ou remota, data de realização, recursos, etc.) | Sim |
-| 6 | Questões éticas? (termo de consentimento, referência para documento de aspectos éticos, etc.) | Sim |
-| 7 | É definido quais são as tarefas a serem avaliadas? | Não | 
+| 1 | O planejamento da avaliação seguiu o Framework DECIDE? |  |
+| 2 | Os objetivos da avaliação foram bem definidos? |  |
+| 3 | As perguntas a serem respondidas foram bem elaboradas? |  |
+| 4 | Foram escolhidos os métodos de avaliação que serão utilizados? |  |
+| 5 | Questões práticas? (quantidade de usários, presencial ou remota, data de realização, recursos, etc.) |  |
+| 6 | Questões éticas? (termo de consentimento, referência para documento de aspectos éticos, etc.) |  |
+| 7 | É definido quais são as tarefas a serem avaliadas? |  | 
 | 8 | Definição de um Teste Piloto e a data de sua realização? |  |
 
 Tabela 3: Critérios para verificação do planejamento da avaliação da Análise de Tarefas da entrega 4. (Fonte: Arthur Augusto, 2023).
