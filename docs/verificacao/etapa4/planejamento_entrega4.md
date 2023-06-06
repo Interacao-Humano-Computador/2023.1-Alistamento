@@ -19,7 +19,7 @@ Cada *checklist* está relacionada a uma parte da entrega, e tem como objetivo v
 
 |  | Pergunta | Resposta (Sim, Não, Incompleto) |
 |----| ----- | ---- |
-| 1 | Existe um título para cada página da entrega? | |
+| 1 | Existe um título para cada página da entrega? |  |
 | 2 | Exite uma introdução para cada página da entrega? |  |
 | 3 | As imagens da entrega possuem legendas e fontes? |  |
 | 4 | As tabelas da entrega possuem legendas e fontes? |  |
@@ -27,8 +27,6 @@ Cada *checklist* está relacionada a uma parte da entrega, e tem como objetivo v
 | 6 | Todas as páginas da entrega possuem um histórico de versão padronizado? |  |
 | 7 | As páginas da entrega possuem revisores? |  |
 | 8 | Cronograma da entrega segue um padrão? |  |
-| 9 | O cronograma da entrega possui datas de início e fim? |  |
-
 
 Tabela 1: Critérios para verificação da Padronização na entrega 4. (Fonte: Arthur Augusto, 2023).
 
@@ -37,7 +35,7 @@ Tabela 1: Critérios para verificação da Padronização na entrega 4. (Fonte: 
 |  | Pergunta | Resposta (Sim, Não, Incompleto) |
 |----| ----- | ---- |
 | 1 | O planejamento da avaliação seguiu o Framework DECIDE? |  |
-| 2 | Os objetivos da avaliação foram bem definidos? |  |
+| 2 | Os objetivos da avaliação foram bem definidos? | Incompleto |
 | 3 | As perguntas a serem respondidas foram bem elaboradas? |  |
 | 4 | Foram escolhidos os métodos de avaliação que serão utilizados? |  |
 | 5 | Questões práticas? (quantidade de usários, presencial ou remota, data de realização, recursos, etc.) |  |
@@ -46,7 +44,6 @@ Tabela 1: Critérios para verificação da Padronização na entrega 4. (Fonte: 
 | 8 | Existe um storyboard para cada integrante do grupo? |  |
 | 9 | Cada storyboard está relacionado a apenas uma tarefa? |  |
 | 10 | Definição de um Teste Piloto e a data de sua realização? |  |
-| 11 | É definido a estrutura do relato de resultados da avaliação? |  |
 
 Tabela 2: Critérios para verificação do planejamento da avaliação do Storyboard da entrega 4. (Fonte: Arthur Augusto, 2023).
 
@@ -54,15 +51,14 @@ Tabela 2: Critérios para verificação do planejamento da avaliação do Storyb
 
 |  | Pergunta | Resposta (Sim, Não, Incompleto) |
 |----| ----- | ---- |
-| 1 | O planejamento da avaliação seguiu o Framework DECIDE? |  |
-| 2 | Os objetivos da avaliação foram bem definidos? |  |
-| 3 | As perguntas a serem respondidas foram bem elaboradas? |  |
-| 4 | Foram escolhidos os métodos de avaliação que serão utilizados? |  |
-| 5 | Questões práticas? (quantidade de usários, presencial ou remota, data de realização, recursos, etc.) |  |
-| 6 | Questões éticas? (termo de consentimento, referência para documento de aspectos éticos, etc.) |  |
-| 7 | É definido quais são as tarefas a serem avaliadas? |  | 
+| 1 | O planejamento da avaliação seguiu o Framework DECIDE? | Sim |
+| 2 | Os objetivos da avaliação foram bem definidos? | Sim |
+| 3 | As perguntas a serem respondidas foram bem elaboradas? | Não |
+| 4 | Foram escolhidos os métodos de avaliação que serão utilizados? | Sim |
+| 5 | Questões práticas? (quantidade de usários, presencial ou remota, data de realização, recursos, etc.) | Sim |
+| 6 | Questões éticas? (termo de consentimento, referência para documento de aspectos éticos, etc.) | Sim |
+| 7 | É definido quais são as tarefas a serem avaliadas? | Não | 
 | 8 | Definição de um Teste Piloto e a data de sua realização? |  |
-| 9 | É definido a estrutura do relato de resultados da avaliação? |  |
 
 Tabela 3: Critérios para verificação do planejamento da avaliação da Análise de Tarefas da entrega 4. (Fonte: Arthur Augusto, 2023).
 
