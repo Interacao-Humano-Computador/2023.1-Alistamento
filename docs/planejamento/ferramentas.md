@@ -25,7 +25,7 @@ Logo | Ferramenta | Descrição | Finalidade no projeto |
 | <img src="../../img/icones/zapzap.png" width="50" height="50"> | Whatsapp [14] | O WhatsApp é um aplicativo de mensagens instantâneas popular para smartphones e outros dispositivos móveis. Ele permite que os usuários enviem mensagens de texto, façam chamadas de voz e vídeo, compartilhem fotos, vídeos, documentos e localização em tempo real. | Estabelecer uma comunicação rápida e informal entre os integrantes do grupo, no intuito de discutir ideias, compartilhar arquivos e documentos úteis, combinar horários, etc.
 | <img src="../../img/icones/youtube.svg" width="50" height="50"> | Youtube [15] | O YouTube é uma plataforma de compartilhamento de vídeos online. Ele permite que os usuários carreguem, assistam e compartilhem uma ampla variedade de vídeos em diversos temas e gêneros. | Fazer o upload dos vídeos das apresentações e também das gravações com os participantes das entrevistas (e. g. avaliação dos storyboards, avaliação do protótipo de papel, etc.)
 
-**Tabela 1:** Ferramentas utilizadas no projeto (Fonte: Bruno Martins, 2023).
+**Tabela 1:** Ferramentas utilizadas no projeto (Fonte: MARTINS, Bruno; 2023).
 </center>
 
 ## Bibliografia

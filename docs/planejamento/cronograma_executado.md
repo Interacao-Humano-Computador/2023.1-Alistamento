@@ -23,7 +23,7 @@ Abaixo, na *Tabela 1*, pode ser observado o cronograma realizado da Etapa 1, na 
 
 <center>
 
-**Tabela 1:** Atividades executadas da Etapa 1 (MARTINS, Bruno; BARRETO, João; 2023).
+**Tabela 1:** Atividades executadas da Etapa 1 (Fonte: MARTINS, Bruno; BARRETO, João; 2023).
 
 </center>
 
@@ -40,7 +40,7 @@ Abaixo, na *Tabela 2*, pode ser observado o cronograma realizado da Etapa 2, na 
 
 <center>
 
-**Tabela 2:** Atividades executadas da Etapa 2 (BARRETO, João; 2023).
+**Tabela 2:** Atividades executadas da Etapa 2 (Fonte: BARRETO, João; 2023).
 
 </center>
 
@@ -56,7 +56,7 @@ Abaixo, na *Tabela 3*, pode ser observado o cronograma realizado da Etapa 3, na 
 
 <center>
 
-**Tabela 3:** Atividades executadas da Etapa 3 (MARTINS, Bruno; BARRETO, João; 2023).
+**Tabela 3:** Atividades executadas da Etapa 3 (Fonte: MARTINS, Bruno; BARRETO, João; 2023).
 
 </center>
 
@@ -74,7 +74,7 @@ Abaixo, na *Tabela 4*, pode ser observado o cronograma realizado da Etapa 4, na 
 
 <center>
 
-**Tabela 4:** Atividades executadas da Etapa 4 (MARTINS, Bruno; BARRETO, João; 2023).
+**Tabela 4:** Atividades executadas da Etapa 4 (Fonte: MARTINS, Bruno; BARRETO, João; 2023).
 
 </center>
 
@@ -91,7 +91,7 @@ Abaixo, na *Tabela 5*, pode ser observado o cronograma realizado da Etapa 5, na 
 
 <center>
 
-**Tabela 5:** Atividades executadas da Etapa 5 (MARTINS, Bruno; BARRETO, João; 2023).
+**Tabela 5:** Atividades executadas da Etapa 5 (Fonte: MARTINS, Bruno; BARRETO, João; 2023).
 
 </center>
 
@@ -109,7 +109,7 @@ Abaixo, na *Tabela 6*, pode ser observado o cronograma realizado da Etapa 6, na 
 
 <center>
 
-**Tabela 6:** Atividades executadas da Etapa 6 (MARTINS, Bruno; BARRETO, João; 2023).
+**Tabela 6:** Atividades executadas da Etapa 6 (Fonte: MARTINS, Bruno; BARRETO, João; 2023).
 
 </center>
 
