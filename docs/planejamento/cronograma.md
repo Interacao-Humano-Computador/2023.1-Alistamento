@@ -179,6 +179,8 @@ Abaixo, na *Tabela 10*, pode ser observado o cronograma esperado da Entrega Fina
 ## Bibliografia
 [1] **SALES, André Barros de**. Plano de ensino da disciplina. Disponível [aqui](../plano.pdf). Acesso em: 06 de junho de 2023;
 
+**MACHADO, Maurício; SOUZA, Nícolas**. Lichess: Cronograma. Disponível [aqui](https://interacao-humano-computador.github.io/2022.2-Lichess/planejamento/cronograma/). Acesso em: 08 de junho de 2023.
+
 ## Histórico de versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |

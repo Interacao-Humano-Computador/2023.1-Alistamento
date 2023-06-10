@@ -116,7 +116,7 @@ Abaixo, na *Tabela 6*, pode ser observado o cronograma realizado da Etapa 6, na 
 ## Bibliografia
 [1] **SALES, André Barros de**. Plano de ensino da disciplina. Disponível [aqui](../plano.pdf). Acesso em: 06 de junho de 2023.
 
-**Lichess - Cronograma Executado**. Disponível [aqui](https://interacao-humano-computador.github.io/2022.2-Lichess/planejamento/cronograma_realizado/). Acesso em: 08 de junho de 2023.
+**MACHADO, Maurício; SOUZA, Nícolas; MACÊDO, Lucas**. Lichess: Cronograma Executado. Disponível [aqui](https://interacao-humano-computador.github.io/2022.2-Lichess/planejamento/cronograma_realizado/). Acesso em: 08 de junho de 2023.
 
 ## Histórico de versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |

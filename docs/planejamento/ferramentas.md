@@ -59,7 +59,7 @@ Logo | Ferramenta | Descrição | Finalidade no projeto |
 
 [15] **YouTube**. Disponível em: [https://www.youtube.com/](https://www.youtube.com/). Acesso em: 06 maio 2023.
 
-**Lichess - Ferramentas**. Disponível [aqui](https://interacao-humano-computador.github.io/2022.2-Lichess/planejamento/tools/). Acesso em: 06 de junho de 2023.
+**SOUZA, Nícolas; MACÊDO, Lucas**. Lichess: Ferramentas. Disponível [aqui](https://interacao-humano-computador.github.io/2022.2-Lichess/planejamento/tools/). Acesso em: 06 de junho de 2023.
 
 ## Histórico de versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |

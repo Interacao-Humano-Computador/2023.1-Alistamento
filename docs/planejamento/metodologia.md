@@ -53,6 +53,8 @@ Usando os métodos Scrum e Extreme Programming como inspiração, teremos uma re
 
 **BECK, Kent**. Extreme Programming. Disponível [aqui](http://www.extremeprogramming.org/). Acesso em: 09 de junho de 2023.
 
+**SILVA, Davi; SOUZA, Nícolas**. Liches: Metodologia. Disponível [aqui](https://interacao-humano-computador.github.io/2022.2-Lichess/planejamento/metodologias/). Acesso em: 06 de junho de 2023.
+
 ## Histórico de versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
