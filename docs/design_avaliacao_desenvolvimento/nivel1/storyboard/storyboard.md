@@ -20,9 +20,16 @@ O Storyboard acima (Figura 1) representa um cenário na qual existe um usuário 
 
 O Storyboard acima (Figura 2) representa um cenário na qual o usuário passa em um processo seletivo, mas para assumir a vaga ele necessita da reservista, no entanto, ele não possui tempo nem recursos financeiros para ficar visitando a junta militar varias vezes. Assim, ele utiliza o site do Alistamento Militar Online e simplifica muito o processo, descobrindo que há até a possibilidade de requerer uma segunda via no futuro, assim ele consegue o documento e assume sua vaga desejada.
 
+![Storyboard 3](../../../img/design_avaliacao/storyboard_3.jpg)
+
+<p>Figura 3: Storyboard 3. (Fonte: Autor, 2023)</p>
+
+O terceiro storyboard conta a história de um contratante que se agrada do currículo de uma pessoa chamada Felipe. Mas para realizar a contratação, ele primeiro deve se atentar quanto a veracidade do certificado de dispensa militar, para isso, ele utiliza o site do Alistamento online e faz a requisição de validade utilizado o RA, assim, podendo ter a certeza da originalidade do documento.
+
 ## Histórico de versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 |  `1.0`   | 21/05/2023 | Criação inicial do documento: Storyboard | [Gabriel Souza](https://github.com/GabrielMS00) | [Bruno Martins](https://github.com/gitbmvb) |
 | `1.1`   | 22/05/2023  |  Atualização: adição do storyboard 2 | [Gabriel Souza](https://github.com/GabrielMS00) | [Arthur Augusto](https://github.com/arthur-augusto) |
 | `1.1`   | 22/05/2023  |  Ajustando bug nas imagens | [Bruno Martins](https://github.com/gitbmvb)| [Gabriel Souza](https://github.com/GabrielMS00) e [Arthur Augusto](https://github.com/arthur-augusto) |
+| `1.2`  | 11/06/2023  |  Adição de um novo storyboard (Storyboard 3) | [Gabriel Souza](https://github.com/GabrielMS00) | [João Barreto](https://github.com/JoaoBarreto03)
