@@ -1,6 +1,15 @@
 ## Introdução
 Com o planejamento da análise de tarefas realizado anteriormente, é possível partir para a análise de fato. Dessa forma, como a metodologia escolhida foi a entrevista, nessa fase serão apresentadas todas as informações dadas pelos usuários acerca das tarefas relacionadas ao alistamento militar, que corresponde à ultima fase do Framework DECIDE (Evaluate - Avaliar).
 
+O Framework DECIDE consiste em:
+
++ D - Determinar os objetivos da avaliação
++ E - Explorar perguntas dessa avaliação
++ C - Choose (Escolher) os métodos de avaliação
++ I - Identificar e administrar as questões práticas de avaliação
++ D - Decidir como lidar com as questões éticas
++ E - Evaluate (Avaliar), interpretar e apresentar os dados
+
 ## Objetivo
 
 O Objetivo desse relato é expor todas as dificuldades, críticas e experiências dos usuários com as tarefas do alistamento, a partir das perguntas realizadas durante a entrevista. 
@@ -9,7 +18,7 @@ O Objetivo desse relato é expor todas as dificuldades, críticas e experiência
 
 A metodologia utilizada foi a da entrevista, baseada na investigação. Nesta entrevista, são realizadas 13 perguntas relacionadas ao processo de alistamento com 2 entrevistadores e um entrevistado por vez.
 
-##Participantes
+## Participantes
 Foi encontrada três voluntários, que aceitam fazer a entrevista e que se encaixassem no perfil de usuário definido anteriormente para o sistema. A entrevista teve apenas dois participantes, o entrevistador e o entrevistado. O local de realização da entrevista 01 foi feita online e a entrevista foi gravado. O local da entrevista 02 e 03 foi presencial na FGA e a entrevista foi gravada.
 
 ## Dados:
