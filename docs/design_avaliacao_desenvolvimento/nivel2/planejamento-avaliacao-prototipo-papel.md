@@ -20,7 +20,7 @@ Será empregado o método de avaliação por **investigação**, porque ele não
 
 ## 4. Questões práticas da avaliação
 ### 4.1. Participantes
-Os participantes serão estudantes dos cursos de engenharia da FGA que se adequam ao [perfil de usuário](../../analise_requisitos/perfil_do_usuario.md) do nosso projeto. A entrevista poderá ser online ou presencial, durante o horário que melhor ficar para o entrevistador e os entrevistados. Tentaremos recorrer aos mesmos estudantes que participaram da avaliação dos storyboards e análise de tarefas, caso eles tenham disponibilidade.
+Os participantes serão estudantes dos cursos de engenharia da FGA que se adequam ao [perfil de usuário](../../analise_requisitos/perfil_do_usuario.md) do nosso projeto. A entrevista será virtual, durante o horário que melhor ficar para o entrevistador e os entrevistados. Tentaremos recorrer aos mesmos estudantes que participaram da avaliação dos storyboards e análise de tarefas, caso eles tenham disponibilidade.
 
 Para cada tarefa da [análise de tarefas](../../analise_requisitos/analise_tarefas.md), será elaborado um protótipo de papel. Cada um contará com um entrevistador e 2 entrevistados.
 
