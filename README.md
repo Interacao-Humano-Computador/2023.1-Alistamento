@@ -22,6 +22,8 @@ O [Alistamento Militar](https://alistamento.eb.mil.br/) *(Figura 1)* é um site 
 </center>
 
 ## 4. Colaboradores
+Abaixo, na *Tabela 1*, é possível visualizar os integrantes do grupo 05 de IHC:
+
 <center>
 
 | Foto | Nome | GitHub | 

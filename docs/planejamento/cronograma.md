@@ -137,9 +137,9 @@ Abaixo, na *Tabela 8*, pode ser observado o cronograma esperado da Etapa 7, na q
 
 | Atividade | Período de Entrega *(Início - Fim)* | Autores | Período de Revisão *(Início - Fim)* | Revisores |
 |---|---|---|---|---|
-| Relato dos resultados da prototipação de papel: descrição do objetivo, metodologias e participante, incluindo avaliadores. Explicação do protótipo de papel com imagens | 07/06 - 09/06 | Arthur Augusto e Danilo | 10/06 - 11/06 | Bruno |
-| Planejamento da avaliação do protótipo de alta fidelidade: descrição dos objetivos, metodologia, criação do cronograma de avaliação, recrutamento de participantes, planejamento do teste piloto e papel dos avaliadores | 07/06 - 09/06 | João e Bruno | 10/06 - 11/06 | Gabriel |
-| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade: Apresentação do teste piloto, definição de metodologia, participantes e avaliadores. Apresentação do protótipo de alta fidelidade | 09/06 - 10/06 | Gabriel | 10/06 - 11/06 | Arthur Augusto |
+| Relato dos resultados da prototipação de papel: descrição do objetivo, metodologias e participante, incluindo avaliadores. Explicação do protótipo de papel com imagens | 07/06 - 09/06 | João Barreto e Gabriel | 10/06 - 11/06 | Bruno |
+| Planejamento da avaliação do protótipo de alta fidelidade: descrição dos objetivos, metodologia, criação do cronograma de avaliação, recrutamento de participantes, planejamento do teste piloto e papel dos avaliadores | 07/06 - 09/06 | Arthur Augusto e Bruno | 10/06 - 11/06 | Gabriel |
+| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade: Apresentação do teste piloto, definição de metodologia, participantes e avaliadores. Apresentação do protótipo de alta fidelidade | 09/06 - 10/06 | Danilo | 10/06 - 11/06 | Arthur Augusto |
 | Apresentação: gravação, upload do vídeo, envio do link do vídeo no Aprender3 | 11/06 - 12/06 | Bruno | 12/06  - 12/06 | Gabriel |
 
 <center>
@@ -162,7 +162,7 @@ Abaixo, na *Tabela 9*, pode ser observado o cronograma esperado da Etapa 8, na q
 
 </center>
 
-### Entrega Final
+### 2.9. Entrega Final
 Abaixo, na *Tabela 10*, pode ser observado o cronograma esperado da Entrega Final, na qual, cada atividade conta com uma breve descrição, o período de entrega (com datas de início e fim), os autores, o período de revisão (com datas de início e fim )e os revisores.
 
 | Atividade | Período de Entrega *(Início - Fim)* | Autores | Período de Revisão *(Início - Fim)* | Revisores |
