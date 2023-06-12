@@ -26,6 +26,18 @@ O Storyboard acima (Figura 2) representa um cenário na qual o usuário passa em
 
 O terceiro storyboard conta a história de um contratante que se agrada do currículo de uma pessoa chamada Felipe. Mas para realizar a contratação, ele primeiro deve se atentar quanto a veracidade do certificado de dispensa militar, para isso, ele utiliza o site do Alistamento online e faz a requisição de validade utilizado o RA, assim, podendo ter a certeza da originalidade do documento.
 
+![Storyboard 4](../../../img/design_avaliacao/storyboard3.jpeg)
+
+<p>Figura 4: Storyboard 4. (Fonte: Autor, 2023)</p>
+
+O quarto storboard conta a história de uma pessoa que realizou o seu alistamento e foi chamado para se apresentar em uma junta miilitar. No entanto, o personagem não sabe onde encontrar uma junta, mas lembra que o site do alistamento pode ajudar. Ele pesquisa um lugar mais próximo e se apresenta, quitando seus débitos com o serviço militar.
+
+![Storyboard 5](../../../img/design_avaliacao/storboard4.jpg)
+
+<p>Figura 5: Storyboard 5. (Fonte: Autor, 2023)</p>
+
+O quinto storyboard conta a história de uma pessoa que acabbou de completar 18 anos, se alistou e conseguiu um emprego. No entanto, ao tentar assumir a vaga, a secretária disse que ele estava em débito com o serviço militar e não poderia trabalhar até resolver. O personagem fica triste, mas lembra que no site do alistamento ele consegue acompanhar o processamento. Ao adentrar no site ele percebe que não pagou o boleto. Após realizar o pagamento, ele quita seus débitos e assume a vaga.
+
 ## Histórico de versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
@@ -33,3 +45,4 @@ O terceiro storyboard conta a história de um contratante que se agrada do curr�
 | `1.1`   | 22/05/2023  |  Atualização: adição do storyboard 2 | [Gabriel Souza](https://github.com/GabrielMS00) | [Arthur Augusto](https://github.com/arthur-augusto) |
 | `1.1`   | 22/05/2023  |  Ajustando bug nas imagens | [Bruno Martins](https://github.com/gitbmvb)| [Gabriel Souza](https://github.com/GabrielMS00) e [Arthur Augusto](https://github.com/arthur-augusto) |
 | `1.2`  | 11/06/2023  |  Adição de um novo storyboard (Storyboard 3) | [Gabriel Souza](https://github.com/GabrielMS00) | [João Barreto](https://github.com/JoaoBarreto03)
+| `1.3`  | 11/06/2023  |  Adição de dois novos storyboards (Storyboard 4 e 5) | [João Barreto](https://github.com/JoaoBarreto03) | [Gabriel Souza](https://github.com/GabrielMS00) 
