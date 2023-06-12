@@ -2,6 +2,10 @@
 
 Na etapa da análise de requisitos foi realizada a análise de tarefas para se obter informações importantes sobre as tarefas executadas pelos usuários, com base no Perfil do Usuário construído na etapa anterior. Com o objetivo de se obter mais detalhes acerca das funcionalidades que a atividade de alistamento deve ter, serão realizadas entrevistas com diferentes pessoas que precisam se alistar. Dessa forma, o avaliador poderá propor melhorias e construir uma nova interface que atenda as necessidades do usuário.
 
+## Metodologia
+
+A metodologia utilizada neste planejamento será a entrevista, que consiste em realizar perguntas direcionadas ao tema abordado (neste caso, a análise de tarefas) e coletar as opiniões de usuários reais. A partir dos dados coletados é possível obter informações importantes que auxliarão no desenvolvimento do projeto.
+
 ## Planejamento
 
 Para o planejamento dessa análise de IHC, será utilizado o Framework DECIDE, cujas letras significam:
