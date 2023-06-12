@@ -3,6 +3,9 @@
 O objetivo desse planejamento é organizar a disposição dos dados coletados durante a avaliação da análise de tarefas. Dessa forma, o relato de resultados onde serão levantados pontos de melhoria para site de alistamento militar gerando sugestões de reprojeto pela equipe.
 
 ## Metodologia:
+
+A Metadologia a ser utilizada é a entrevista, que consiste em realizar perguntas aos usuários reais e obter informações importantes que serão utilizadas no planejamento da avaliação.
+
 O relato dos resultados será construido sobre os seguintes criterios descritos no livro [1]:
 
 - Objetivo e escopo da avaliação;

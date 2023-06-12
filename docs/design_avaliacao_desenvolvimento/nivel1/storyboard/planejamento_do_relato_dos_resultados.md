@@ -1,8 +1,13 @@
 # Planejamento do Relato de Resultados da Avaliação do Storyboard
 
-## O que é um Relato de Resultados?
+## Introdução
 
-É um relatório que contém, principalmente, os problemas encontrados na execução da avaliação e sugestões de como resolver esses problemas. Além disso o relato de resultados pode conter elementos importantes sobre a avaliação realizada.
+O relato dos resultados consiste em utilizar os dados coletados na avaliação do storyboard e propor melhorias na execução das tarefas apresentadas nele, levando em consideração a opinião dos usuário. A partir delas, são levados em consideração os erros encontrados na execução da avaliação e sugestões de como resolver esses problemas.
+
+## Metodologia
+
+A Metodologia a ser utilizada é a entrevista, que consiste na realização de perguntas direcionadas ao tema proposto, com o objetivo de colher informações dos usuários, sejam opiniões e neste tópico serão apresentadas as respostas dos entrevistados às perguntas propostas na avaliação do Storyboard. 
+
 
 ## Componentes do Relato de Resultados
 
