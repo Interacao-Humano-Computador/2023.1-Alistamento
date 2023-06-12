@@ -80,9 +80,9 @@ Tabela 6: Organização da Entrega 6 (Fonte: autor, 2023).
 ### Entrega 07: Resultados - Data: 12/06
 | Atividade | Entrega | Autores | Revisão | Revisores |
 |---|---|---|---|---|
-| Relato dos resultados da prototipação de papel: descrição do objetivo, metodologias e participante, incluindo avaliadores. Explicação do protótipo de papel com imagens | 08/06 | Arthur Augusto e Danilo | 10/06 | Bruno |
-| Planejamento da avaliação do protótipo de alta fidelidade: descrição dos objetivos, metodologia, criação do cronograma de avaliação, recrutamento de participantes, planejamento do teste piloto e papel dos avaliadores | 09/06 | João e Bruno | 10/06 | Gabriel |
-| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade: Apresentação do teste piloto, definição de metodologia, participantes e avalidaores. Apresentação do protótipo de alta fidelidade | 10/06 | Gabriel | 10/06 | Arthur Augusto |
+| Relato dos resultados da prototipação de papel: descrição do objetivo, metodologias e participante, incluindo avaliadores. Explicação do protótipo de papel com imagens | 08/06 | João Barreto e Gabriel | 10/06 | Bruno |
+| Planejamento da avaliação do protótipo de alta fidelidade: descrição dos objetivos, metodologia, criação do cronograma de avaliação, recrutamento de participantes, planejamento do teste piloto e papel dos avaliadores | 09/06 | Arthur Augusto e Bruno | 10/06 | Gabriel |
+| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade: Apresentação do teste piloto, definição de metodologia, participantes e avalidaores. Apresentação do protótipo de alta fidelidade | 10/06 | Danilo | 10/06 | Arthur Augusto |
 | Gravar apresentação | 11/06 | Bruno | 12/06 | Gabriel |
 
 Tabela 7: Organização da Entrega 7 (Fonte: autor, 2023).
