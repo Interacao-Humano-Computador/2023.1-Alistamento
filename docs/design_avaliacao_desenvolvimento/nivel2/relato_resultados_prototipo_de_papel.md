@@ -29,6 +29,8 @@ As tarefas realizadas pelos entrevistados foram as seguintes:
 
 ## Primeiro entrevistado
 
+Para acessar a gravação da entrevista, [clique aqui](https://unbbr.sharepoint.com/sites/Grupo05-IHC/_layouts/15/embed.aspx?UniqueId=4824bd5d-3702-453e-872e-74ecbeb98fe3&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create)
+
 | Número da pergunta | Descrição | Resposta |
 | :-: | - | - |
 | 1 | Qual é a primeira impressão que você teve ao ver o protótipo do site? | Um protótipo interessante, gostei |
@@ -47,6 +49,8 @@ As tarefas realizadas pelos entrevistados foram as seguintes:
 
 ## Segundo entrevistado
 
+Para acessar a gravação da entrevista, [clique aqui](https://unbbr.sharepoint.com/sites/Grupo05-IHC/_layouts/15/embed.aspx?UniqueId=29af0aa9-a3fe-4997-ad1f-dd00f9d45e5b&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create)
+
 | Número da pergunta | Descrição | Resposta |
 | :-: | - | - |
 | 1 | Qual é a primeira impressão que você teve ao ver o protótipo do site? | Bem direto para os interesses de quem tá procurando no site |
@@ -64,6 +68,8 @@ As tarefas realizadas pelos entrevistados foram as seguintes:
 | 9.2 |  Que alterações você sugeriria para melhorar a usabilidade e a experiência geral do usuário? | Botões rústicos, deveria ter algo mais moderado na página inicial |
 
 ## Terceiro entrevistado
+
+Para acessar a gravação da entrevista, [clique aqui](https://youtu.be/KZfTmTj7rto)
 
 | Número da pergunta | Descrição | Resposta |
 | :-: | - | - |
@@ -96,3 +102,4 @@ BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 |  `1.0`   | 12/06/2023 | Criação inicial do documento | [Gabriel Souza](https://github.com/GabrielMS00) | [João Barreto](https://github.com/JoaoBarreto03) |
+| `1.1` | 12/06/2023 | Adição dos links para as gravações das entevistas | [Gabriel Souza](https://github.com/GabrielMS00) | [Bruno Martins](https://github.com/gitbmvb)
