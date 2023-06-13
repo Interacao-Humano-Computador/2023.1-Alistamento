@@ -77,8 +77,22 @@ No *Vídeo 6*, foram demonstrados os principais resultados e os artefatos produz
 
 [Link Apresentação 6](https://youtu.be/7__e0bi1azM)
 
+## 2.6. Etapa 07
+No *Vídeo 7*, foram demonstrados os principais resultados e os artefatos produzidos na sétima iteração do projeto.
+
+<center>
+<iframe src="https://drive.google.com/file/d/15MqgBGVCe92QB-Zqs5eGv2HSmu9f1UD9/view?usp=sharing" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+**Vídeo 7:** Apresentação da etapa 7 do projeto. (Fonte: MARTINS, Bruno; 2023).
+
+</center>
+
+Caso não consiga visualizar o vídeo acima, clique neste link abaixo:
+
+[Link Apresentação 7](https://drive.google.com/file/d/15MqgBGVCe92QB-Zqs5eGv2HSmu9f1UD9/view?usp=sharing)
+
 ## Bibliografia
-**Lichess - Apresentações**. Disponível [aqui](https://interacao-humano-computador.github.io/2022.2-Lichess/apresentacoes/). Acesso em: 08 de junho de 2023.
+**MACHADO, Maurício; MACÊDO, Lucas; SOUZA, Nícolas**. Lichess: Apresentações. Disponível [aqui](https://interacao-humano-computador.github.io/2022.2-Lichess/apresentacoes/). Acesso em: 12 de junho de 2023.
 
 ## Histórico de versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
@@ -89,3 +103,4 @@ No *Vídeo 6*, foram demonstrados os principais resultados e os artefatos produz
 |  `1.3`   | 29/05/2023 | Adição do vídeo da apresentação 5. | [Bruno Martins](https://github.com/gitbmvb) | [Arthur](https://github.com/arthur-augusto), [Gabriel](https://github.com/GabrielMS00), [Danilo](https://github.com/Danilo-Carvalho-Antunes), [João](https://github.com/JoaoBarreto03) |
 |  `1.4`   | 05/06/2023 | Adição do vídeo da apresentação 6. | [Bruno Martins](https://github.com/gitbmvb) | [Arthur](https://github.com/arthur-augusto), [Gabriel](https://github.com/GabrielMS00), [Danilo](https://github.com/Danilo-Carvalho-Antunes), [João](https://github.com/JoaoBarreto03) |
 |  `1.5`   | 08/06/2023 | Refatoração: reorganizando a página de acordo com os padrões do repositório. | [Bruno Martins](https://github.com/gitbmvb) | [João](https://github.com/JoaoBarreto03) |
+|  `1.6`   | 12/06/2023 | Adição do vídeo da apresentação 7. | [Bruno Martins](https://github.com/gitbmvb) | [Gabriel](https://github.com/GabrielMS00) e [João](https://github.com/JoaoBarreto03) |
