@@ -68,6 +68,7 @@ nav:
         - Planejamento da verificação da etapa 5: verificacao/etapa5/planejamento_entrega5.md
         - Verificação dos artefatos da etapa 5: verificacao/etapa5/verificacao_entrega5.md
     - Apresentações: apresentacoes.md
+    - Manual de Escrita: manual.md
 theme:
   name: material
   palette:
