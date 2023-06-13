@@ -113,6 +113,22 @@ Abaixo, na *Tabela 6*, pode ser observado o cronograma realizado da Etapa 6, na 
 
 </center>
 
+### 2.7. Etapa 07: Resultados
+Abaixo, na *Tabela 6*, pode ser observado o cronograma realizado da Etapa 7, na qual, cada atividade conta com uma breve descrição, a data da entrega, os autores, a data da revisão, e os revisores.
+
+| Atividade | Período de Entrega *(Início - Fim)* | Autores | Período de Revisão *(Início - Fim)* | Revisores |
+|---|---|---|---|---|
+| Relato dos resultados da prototipação de papel: descrição do objetivo, metodologias e participante, incluindo avaliadores. Explicação do protótipo de papel com imagens | 12/06 | João Barreto e Gabriel | 12/06 | Bruno |
+| Planejamento da avaliação do protótipo de alta fidelidade: descrição dos objetivos, metodologia, criação do cronograma de avaliação, recrutamento de participantes, planejamento do teste piloto e papel dos avaliadores | 12/06 | Bruno | 12/06 | Gabriel |
+| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade: Apresentação do teste piloto, definição de metodologia, participantes e avaliadores. Apresentação do protótipo de alta fidelidade | 12/06 | João | 12/06 | Bruno |
+| Apresentação: gravação, upload do vídeo, envio do link do vídeo no Aprender3 | 12/06 | Bruno | 12/06 | Gabriel |
+
+<center>
+
+**Tabela 7**: Atividades executadas da Etapa 7 (Fonte: MARTINS, Bruno; BARRETO, João; 2023).
+
+</center>
+
 ## Bibliografia
 [1] **SALES, André Barros de**. Plano de ensino da disciplina. Disponível [aqui](../plano.pdf). Acesso em: 06 de junho de 2023.
 
@@ -128,5 +144,6 @@ Abaixo, na *Tabela 6*, pode ser observado o cronograma realizado da Etapa 6, na 
 |  `1.4`   | 29/05/2023 | Adição da etapa 5 do cronograma realizado | [Bruno Martins](https://github.com/gitbmvb) | [Arthur Augusto](https://github.com/arthur-augusto), [Gabriel Souza](https://github.com/GabrielMS00), [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes), [João Barreto](https://github.com/JoaoBarreto03) |
 |  `1.5`   | 05/06/2023 | Adição da etapa 6 do cronograma realizado | [Bruno Martins](https://github.com/gitbmvb) | [Arthur Augusto](https://github.com/arthur-augusto), [Gabriel Souza](https://github.com/GabrielMS00), [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes), [João Barreto](https://github.com/JoaoBarreto03) |
 |  `1.6`   | 08/06/2023 | Refatoração: organização e padronização do documento, além de aprimorar os elementos seguindo os feedbacks do grupo 04. | [Bruno Martins](https://github.com/gitbmvb) | [João Barreto](https://github.com/JoaoBarreto03) |
+|  `1.7`   | 12/06/2023 | Adição da etapa 7 do cronograma realizado | [Bruno Martins](https://github.com/gitbmvb) | [João Barreto](https://github.com/JoaoBarreto03) e [Gabriel Souza](https://github.com/GabrielMS00) |
 
 <!-- Inserir a data de revisão de cada etapa no final -->
