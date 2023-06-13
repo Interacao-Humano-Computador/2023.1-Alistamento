@@ -46,6 +46,9 @@ nav:
         - Planejamento da Avaliação dos Protótipos de Papel: design_avaliacao_desenvolvimento/nivel2/planejamento-avaliacao-prototipo-papel.md
         - Planejamento do Relato dos Resultados dos Protótipos de Papel: design_avaliacao_desenvolvimento/nivel2/planejamento-relato-avaliacao-prototipo-papel.md
         - Protótipos de papel: design_avaliacao_desenvolvimento/nivel2/prototipo_de_papel.md
+      - Nível 3:
+        - Protótipo de Alta Fidelidade:
+          - Planejamento da Avaliação do Protótipo de Alta Fidelidade: design_avaliacao_desenvolvimento/nivel3/planejamento-prototipo-alta-fidelidade.md
     - Verificação:
       - Etapa 1:
         - Planejamento da verificação da etapa 1: verificacao/etapa1/planejamento_entrega1.md
