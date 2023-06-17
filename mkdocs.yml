@@ -49,21 +49,38 @@ nav:
       - Nível 3:
         - Planejamento do Relato dos Resultados do Protótipo de Alta Fidelidade: design_avaliacao_desenvolvimento/nivel3/planejamento_relato_alta_fidelidade.md
     - Verificação:
-      - Etapa 1:
-        - Planejamento da verificação da etapa 1: verificacao/etapa1/planejamento_entrega1.md
-        - Verificação dos artefatos da etapa 1: verificacao/etapa1/verificacao_entrega1.md
-      - Etapa 2:
-        - Planejamento da verificação da etapa 2: verificacao/etapa2/planejamento_entrega2.md
-        - Verificação dos artefatos da etapa 2: verificacao/etapa2/verificacao_entrega2.md
-      - Etapa 3:
-        - Planejamento da verificação da etapa 3: verificacao/etapa3/planejamento_entrega3.md
-        - Verificação dos artefatos da etapa 3: verificacao/etapa3/verificacao_entrega3.md
-      - Etapa 4:
-        - Planejamento da verificação da etapa 4: verificacao/etapa4/planejamento_entrega4.md
-        - Verificação dos artefatos da etapa 4: verificacao/etapa4/verificacao_entrega4.md
-      - Etapa 5:
-        - Planejamento da verificação da etapa 5: verificacao/etapa5/planejamento_entrega5.md
-        - Verificação dos artefatos da etapa 5: verificacao/etapa5/verificacao_entrega5.md
+      - Verificação do Grupo 5:
+        - Etapa 1:
+          - Planejamento da verificação da etapa 1: verificacao/verificacao_5/etapa1/planejamento1.md
+          - Verificação dos artefatos da etapa 1: verificacao/verificacao_5/etapa1/verificacao1.md
+        - Etapa 2:
+          - Planejamento da verificação da etapa 2: verificacao/verificacao_5/etapa2/planejamento2.md
+          - Verificação dos artefatos da etapa 2: verificacao/verificacao_5/etapa2/verificacao2.md
+        - Etapa 3:
+          - Planejamento da verificação da etapa 3: verificacao/verificacao_5/etapa3/planejamento3.md
+          - Verificação dos artefatos da etapa 3: verificacao/verificacao_5/etapa3/verificacao3.md
+        - Etapa 4:
+          - Planejamento da verificação da etapa 4: verificacao/verificacao_5/etapa4/planejamento4.md
+          - Verificação dos artefatos da etapa 4: verificacao/verificacao_5/etapa4/verificacao4.md
+        - Etapa 5:
+          - Planejamento da verificação da etapa 5: verificacao/verificacao_5/etapa5/planejamento5.md
+          - Verificação dos artefatos da etapa 5: verificacao/verificacao_5/etapa5/verificacao5.md
+      - Verificação do Grupo 6:
+        - Etapa 1:
+          - Planejamento da verificação da etapa 1: verificacao/verificacao_6/etapa1/planejamento_entrega1.md
+          - Verificação dos artefatos da etapa 1: verificacao/verificacao_6/etapa1/verificacao_entrega1.md
+        - Etapa 2:
+          - Planejamento da verificação da etapa 2: verificacao/verificacao_6/etapa2/planejamento_entrega2.md
+          - Verificação dos artefatos da etapa 2: verificacao/verificacao_6/etapa2/verificacao_entrega2.md
+        - Etapa 3:
+          - Planejamento da verificação da etapa 3: verificacao/verificacao_6/etapa3/planejamento_entrega3.md
+          - Verificação dos artefatos da etapa 3: verificacao/verificacao_6/etapa3/verificacao_entrega3.md
+        - Etapa 4:
+          - Planejamento da verificação da etapa 4: verificacao/verificacao_6/etapa4/planejamento_entrega4.md
+          - Verificação dos artefatos da etapa 4: verificacao/verificacao_6/etapa4/verificacao_entrega4.md
+        - Etapa 5:
+          - Planejamento da verificação da etapa 5: verificacao/verificacao_6/etapa5/planejamento_entrega5.md
+          - Verificação dos artefatos da etapa 5: verificacao/verificacao_6/etapa5/verificacao_entrega5.md
     - Apresentações: apresentacoes.md
 theme:
   name: material
