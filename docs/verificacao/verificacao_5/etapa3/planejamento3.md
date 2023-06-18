@@ -55,15 +55,15 @@ Neste tópico será planejado a verificação dos princípios gerais do projeto,
 |----| ----- | ---- | ----
 | 1 |   São mostrados os princípios gerais que serão utilizados no processo? | | 		
 | 2 |	Os princípio gerais são aplicados no projeto em questão? | | 		
-| 3 |	O princípio "Correspondência com as expectativas dos usuários" está presente no site do DETRAN-GO? 	 | |	
-| 4 |	O princípio "Simplicidade nas estruturas das tarefas" está presente no site do DETRAN-GO? 		 | |
-| 5 |	O princípio "Equilíbrio entre controle e liberdade do usuário" está presente no site do DETRAN-GO? 	 | |	
-| 6 |	O princípio "Consistência e padronização" está presente no site do DETRAN-GO? 		 | |
-| 7 |	O princípio "Promoção da eficiência do usuário" está presente no site do DETRAN-GO? 	 | |	
-| 8 |	O princípio "Antecipação das necessidades do usuário" está presente no site do DETRAN-GO? 	 | |	
-| 9 |	O princípio "Visibilidade e reconhecimento" está presente no site do DETRAN-GO? 		 | |
-| 10 |	O princípio "Conteúdo relevante e expressão adequada" está presente no site do DETRAN-GO? 	 | |	
-| 11 |	O princípio "Projeto para erros" está presente no site do DETRAN-GO? 	 | |
+| 3 |	O princípio "Correspondência com as expectativas dos usuários" está presente na plataforma? 	 | |	
+| 4 |	O princípio "Simplicidade nas estruturas das tarefas" está presente na plataforma? 		 | |
+| 5 |	O princípio "Equilíbrio entre controle e liberdade do usuário" está presente na plataforma? 	 | |	
+| 6 |	O princípio "Consistência e padronização" está presente na plataforma? 		 | |
+| 7 |	O princípio "Promoção da eficiência do usuário" está presente na plataforma? 	 | |	
+| 8 |	O princípio "Antecipação das necessidades do usuário" está presente na plataforma? 	 | |	
+| 9 |	O princípio "Visibilidade e reconhecimento" está presente na plataforma? 		 | |
+| 10 |	O princípio "Conteúdo relevante e expressão adequada" está presente na plataforma? 	 | |	
+| 11 |	O princípio "Projeto para erros" está presente na plataforma? 	 | |
 
 Tabela 3: Critérios para verificação dos Princípios Gerais do Projeto. (Fonte: João Barreto, 2023).
 
