@@ -1,71 +1,98 @@
 # Apresentações
-Nesta página, podem ser encontrados os vídeos das apresentações do projeto, das etapas 1 a 8.
 
-## Entrega 1
+## 1. Introdução
+Neste documento podem ser encontrados os vídeos das apresentações do projeto, das etapas 1 a 8. Os vídeos foram armazenados na plataforma Youtube, tal como foi especificado nas [ferramentas](planejamento/ferramentas.md) do projeto.
+
+## 2. As Apresentações
+
+## 2.1. Etapa 01
+No *Vídeo 1*, foram demonstrados os principais resultados e os artefatos produzidos na primeira iteração do projeto.
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xdp7TSaSQKo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+**Vídeo 1:** Apresentação da etapa 1 do projeto. (Fonte: MARTINS, Bruno; 2023).
+
 </center>
-<div style="text-align: center">
-Vídeo 1: Apresentação da etapa 1 do projeto. (Fonte: Autores, 2023).
-</div>
 
 [Link da Apresentação 1](https://youtu.be/xdp7TSaSQKo)
 
-## Entrega 2
+## 2.2. Etapa 02
+No *Vídeo 2*, foram demonstrados os principais resultados e os artefatos produzidos na segunda iteração do projeto.
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cbzj50MepgE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+**Vídeo 2:** Apresentação da etapa 2 do projeto. (Fonte: MARTINS, Bruno; 2023).
+
 </center>
-<div style="text-align: center">
-Vídeo 2: Apresentação da etapa 2 do projeto. (Fonte: Autores, 2023).
-</div>
 
 [Link Apresentação 2](https://youtu.be/cbzj50MepgE)
 
-## Entrega 3
+## 2.3. Etapa 03
+No *Vídeo 3*, foram demonstrados os principais resultados e os artefatos produzidos na terceira iteração do projeto.
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4XSKhGRtvl4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+**Vídeo 3:** Apresentação da etapa 3 do projeto. (Fonte: MARTINS, Bruno; 2023).
+
 </center>
-<div style="text-align: center">
-Vídeo 3: Apresentação da etapa 3 do projeto. (Fonte: Autores, 2023).
-</div>
 
 [Link Apresentação 3](https://youtu.be/4XSKhGRtvl4)
 
-## Entrega 4
+## 2.4. Etapa 04
+No *Vídeo 4*, foram demonstrados os principais resultados e os artefatos produzidos na quarta iteração do projeto.
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xxACLi_M18c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+**Vídeo 4:** Apresentação da etapa 4 do projeto. (Fonte: MARTINS, Bruno; 2023).
+
 </center>
-<div style="text-align: center">
-Vídeo 4: Apresentação da etapa 4 do projeto. (Fonte: Autores, 2023).
-</div>
 
 [Link Apresentação 4](https://www.youtube.com/embed/xxACLi_M18c)
 
-## Entrega 5
+## 2.5. Etapa 05
+No *Vídeo 5*, foram demonstrados os principais resultados e os artefatos produzidos na quinta iteração do projeto.
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ouKcZbslUMY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+**Vídeo 5:** Apresentação da etapa 5 do projeto. (Fonte: MARTINS, Bruno; 2023).
+
 </center>
-<div style="text-align: center">
-Vídeo 5: Apresentação da etapa 5 do projeto. (Fonte: Autores, 2023).
-</div>
 
 [Link Apresentação 5](https://youtu.be/ouKcZbslUMY)
 
-## Entrega 6
+## 2.6. Etapa 06
+No *Vídeo 6*, foram demonstrados os principais resultados e os artefatos produzidos na sexta iteração do projeto.
 
 <center>
-<iframe width="560" height="315" src="https://youtu.be/7__e0bi1azM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7__e0bi1azM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+**Vídeo 6:** Apresentação da etapa 6 do projeto. (Fonte: MARTINS, Bruno; 2023).
+
 </center>
-<div style="text-align: center">
-Vídeo 6: Apresentação da etapa 6 do projeto. (Fonte: Autores, 2023).
-</div>
 
 [Link Apresentação 6](https://youtu.be/7__e0bi1azM)
+
+## 2.6. Etapa 07
+No *Vídeo 7*, foram demonstrados os principais resultados e os artefatos produzidos na sétima iteração do projeto.
+
+<center>
+<iframe src="https://drive.google.com/file/d/15MqgBGVCe92QB-Zqs5eGv2HSmu9f1UD9/view?usp=sharing" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+**Vídeo 7:** Apresentação da etapa 7 do projeto. (Fonte: MARTINS, Bruno; 2023).
+
+</center>
+
+Caso não consiga visualizar o vídeo acima, clique neste link abaixo:
+
+[Link Apresentação 7](https://drive.google.com/file/d/15MqgBGVCe92QB-Zqs5eGv2HSmu9f1UD9/view?usp=sharing)
+
+## Bibliografia
+**MACHADO, Maurício; MACÊDO, Lucas; SOUZA, Nícolas**. Lichess: Apresentações. Disponível [aqui](https://interacao-humano-computador.github.io/2022.2-Lichess/apresentacoes/). Acesso em: 12 de junho de 2023.
 
 ## Histórico de versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
@@ -75,3 +102,5 @@ Vídeo 6: Apresentação da etapa 6 do projeto. (Fonte: Autores, 2023).
 |  `1.2`   | 22/05/2023 | Adição do vídeo da apresentação 4. | [Bruno Martins](https://github.com/gitbmvb) | [Gabriel Souza](https://github.com/GabrielMS00) e [Arthur Augusto](https://github.com/arthur-augusto) |
 |  `1.3`   | 29/05/2023 | Adição do vídeo da apresentação 5. | [Bruno Martins](https://github.com/gitbmvb) | [Arthur](https://github.com/arthur-augusto), [Gabriel](https://github.com/GabrielMS00), [Danilo](https://github.com/Danilo-Carvalho-Antunes), [João](https://github.com/JoaoBarreto03) |
 |  `1.4`   | 05/06/2023 | Adição do vídeo da apresentação 6. | [Bruno Martins](https://github.com/gitbmvb) | [Arthur](https://github.com/arthur-augusto), [Gabriel](https://github.com/GabrielMS00), [Danilo](https://github.com/Danilo-Carvalho-Antunes), [João](https://github.com/JoaoBarreto03) |
+|  `1.5`   | 08/06/2023 | Refatoração: reorganizando a página de acordo com os padrões do repositório. | [Bruno Martins](https://github.com/gitbmvb) | [João](https://github.com/JoaoBarreto03) |
+|  `1.6`   | 12/06/2023 | Adição do vídeo da apresentação 7. | [Bruno Martins](https://github.com/gitbmvb) | [Gabriel](https://github.com/GabrielMS00) e [João](https://github.com/JoaoBarreto03) |
