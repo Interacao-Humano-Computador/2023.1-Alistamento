@@ -1,4 +1,5 @@
-## Introdução
+# Verificação dos artefatos da entrega 3
+## 1. Introdução
 
 Nesta etapa serão verificados os artefatos produzidos para entrega 3 da disciplina de Interação Humano-Computador. Dessa forma, esta etapa tem como objetivo verificar a conformidade daquilo que foi produzido com o que é proposto pela disciplina de IHC e se estes artefatos foram padronizados [1].
 
@@ -10,9 +11,9 @@ Os artefatos produzidos pelo grupo para a entrega 3 são:
 + Guia de Estilo.
  
 Antes de partir para os artefatos em si, será verificada a padronização deles.
-## Planejamento da Verificação
+## 2. Planejamento da Verificação
 
-### Padronização
+### 2.1. Padronização
 
 Para a verificação dos artefatos produzidos, serão utilizadas uma série de perguntas, com o intuito de verificar a padronização e a consistência do que foi entregue. Assim, essas perguntas serão respondidas de maneira objetiva, como se fosse uma lista de checagem. As perguntas a serem respondidas são:
 
@@ -30,7 +31,7 @@ Para a verificação dos artefatos produzidos, serão utilizadas uma série de p
 | 10 |	Há uma ata de reunião criada para a etapa 3? | Sim |
 
 Tabela 1: Critérios para verificação da Padronização na etapa 3. (Fonte: João Barreto, 2023).
-### Características da plataforma
+### 2.2. Características da plataforma
 
 Para a realização da verificação das características da plataforma, foram levantadas as seguintes questões a partir do site do DETRAN-GO:
 
@@ -44,7 +45,7 @@ Para a realização da verificação das características da plataforma, foram l
 | 6 | São analisadas as limitações da página? | Sim | 
 
 Tabela 2: Critérios para verificação das Características da Plataforma. (Fonte: João Barreto, 2023).
-### Princípios Gerais de Projeto
+### 2.3. Princípios Gerais de Projeto
 
 Neste tópico será planejado a verificação dos princípios gerais do projeto, a partir das perguntas abaixo:  
 
@@ -64,7 +65,7 @@ Neste tópico será planejado a verificação dos princípios gerais do projeto,
 
 Tabela 3: Critérios para verificação dos Princípios Gerais do Projeto. (Fonte: João Barreto, 2023).
 
-### Metas de Usabilidade
+### 2.4. Metas de Usabilidade
 
 Com base nas metas de usabilidade propostas pela disciplina de Interação Humano-Computador, devem ser verificados os seguintes critérios:
 
@@ -79,7 +80,7 @@ Com base nas metas de usabilidade propostas pela disciplina de Interação Human
 Tabela 4: Critérios para verificação das Metas de Usabilidade. (Fonte: João Barreto, 2023).
 
 
-### Guia de Estilo
+### 2.5. Guia de Estilo
 
 O guia de estilo é de extrema importância na verificação do design, da interação e das ações presentes na plataforma. Por esse motivo, o guia deve atender aos critérios abaixo:
 
@@ -104,4 +105,4 @@ Tabela 5: Critérios para verificação do Guia de Estilo. (Fonte: João Barreto
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-|  `1.0`   | 03/06/2023 | Criação inicial do Planejamento da Verificação dos Artefatos da entrega 3 feita pelo Grupo 6 | [João Barreto](https://github.com/JoaoBarreto03) | [Arthur Augusto](https://github.com/arthur-augusto)  [Bruno Martins](https://github.com/gitbmvb)|
+|  `1.0`   | 03/06/2023 | Criação inicial da Verificação dos Artefatos da entrega 3 | [João Barreto](https://github.com/JoaoBarreto03) | [Arthur Augusto](https://github.com/arthur-augusto)  [Bruno Martins](https://github.com/gitbmvb)|
