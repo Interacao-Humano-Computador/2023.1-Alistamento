@@ -46,7 +46,7 @@ Tabela 2: Critérios para verificação do relato dos resultados do Storyboard. 
 |Número| Pergunta | Resposta (sim, não, incompleto) | Observação
 |----| ----- | ---- | ----
 | 1 | O artefato apresenta as perguntas a serem respondidas com a avaliação?| Sim | 		
-| 2 |	O artefato apresenta as questões práticas da avaliação? | Não | 		
+| 2 |	O artefato apresenta as questões práticas da avaliação? | Sim | 		
 | 3 |	O artefato apresenta a entrevista da avaliação gravada?	 | Não |	
 | 4 | O artefato apresenta os resultados para análise? | Sim |
 | 5 |	O artefato mostra como foi realizada a entrevista?	 | Sim |	
@@ -95,3 +95,6 @@ Resultados da Verificação - PC 5. Disponível em : [https://interacao-humano-c
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 |  `1.0`   | 19/06/2023 | Criação do Verificação dos Artefatos da entrega 5 | [Danilo Carvalho Antunes](https://github.com/Danilo-Carvalho-Antunes) | [João Barreto](https://github.com/JoaoBarreto03) & [Bruno Martins](https://github.com/gitbmvb)|
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| --- | --- | --- | --- | --- |
+|  `1.1`   | 19/06/2023 | Correção de um pergunta que estava errada | [Danilo Carvalho Antunes](https://github.com/Danilo-Carvalho-Antunes) | [João Barreto](https://github.com/JoaoBarreto03) & [Bruno Martins](https://github.com/gitbmvb)|
