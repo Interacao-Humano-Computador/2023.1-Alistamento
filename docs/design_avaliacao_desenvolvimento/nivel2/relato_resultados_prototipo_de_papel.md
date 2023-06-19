@@ -19,6 +19,8 @@ as entrevistas foram realizadas com 3 deferentes pessoas, todas elas conhecem o 
 e objetivos pessoais que gostariam de ver no site. Todos os selecionados para a entrevistas são do sexo masculino, estudantes da UnB e consentiram
 em disponibilizar suas imagens, áudio e nome ao público afim de ajudar na pesquisa.
 
+As entrevistas foram todas realizadas de forma online pela plataforma Microsft Teams, feitas no dia 10 de junho as 00:06 , dia 10 de junho as 20:20 e dia 12 as 01:22 respectivamente .
+
 As tarefas realizadas pelos entrevistados foram as seguintes:
 - Realizar o alistamento militar
 - Acompanhar o alistamento
@@ -27,7 +29,7 @@ As tarefas realizadas pelos entrevistados foram as seguintes:
 
 ## Resultados obtidos
 
-## Primeiro entrevistado
+## Primeiro entrevistado - Arthur da Silveira
 
 Para acessar a gravação da entrevista, [clique aqui](https://unbbr.sharepoint.com/sites/Grupo05-IHC/_layouts/15/embed.aspx?UniqueId=4824bd5d-3702-453e-872e-74ecbeb98fe3&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create)
 
@@ -47,7 +49,7 @@ Para acessar a gravação da entrevista, [clique aqui](https://unbbr.sharepoint.
 | 9.1 | Você sente que o site é fácil de usar e proporciona uma experiência agradável? | Ao meu ver está tranquilo, por enquanto |
 | 9.2 |  Que alterações você sugeriria para melhorar a usabilidade e a experiência geral do usuário? | A utilização de pop-ups na interface |
 
-## Segundo entrevistado
+## Segundo entrevistado - Mauricio Ferreira
 
 Para acessar a gravação da entrevista, [clique aqui](https://unbbr.sharepoint.com/sites/Grupo05-IHC/_layouts/15/embed.aspx?UniqueId=29af0aa9-a3fe-4997-ad1f-dd00f9d45e5b&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create)
 
@@ -67,7 +69,7 @@ Para acessar a gravação da entrevista, [clique aqui](https://unbbr.sharepoint.
 | 9.1 | Você sente que o site é fácil de usar e proporciona uma experiência agradável? | Só o visual, parte de design |
 | 9.2 |  Que alterações você sugeriria para melhorar a usabilidade e a experiência geral do usuário? | Botões rústicos, deveria ter algo mais moderado na página inicial |
 
-## Terceiro entrevistado
+## Terceiro entrevistado - Danilo Neves
 
 Para acessar a gravação da entrevista, [clique aqui](https://youtu.be/KZfTmTj7rto)
 
@@ -103,3 +105,4 @@ BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, 
 | --- | --- | --- | --- | --- |
 |  `1.0`   | 12/06/2023 | Criação inicial do documento | [Gabriel Souza](https://github.com/GabrielMS00) | [João Barreto](https://github.com/JoaoBarreto03) |
 | `1.1` | 12/06/2023 | Adição dos links para as gravações das entevistas | [Gabriel Souza](https://github.com/GabrielMS00) | [Bruno Martins](https://github.com/gitbmvb)
+| `2.0` | 12/06/2023 | Consertos feitos com base na verificação do artefato | [Danilo Carvalho Antunes](https://github.com/Danilo-Carvalho-Antunes) | [Bruno Martins](https://github.com/gitbmvb)
