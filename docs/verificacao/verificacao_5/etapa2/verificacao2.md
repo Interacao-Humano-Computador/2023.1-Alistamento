@@ -99,6 +99,6 @@ para que cheguemos em uma entrega final com os artefatos mais refinados possíve
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-|  `1.0`   | 19/06/2023 | Criação inicial da Verificação dos Artefatos da entrega 2 | [Gabriel Souza](https://github.com/GabrielMS00) | [Bruno Martins](https://github.com/gitbmvb) |
+|  `1.0`   | 19/06/2023 | Criação inicial da Verificação dos Artefatos da entrega 2 | [Gabriel Souza](https://github.com/GabrielMS00) | [Arthur Augusto](https://github.com/arthur-augusto) |
 
 
