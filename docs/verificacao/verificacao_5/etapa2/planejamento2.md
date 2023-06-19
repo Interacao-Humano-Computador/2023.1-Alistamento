@@ -108,4 +108,4 @@ Tabela 5: Lista de verificação: Análise de tarefas (Fonte: Autor, 2023).
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-|  `1.0`   | 19/06/2023 | Criação inicial do artefato | [Gabriel Souza](https://github.com/GabrielMS00) | [Bruno Martins](https://github.com/gitbmvb) |
+|  `1.0`   | 19/06/2023 | Criação inicial do artefato | [Gabriel Souza](https://github.com/GabrielMS00) | [Arthur Augusto](https://github.com/arthur-augusto) |
