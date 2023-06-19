@@ -65,11 +65,23 @@
 ![Figura 1](../img/requisitos/home.png)
 
 <div style="text-align: center">
-<p> Figura 1: Página de Serviços do Alistamento Militar (Fonte: Autores, 2023).</p>
+<p> Figura 1: Página de Serviços do Alistamento Militar (Fonte: MARTINS, Bruno; 2023).</p>
 </div>
 
+### 3.2. Janelas
 
-### 3.2. Tipografia
+As janelas apresentadas na plataforma são:
+
+![janelas1](../img/requisitos/janelas2.jpeg)
+
+![janelas2](../img/requisitos/janelas1.jpeg)
+
+<center>
+ Figura 2: Janelas do site do Alistamento Online. (Fonte: Alistamento Online; 2023).
+
+</center>
+
+### 3.3. Tipografia
 &emsp;&emsp;O site utiliza somente uma única fonte textual para todas as páginas: **Raleway sans-serif**. A Figura 2 ilustra um exemplo de um texto escrito nesta fonte:
 
 <center>
@@ -77,7 +89,7 @@
 ![paleta](../img/requisitos/tipografia.png)
 
 <div style="text-align: center">
-<p> Figura 2: Exemplo de texto utilizando a fonte Raleway sans-serif. (Fonte: Autores, 2023).</p>
+<p> Figura 3: Exemplo de texto utilizando a fonte Raleway sans-serif. (Fonte: MARTINS, Bruno; 2023).</p>
 </div>
 
 </center>
@@ -94,7 +106,7 @@
 | <img src="../../img/requisitos/pageup.png" width="50" height="50"> | Subir para o topo da página. |
 
 <div style="text-align: center">
-<p> Tabela 1: Principais ícones utilizados no site. (Fonte: Autores, 2023).</p>
+<p> Tabela 1: Principais ícones utilizados no site. (Fonte: MARTINS, Bruno; 2023).</p>
 </div>
 
 
@@ -109,7 +121,7 @@
 ![paleta](../img/requisitos/paleta.png)
 
 <div style="text-align: center">
-<p> Figura 3: Paleta de cores utilizada no site. (Fonte: Autores, 2023).</p>
+<p> Figura 4: Paleta de cores utilizada no site. (Fonte: MARTINS, Bruno; 2023).</p>
 </div>
 
 </center>
@@ -118,6 +130,13 @@
 ### 4.1. Estilos de interação
 &emsp;&emsp;O estilo de interação predominante no site do Alistamento Militar é o **comando direto**, pois o usuário interage diretamente com os elementos da interface, sem a necessidade de intermediários.
 
+### 4.2. Seleção de estilo
+&emsp;&emsp;A escolha do estilo no site do Alistamento é bem simples, com botões para cada funcionalidade disponibilizados sem muitos comentários.
+
+### 4.3. Teclas de atalho
+&emsp;&emsp;O site do alistamento não possui teclas de atalho para melhorar a agilidade no acesso às páginas.
+
+
 ## 5. Elementos de ação
 ### 5.1. Preenchimento de campos
 &emsp;&emsp;Apresentar um texto de descrição do campo, indicando o que deve ser inserido nele, é uma boa prática de usabilidade. Os campos devem ser preenchidos de acordo com o tipo de dado que se espera receber. Por exemplo, o campo "CPF" deve receber apenas números, e o campo "Nome" deve receber apenas letras. Além disso, os campos devem ser preenchidos de acordo com o padrão de escrita da língua portuguesa, ou seja, com a primeira letra de cada palavra em maiúsculo, e as demais em minúsculo.
@@ -125,6 +144,9 @@
 
 ### 5.2. Seleção e ativação de itens
 &emsp;&emsp;A seleção de um item deve ser feita através de um clique no item desejado. O item selecionado deve ser destacado, para que o usuário saiba qual item está selecionado. Além disso, deve-se indicar ao usuário que ele pode selecionar apenas um item, ou mais de um item. &emsp;&emsp;Por exemplo, se o usuário pode selecionar apenas um item, deve-se utilizar um botão de rádio. Se o usuário pode selecionar mais de um item, deve-se utilizar uma caixa de seleção.
+
+### 5.3. Sequência de diálogos
+&emsp;&emsp;As sequências de diálogo seguem um padrão, exceto na página de realizar o alistamento, onde os diálogos se dão or pop-ups, diferente das outras páginas. Os botões de confirmação e cancelamento seguem um padrão.
 
 ## 6. Vocabulário e padrões
 ### 6.1. Terminologia
@@ -141,3 +163,4 @@ BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, 
 | --- | --- | --- | --- | --- |
 |  `1.0`   | 15/05/2023 | Criação inicial do guia de estilo | [Bruno Martins](https://github.com/gitbmvb) | [Arthur Augusto](https://github.com/arthur-augusto) |
 |  `1.1`   | 15/05/2023 | Adicionando legenda à tabela de ícones | [Bruno Martins](https://github.com/gitbmvb) | [Gabriel Souza](https://github.com/GabrielMS00) e [Arthur Augusto](https://github.com/arthur-augusto) |
+|  `1.2`   | 18/06/2023 | Adicionando autor às legenda e adicionando Janelas, teclas de atalho e diálogos | [João Barreto](https://github.com/JoaoBarreto03) | [Gabriel Souza](https://github.com/GabrielMS00) |

@@ -1,16 +1,18 @@
 # Características da plataforma
 
-## Introdução
+## 1. Introdução
 
 Para a construção ou evolução de uma plataforma, é necessário inicialmente realizar uma análise das características, identificando as necessidades do usuário. Posteriormente, é construído (ou evoluído) o design dessa plataforma e a implementação de seus componentes, de acordo com o que foi levantado.
 
-## Objetivo
+## 2. Objetivo
 
 Este tópico tem por objetivo listar as características do site Alistamento Militar e seus possíveis erros, para que seja possível propor melhorias para a página.
 
-## Características
+## 3. Características
 
-O site do Alistamento possui algumas funcionalidades, como:
+### 3.1. Funcionalidades
+
+O site do Alistamento está disponível para navegadores em geral (Chrome, Firefox, Opera, etc.) e não possui aplicativo mobile. O site possui algumas funcionalidades, como:
     
 + Cadastro do usuário, feito pelo portal do GOV;
 
@@ -28,7 +30,7 @@ O site do Alistamento possui algumas funcionalidades, como:
 
 + Encontrar perguntas frequentes.
 
-### Analisando as características de design da plataforma:
+### 3.2. Características de design da plataforma
 + A página inicial do site possui apenas dois simples botões, que são direcionados para páginas diferentes, mas que podem chegar no mesmo caminho;
 + O rodapé da página (Footer) com a logo dos criadores e contato;
 + Navbar com opção de perguntas frequentes;
@@ -37,10 +39,10 @@ O site do Alistamento possui algumas funcionalidades, como:
 ![Figura 1](../img/requisitos/home.png)
 
 <div style="text-align: center">
-<p> Figura 1: Página de Serviços do Alistamento Militar (Fonte: Autores, 2023).</p>
+<p> Figura 1: Página de Serviços do Alistamento Militar (Fonte: Alistamento Online, 2023).</p>
 </div>
 
-## Características negativas e limitações
+## 4. Características negativas e limitações
 
 A partir das características analisadas, podem ser citados alguns erros, como:
 
@@ -49,7 +51,7 @@ A partir das características analisadas, podem ser citados alguns erros, como:
 ![Figura 2](../img/requisitos/principal.png)
 
 <div style="text-align: center">
-<p> Figura 2: Página de Serviços do Alistamento Militar - Tela inteira (Fonte: Autores, 2023).</p>
+<p> Figura 2: Página de Serviços do Alistamento Militar - Tela inteira (Fonte: Alistamento Online, 2023).</p>
 </div>
 
 + Não há páginas separadas para aqueles que já se alistaram e os que ainda não;
@@ -59,7 +61,7 @@ A partir das características analisadas, podem ser citados alguns erros, como:
 ![Figura 3](../img/requisitos/certificado.png)
 
 <div style="text-align: center">
-<p> Figura 3: Página de Certificados (Fonte: Autores, 2023).</p>
+<p> Figura 3: Página de Certificados (Fonte: Alistamento Online, 2023).</p>
 </div>
 + Note que não há privacidade quanto aos dados do usuário e eles aparecem em todas as telas;
 
@@ -68,7 +70,7 @@ A partir das características analisadas, podem ser citados alguns erros, como:
 
 ![Figura 4](../img/requisitos/pagina_de_alistamento.png)
 <div style="text-align: center">
-<p> Figura 4: Página de Alistamento (Fonte: Autores, 2023).</p>
+<p> Figura 4: Página de Alistamento (Fonte: Alistamento Online, 2023).</p>
 </div>
 + O usuário em questão já havia se alistado e mesmo assim poderia acessar a página de alistamento novamente;
 + Note que o botão "Verificar" se refere ao CPF, mas este está posicionado em cima do campo de preenchimento desse dado;
@@ -82,5 +84,6 @@ BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, 
 ## Histórico de versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-|  `1.0`   | 15/05/2023 | Criação inicial do guia de estilo | [Bruno Martins](https://github.com/gitbmvb) | [Arthur Augusto](https://github.com/arthur-augusto) |
+|  `1.0`   | 15/05/2023 | Criação inicial das características da plataforma | [João Barreto](https://github.com/JoaoBarreto03) | [Arthur Augusto](https://github.com/arthur-augusto) |
 |  `1.1`   | 15/05/2023 | Adicionando legenda à tabela de ícones | [Bruno Martins](https://github.com/gitbmvb) | [Gabriel Souza](https://github.com/GabrielMS00) e [Arthur Augusto](https://github.com/arthur-augusto) |
+|  `1.2`   | 18/06/2023 | Adicionando mais imagens com legenda e fonte | [João Barreto](https://github.com/JoaoBarreto03) | [Bruno Martins](https://github.com/gitbmvb) |
