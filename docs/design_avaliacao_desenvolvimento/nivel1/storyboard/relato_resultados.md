@@ -132,5 +132,5 @@ aprovados mediante as entrevistas realizadas.
 | Versão | Data  | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ----- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  | 12/06/2023     | Criação da versão inicial do documento | [Gabriel Souza](https://github.com/GabrielMS00) |  [João Barreto](https://github.com/JoaoBarreto03)  |
-| `2.0`  | 12/06/2023     | Refatoração após a verificação dos artefatos | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |  [João Barreto](https://github.com/JoaoBarreto03)  |
+| `2.0`  | 12/06/2023     | Refatoração após a verificação dos artefatos | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |  [Arthur Augusto](https://github.com/arthur-augusto)  |
 
