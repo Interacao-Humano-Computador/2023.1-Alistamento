@@ -31,7 +31,7 @@ e já conheciam o site do Alistamento Online. Todos consentiram em tornar seus n
 
 ## Dados obtidos
 
-## Primeiro entrevistado
+## Primeiro entrevistado - Arthur
 
 ### Storyboard 1
 
@@ -59,7 +59,7 @@ e já conheciam o site do Alistamento Online. Todos consentiram em tornar seus n
 | 7 | Os diálogos e balões de fala estão claramente representados e ajudam a compreender a história? | Sim, dá para entender, ele não consegue assumir a vaga por conta do alistamento
 | 8 | As ações dos personagens são coerentes com suas características e motivações estabelecidas? | Sim, está de acordo
 
-## Segundo entrevistado
+## Segundo entrevistado - Mauricio
 
 ### Storyboard 1
 
@@ -87,7 +87,7 @@ e já conheciam o site do Alistamento Online. Todos consentiram em tornar seus n
 | 7 | Os diálogos e balões de fala estão claramente representados e ajudam a compreender a história? | Sim, ajuda bastante
 | 8 | As ações dos personagens são coerentes com suas características e motivações estabelecidas? | Sim
 
-## Terceiro entrevistado
+## Terceiro entrevistado - Danilo
 
 ### Storyboard 1
 
@@ -115,7 +115,8 @@ e já conheciam o site do Alistamento Online. Todos consentiram em tornar seus n
 | 7 | Os diálogos e balões de fala estão claramente representados e ajudam a compreender a história? | Sim, estão bem condizentes
 | 8 | As ações dos personagens são coerentes com suas características e motivações estabelecidas? | Sim, todos estão condizentes
 
-## Problemas e sugestões 
+## Conclusão 
+### Problemas e sugestões 
 
 De forma geral, os entrevistados gostaram e aprovaram os 2 storyboards desenvolvidos até o momento pelo grupo. Nenhuma pergunta foi respondida
 com "Não" e as sugestões foram poucas, apenas a carência de uma imagem de maior destaque para dar ênfase nas informações essenciais do Storyboard 2,
@@ -131,5 +132,5 @@ aprovados mediante as entrevistas realizadas.
 | Versão | Data  | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ----- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  | 12/06/2023     | Criação da versão inicial do documento | [Gabriel Souza](https://github.com/GabrielMS00) |  [João Barreto](https://github.com/JoaoBarreto03)  |
-
+| `2.0`  | 12/06/2023     | Refatoração após a verificação dos artefatos | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |  [João Barreto](https://github.com/JoaoBarreto03)  |
 
