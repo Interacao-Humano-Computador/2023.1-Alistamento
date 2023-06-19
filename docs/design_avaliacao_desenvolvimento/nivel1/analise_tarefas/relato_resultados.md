@@ -19,7 +19,7 @@ O Objetivo desse relato é expor todas as dificuldades, críticas e experiência
 A metodologia utilizada foi a da entrevista, baseada na investigação. Nesta entrevista, são realizadas 13 perguntas relacionadas ao processo de alistamento com 2 entrevistadores e um entrevistado por vez.
 
 ## Participantes
-Foi encontrada três voluntários, que aceitam fazer a entrevista e que se encaixassem no perfil de usuário definido anteriormente para o sistema. A entrevista teve apenas dois participantes, o entrevistador e o entrevistado. O local de realização da entrevista 01 foi feita online e a entrevista foi gravado. O local da entrevista 02 e 03 foi presencial na FGA e a entrevista foi gravada.
+Foi encontrada três voluntários, que aceitam fazer a entrevista e que se encaixassem no perfil de usuário definido anteriormente para o sistema. A entrevista teve apenas dois participantes, o entrevistador e o entrevistado. O local de realização da entrevista 01 foi feita online e a entrevista foi gravado. O local da entrevista 02 e 03 foi presencial na FGA e a entrevista foi gravada, antes de cada gravação foi apresentado ao entrevistados as questões éticas do projeto.
 
 ## Dados:
 
