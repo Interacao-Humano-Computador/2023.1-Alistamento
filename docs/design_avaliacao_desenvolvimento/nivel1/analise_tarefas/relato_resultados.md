@@ -25,6 +25,10 @@ Foi encontrada três voluntários, que aceitam fazer a entrevista e que se encai
 
 ##Entrevista 01 - Cauã Nycolas 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FuyW5KUP48A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p>Iframe 1: Entrevista com o Cauã Nycolas -  (Fonte: Danilo e João, 2023) </p>
+
 | Número | Pergunta | Resposta |
 | ---- | ---- | ---- | 
 | 1 | Com qual frequência você utiliza as tecnologias de informação (Computadores, celulares, etc.)? |Objetiva<br><br> [ ] Nenhum <br> [ ] Pouco <br> [ ] Mediano <br> [X] Muito | 
@@ -49,6 +53,10 @@ Foi encontrada três voluntários, que aceitam fazer a entrevista e que se encai
 
 ##Entrevista 02 - Maurício Araújo 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ciOf-WrSaWo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p>Iframe 2: Entrevista com o Maurício Araújo - (Fonte: João, 2023) </p>
+
 | Número | Pergunta | Resposta |
 | ---- | ---- | ---- | 
 | 1 | Com qual frequência você utiliza as tecnologias de informação (Computadores, celulares, etc.)? |Objetiva<br><br> [ ] Nenhum <br> [ ] Pouco <br> [ ] Mediano <br> [X] Muito | 
@@ -71,8 +79,12 @@ Foi encontrada três voluntários, que aceitam fazer a entrevista e que se encai
 </div>
 
 
-
 ##Entrevista 03 - Arthur Souza 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-R6A5dicby8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p>Iframe 3: Entrevista com o Arthur Souza -  (Fonte: João, 2023) </p>
+
 
 | Número | Pergunta | Resposta |
 | ---- | ---- | ---- | 
@@ -105,3 +117,4 @@ Conclui-se que é necessário fazer algumas alterações e melhorias no artefato
 | --- | --- | --- | --- | --- |
 |  `1.0`   | 19/05/2023 | Criação inicial do Relato da Análise de Tarefas | [João Barreto](https://github.com/JoaoBarreto03) | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
 |  `1.1`   |29/05/2023 | Adição dos relatos feitos e criação de um conclusão para os relatos. | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | [João Barreto](ttps://github.com/JoaoBarreto03)|
+|  `2.0`   |19/05/2023 | Adição das gravações , refatoração apos as verificações. | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | [João Barreto](ttps://github.com/JoaoBarreto03)|
