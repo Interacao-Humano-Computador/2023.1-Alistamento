@@ -97,4 +97,4 @@ Resultados da Verificação - PC 5. Disponível em : [https://interacao-humano-c
 |  `1.0`   | 19/06/2023 | Criação do Verificação dos Artefatos da entrega 5 | [Danilo Carvalho Antunes](https://github.com/Danilo-Carvalho-Antunes) | [João Barreto](https://github.com/JoaoBarreto03) & [Bruno Martins](https://github.com/gitbmvb)|
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-|  `1.1`   | 19/06/2023 | Correção de um pergunta que estava errada | [Danilo Carvalho Antunes](https://github.com/Danilo-Carvalho-Antunes) | [João Barreto](https://github.com/JoaoBarreto03) & [Bruno Martins](https://github.com/gitbmvb)|
+|  `1.1`   | 19/06/2023 | Correção de um pergunta que estava errada | [Danilo Carvalho Antunes](https://github.com/Danilo-Carvalho-Antunes) | [Arthur Augusto](https://github.com/arthur-augusto) |
