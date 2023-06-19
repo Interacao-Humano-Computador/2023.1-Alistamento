@@ -72,4 +72,4 @@ Planejamento do Relato dos Resultados da Avaliação dos Protótipos de Papel. D
 | --- | --- | --- | --- | --- |
 |  `1.0`   | 28/05/2023 | Criação inicial do documento: introdução, objetivos, metodologia, problemas de usabilidade corrigidos e não corrigidos, bibliografia. | [Bruno Martins](https://github.com/gitbmvb) | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
 |  `1.1`  | 29/05/2021 | Adição dos protótipos de papel ao documento | [Gabriel Marques de Souza](https://github.com/GabrielMS00) | [Bruno Martins](https://github.com/gitbmvb) |
-|  `2.0`  | 19/05/2021 | Refatoração com base na verificação dos artefatos | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | [Bruno Martins](https://github.com/gitbmvb) |
+|  `2.0`  | 19/05/2021 | Refatoração com base na verificação dos artefatos | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | [Arthur Augusto](https://github.com/arthur-augusto) |
