@@ -94,10 +94,11 @@ Após a verificação, deve ser elaborado um relato de resultados contendo os ch
 ## Referências
 
 [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+Resultados da Verificação - PC 5. Disponível em : [https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/Verificacao/grupo5/ponto5/](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/Verificacao/grupo5/ponto5/]. Acesso em 19 de junho de 2023.
 
 
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-|  `1.0`   | 04/06/2023 | Criação inicial do Planejamento da Verificação dos Artefatos da entrega 5 feita pelo Grupo 6 | [Danilo Carvalho Antunes](https://github.com/Danilo-Carvalho-Antunes) | [João Barreto](https://github.com/JoaoBarreto03) & [Bruno Martins](https://github.com/gitbmvb)|
+|  `1.0`   | 19/06/2023 | Criação inicial do Planejamento da Verificação dos Artefatos da entrega 5 feita pelo Grupo 6 | [Danilo Carvalho Antunes](https://github.com/Danilo-Carvalho-Antunes) | [João Barreto](https://github.com/JoaoBarreto03) & [Bruno Martins](https://github.com/gitbmvb)|
