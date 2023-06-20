@@ -127,4 +127,4 @@ Tabela 5: Critérios para verificação do planejamento do relato dos resultados
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-|  `1.0`   | 05/06/2023 | Criação inicial do Planejamento da Verificação dos Artefatos da entrega 4| [Arthur Augusto](https://github.com/arthur-augusto) | [Gabriel Souza](https://github.com/GabrielMS00)|
+|  `1.0`   | 19/06/2023 | Criação inicial da Verificação dos Artefatos da entrega 4| [Arthur Augusto](https://github.com/arthur-augusto) | [Gabriel Souza](https://github.com/GabrielMS00)|
