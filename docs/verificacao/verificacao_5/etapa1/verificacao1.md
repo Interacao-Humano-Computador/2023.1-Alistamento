@@ -174,4 +174,4 @@ A *Tabela 11* exibe os resultados do checklist aplicado à página de Site escol
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-|  `1.0`   | 19/06/2023 | Criação inicial do documento| [Bruno Martins](https://github.com/gitbmvb) | [João Barreto](https://github.com/JoaoBarreto03)  |
+|  `1.0`   | 19/06/2023 | Criação inicial do documento| [Bruno Martins](https://github.com/gitbmvb) | [Arthur Augusto](https://github.com/arthur-augusto)  |
