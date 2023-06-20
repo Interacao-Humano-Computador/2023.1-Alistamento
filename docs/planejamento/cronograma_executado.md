@@ -95,8 +95,8 @@ Abaixo, na *Tabela 5*, pode ser observado o cronograma realizado da Etapa 5, na 
 
 </center>
 
-### 2.6. Etapa 06: Verificação de artefatos 1
-Abaixo, na *Tabela 6*, pode ser observado o cronograma realizado da Etapa 6, na qual, cada atividade conta com uma breve descrição, a data da entrega, os autores, a data da revisão, e os revisores.
+### 2.6. Etapa 06.1: Verificação de artefatos 1
+Abaixo, na *Tabela 6.1*, pode ser observado o cronograma realizado da Etapa 6, na qual, cada atividade conta com uma breve descrição, a data da entrega, os autores, a data da revisão, e os revisores.
 
 | Atividade | Data da Entrega | Autores | Data da Revisão | Revisores |
 |---|---|---|---|---|
@@ -109,11 +109,29 @@ Abaixo, na *Tabela 6*, pode ser observado o cronograma realizado da Etapa 6, na 
 
 <center>
 
-**Tabela 6:** Atividades executadas da Etapa 6 (Fonte: MARTINS, Bruno; BARRETO, João; 2023).
+**Tabela 6.1:** Atividades executadas da Etapa 6 (Fonte: MARTINS, Bruno; BARRETO, João; 2023).
 
 </center>
 
-### 2.7. Etapa 07: Resultados
+### 2.7. Etapa 06.2: Verificação de artefatos 2
+Abaixo, na *Tabela 6.2*, pode ser observado o cronograma esperado da Etapa 06.2, na qual, cada atividade conta com uma breve descrição, o período de entrega (com datas de início e fim), os autores, o período de revisão (com datas de início e fim) e os revisores.
+
+| Atividade | Período de Entrega *(Início - Fim)* | Autores | Período de Revisão *(Início - Fim)* | Revisores |
+|---|---|---|---|---|
+| Planejamento e execução da avaliação dos artefatos da Etapa 01: Home page, cronograma, cronograma executado, metolodia, ferramentas e processo de Design. | 19/06 | Bruno Martins | 19/06 | Arthur Augusto |
+| Planejamento e execução da avaliação dos artefatos da Etapa 02: Perfil do usuário, aspectos éticos de pesquisas envolvendo pessoas, personas e análise de tarefas. | 19/06 | Gabriel Marques | 19/06 | João Barreto |
+| Planejamento e execução da avaliação dos artefatos da Etapa 03: Princípios gerais de projeto, metas de usabilidade, guia de estilo. | 18/06 | João Barreto | 18/06 | Bruno Martins |
+| Planejamento e execução da avaliação dos artefatos da Etapa 04: Planejamento da avaliação do storyboard e análise de tarefas, planejamento do relato dos resultados da avaliação do storyboard e o planejamento do relato dos resultados da avaliação do análise de tarefas. | 19/06 | Arthur Augusto | 19/06 | Bruno Martins |
+| Planejamento e execução da avaliação dos artefatos da Etapa 05: Relato dos resultados do storyboard e da análise de tarefas, planejamento da avaliação do protótipo de papel e do planejamento do relato dos resultados da avaliação do protótipo de papel.| 19/06 | Danilo Carvalho | 19/06 | João Barreto |
+| Apresentação: gravação, upload do vídeo, envio do link do vídeo no Aprender3 | 19/06 | Bruno Martins | 19/06 | João Barreto |
+
+<center>
+
+**Tabela 6.2**: Organização da Entrega 6.2 (**Fonte:** MARTINS, Bruno; 2023).
+
+</center>
+
+### 2.8. Etapa 07: Resultados
 Abaixo, na *Tabela 6*, pode ser observado o cronograma realizado da Etapa 7, na qual, cada atividade conta com uma breve descrição, a data da entrega, os autores, a data da revisão, e os revisores.
 
 | Atividade | Período de Entrega *(Início - Fim)* | Autores | Período de Revisão *(Início - Fim)* | Revisores |
@@ -145,5 +163,5 @@ Abaixo, na *Tabela 6*, pode ser observado o cronograma realizado da Etapa 7, na 
 |  `1.5`   | 05/06/2023 | Adição da etapa 6 do cronograma realizado | [Bruno Martins](https://github.com/gitbmvb) | [Arthur Augusto](https://github.com/arthur-augusto), [Gabriel Souza](https://github.com/GabrielMS00), [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes), [João Barreto](https://github.com/JoaoBarreto03) |
 |  `1.6`   | 08/06/2023 | Refatoração: organização e padronização do documento, além de aprimorar os elementos seguindo os feedbacks do grupo 04. | [Bruno Martins](https://github.com/gitbmvb) | [João Barreto](https://github.com/JoaoBarreto03) |
 |  `1.7`   | 12/06/2023 | Adição da etapa 7 do cronograma realizado | [Bruno Martins](https://github.com/gitbmvb) | [João Barreto](https://github.com/JoaoBarreto03) e [Gabriel Souza](https://github.com/GabrielMS00) |
-
+|  `1.8`   | 19/06/2023 | Adição da etapa 6.1 do cronograma realizado | [Bruno Martins](https://github.com/gitbmvb) | [João Barreto](https://github.com/JoaoBarreto03) |
 <!-- Inserir a data de revisão de cada etapa no final -->

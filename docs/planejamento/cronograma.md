@@ -114,8 +114,8 @@ Abaixo, na *Tabela 6*, pode ser observado o cronograma esperado da Etapa 5, na q
 
 </center>
 
-### 2.6. Etapa 06: Verificação de artefatos 1
-Abaixo, na *Tabela 7*, pode ser observado o cronograma esperado da Etapa 6, na qual, cada atividade conta com uma breve descrição, o período de entrega (com datas de início e fim), os autores, o período de revisão (com datas de início e fim )e os revisores.
+### 2.6. Etapa 06.1: Verificação de artefatos 1
+Abaixo, na *Tabela 7.1*, pode ser observado o cronograma esperado da Etapa 06.1, na qual, cada atividade conta com uma breve descrição, o período de entrega (com datas de início e fim), os autores, o período de revisão (com datas de início e fim )e os revisores.
 
 | Atividade | Período de Entrega *(Início - Fim)* | Autores | Período de Revisão *(Início - Fim)* | Revisores |
 |---|---|---|---|---|
@@ -128,11 +128,29 @@ Abaixo, na *Tabela 7*, pode ser observado o cronograma esperado da Etapa 6, na q
 
 <center>
 
-**Tabela 7**: Organização da Entrega 6 (**Fonte:** MARTINS, Bruno; BARRETO, João; 2023).
+**Tabela 7.1**: Organização da Entrega 6.1 (**Fonte:** MARTINS, Bruno; BARRETO, João; 2023).
 
 </center>
 
-### 2.7. Etapa 07: Resultados
+### 2.7. Etapa 06.2: Verificação de artefatos 2
+Abaixo, na *Tabela 7.2*, pode ser observado o cronograma esperado da Etapa 06.2, na qual, cada atividade conta com uma breve descrição, o período de entrega (com datas de início e fim), os autores, o período de revisão (com datas de início e fim) e os revisores.
+
+| Atividade | Período de Entrega *(Início - Fim)* | Autores | Período de Revisão *(Início - Fim)* | Revisores |
+|---|---|---|---|---|
+| Planejamento e execução da avaliação dos artefatos da Etapa 01: Home page, cronograma, cronograma executado, metolodia, ferramentas e processo de Design. | 14/06 - 18/06 | Bruno Martins | 18/06 - 19/06 | João Barreto |
+| Planejamento e execução da avaliação dos artefatos da Etapa 02: Perfil do usuário, aspectos éticos de pesquisas envolvendo pessoas, personas e análise de tarefas. | 14/06 - 18/06 | Gabriel Marques | 18/06 - 19/06 | Arthur Augusto |
+| Planejamento e execução da avaliação dos artefatos da Etapa 03: Princípios gerais de projeto, metas de usabilidade, guia de estilo. | 14/06 - 18/06 | João Barreto | 18/06 - 19/06 | Bruno Martins |
+| Planejamento e execução da avaliação dos artefatos da Etapa 04: Planejamento da avaliação do storyboard e análise de tarefas, planejamento do relato dos resultados da avaliação do storyboard e o planejamento do relato dos resultados da avaliação do análise de tarefas. | 14/06 - 18/06 | Arthur Augusto | 18/06 - 19/06 | Gabriel Marques |
+| Planejamento e execução da avaliação dos artefatos da Etapa 05: Relato dos resultados do storyboard e da análise de tarefas, planejamento da avaliação do protótipo de papel e do planejamento do relato dos resultados da avaliação do protótipo de papel.| 14/06 - 18/06 | Danilo Carvalho | 18/06 - 19/06 | Bruno Martins |
+| Apresentação: gravação, upload do vídeo, envio do link do vídeo no Aprender3 | 19/06 - 19/06 | Bruno | 19/06 - 19/06 | Gabriel |
+
+<center>
+
+**Tabela 7.2**: Organização da Entrega 6.2 (**Fonte:** MARTINS, Bruno; BARRETO, João; 2023).
+
+</center>
+
+### 2.8. Etapa 07: Resultados
 Abaixo, na *Tabela 8*, pode ser observado o cronograma esperado da Etapa 7, na qual, cada atividade conta com uma breve descrição, o período de entrega (com datas de início e fim), os autores, o período de revisão (com datas de início e fim )e os revisores.
 
 | Atividade | Período de Entrega *(Início - Fim)* | Autores | Período de Revisão *(Início - Fim)* | Revisores |
@@ -148,7 +166,7 @@ Abaixo, na *Tabela 8*, pode ser observado o cronograma esperado da Etapa 7, na q
 
 </center>
 
-### 2.8. Etapa 08: Protótipo de Alta Fidelidade
+### 2.9. Etapa 08: Protótipo de Alta Fidelidade
 Abaixo, na *Tabela 9*, pode ser observado o cronograma esperado da Etapa 8, na qual, cada atividade conta com uma breve descrição, o período de entrega (com datas de início e fim), os autores, o período de revisão (com datas de início e fim )e os revisores.
 
 | Atividade | Período de Entrega *(Início - Fim)* | Autores | Período de Revisão *(Início - Fim)* | Revisores |
@@ -162,7 +180,7 @@ Abaixo, na *Tabela 9*, pode ser observado o cronograma esperado da Etapa 8, na q
 
 </center>
 
-### 2.9. Entrega Final
+### 2.10. Entrega Final
 Abaixo, na *Tabela 10*, pode ser observado o cronograma esperado da Entrega Final, na qual, cada atividade conta com uma breve descrição, o período de entrega (com datas de início e fim), os autores, o período de revisão (com datas de início e fim )e os revisores.
 
 | Atividade | Período de Entrega *(Início - Fim)* | Autores | Período de Revisão *(Início - Fim)* | Revisores |
@@ -188,3 +206,4 @@ Abaixo, na *Tabela 10*, pode ser observado o cronograma esperado da Entrega Fina
 |  `1.1`   | 08/05/2023 | Atualização: Melhor detalhamento das descrições das atividades do cronograma | [João Barreto](https://github.com/JoaoBarreto03)| [Bruno Martins](https://github.com/gitbmvb) |
 |  `1.2`   | 05/06/2023 | Aprimorando a descrição das tarefas da Etapa 06. | [Bruno Martins](https://github.com/gitbmvb) | [João Barreto](https://github.com/JoaoBarreto03) |
 |  `1.3`   | 08/06/2023 | Refatoração: aplicando os feedbacks recebidos pelo grupo 04 de IHC. | [Bruno Martins](https://github.com/gitbmvb) | [João Barreto](https://github.com/JoaoBarreto03) |
+|  `1.4`   | 19/06/2023 | Dividindo a etapa 6 em duas etapas (6.1 e 6.2). | [Bruno Martins](https://github.com/gitbmvb) | [João Barreto](https://github.com/JoaoBarreto03) |
