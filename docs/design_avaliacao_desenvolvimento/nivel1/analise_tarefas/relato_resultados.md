@@ -19,11 +19,20 @@ O Objetivo desse relato é expor todas as dificuldades, críticas e experiência
 A metodologia utilizada foi a da entrevista, baseada na investigação. Nesta entrevista, são realizadas 13 perguntas relacionadas ao processo de alistamento com 2 entrevistadores e um entrevistado por vez.
 
 ## Participantes
-Foi encontrada três voluntários, que aceitam fazer a entrevista e que se encaixassem no perfil de usuário definido anteriormente para o sistema. A entrevista teve apenas dois participantes, o entrevistador e o entrevistado. O local de realização da entrevista 01 foi feita online e a entrevista foi gravado. O local da entrevista 02 e 03 foi presencial na FGA e a entrevista foi gravada.
+Foi encontrada três voluntários, que aceitam fazer a entrevista e que se encaixassem no perfil de usuário definido anteriormente para o sistema. A entrevista teve apenas dois participantes, o entrevistador e o entrevistado. O local de realização da entrevista 01 foi feita online e a entrevista foi gravado. O local da entrevista 02 e 03 foi presencial na FGA e a entrevista foi gravada antes de cada gravação foi apresentado ao entrevistados as questões éticas do projeto.
+
+### Teste piloto
+O objetivo deste teste é avaliar o próprio planejamento, e analisar se a avaliação, tal como planejada, produz os dados necessários para responder a questões e objetivos do estudo. O entrevistador será o responsável por conduzir o teste-piloto como se fosse uma sessão normal de avaliação. Assim, ele terá a oportunidade de verificar se a linguagem nas explicações e nos materiais fornecidos é clara e objetiva, e se esses materiais contêm informações adequadas e suficientes para orientar o participante durante a avaliação.
+
+Se algum problema for detectado no teste-piloto, o planejamento da avaliação e o material de apoio devem ser corrigidos. Caso sejam feitas muitas mudanças ou o avaliador sinta necessidade, outros testes-pilotos podem ser executados, até que tudo esteja pronto para a realização da avaliação definitiva.
 
 ## Dados:
 
 ##Entrevista 01 - Cauã Nycolas 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FuyW5KUP48A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p>Iframe 1: Entrevista com o Cauã Nycolas -  (Fonte: Danilo e João, 2023) </p>
 
 | Número | Pergunta | Resposta |
 | ---- | ---- | ---- | 
@@ -49,6 +58,10 @@ Foi encontrada três voluntários, que aceitam fazer a entrevista e que se encai
 
 ##Entrevista 02 - Maurício Araújo 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ciOf-WrSaWo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p>Iframe 2: Entrevista com o Maurício Araújo - (Fonte: João, 2023) </p>
+
 | Número | Pergunta | Resposta |
 | ---- | ---- | ---- | 
 | 1 | Com qual frequência você utiliza as tecnologias de informação (Computadores, celulares, etc.)? |Objetiva<br><br> [ ] Nenhum <br> [ ] Pouco <br> [ ] Mediano <br> [X] Muito | 
@@ -71,8 +84,12 @@ Foi encontrada três voluntários, que aceitam fazer a entrevista e que se encai
 </div>
 
 
-
 ##Entrevista 03 - Arthur Souza 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-R6A5dicby8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p>Iframe 3: Entrevista com o Arthur Souza -  (Fonte: João, 2023) </p>
+
 
 | Número | Pergunta | Resposta |
 | ---- | ---- | ---- | 
@@ -105,3 +122,5 @@ Conclui-se que é necessário fazer algumas alterações e melhorias no artefato
 | --- | --- | --- | --- | --- |
 |  `1.0`   | 19/05/2023 | Criação inicial do Relato da Análise de Tarefas | [João Barreto](https://github.com/JoaoBarreto03) | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
 |  `1.1`   |29/05/2023 | Adição dos relatos feitos e criação de um conclusão para os relatos. | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | [João Barreto](ttps://github.com/JoaoBarreto03)|
+|  `2.0`   |19/05/2023 | Adição das gravações , refatoração apos as verificações. | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | [João Barreto](ttps://github.com/JoaoBarreto03)|
+|  `2.0`   |19/05/2023 | Explicação dos aspectos eticos para os participantes e  adição da definição de teste piloto. | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | [João Barreto](ttps://github.com/JoaoBarreto03)|
