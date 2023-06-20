@@ -65,7 +65,7 @@ No *Vídeo 5*, foram demonstrados os principais resultados e os artefatos produz
 
 [Link Apresentação 5](https://youtu.be/ouKcZbslUMY)
 
-## 2.6. Etapa 06
+## 2.6. Etapa 06.1
 No *Vídeo 6.1*, foram demonstrados os principais resultados e os artefatos produzidos na sexta iteração do projeto.
 
 <center>
