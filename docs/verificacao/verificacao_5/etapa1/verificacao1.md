@@ -1,7 +1,16 @@
+# Resultados da Verificação da Etapa 1
+
+## 1. Introdução
+Neste documento encontram-se os principais resultados obtidos a partir do [planejamento da avalição da etapa 1](../etapa1/planejamento1.md).
+
+## 2. Resultados
+Vale ressaltar que a única página do Planejamento do Projeto que ainda não passou por refatoração foi a de [Processo de Design](../../../planejamento/processo_design.md). Por isso, nos resultados abaixo, ela não foi considerada.
 
 ### 2.1. Aspectos gerais
-A *Tabela 1* possui aspectos de macroestrutura (Introdução, Desenvolvimento, Bibliografia, Histórico de Versão) e microestrutura (conformidade dos textos apresentados com a bibliografia e conteúdos aprendidos em sala, erros de português, formatação, etc).
+A *Tabela 1* exibe os resultados do checklist aplicado à página de Apresentações.
 
+| Nº da Pergunta | Descrição | Resposta (sim, não, incompleto) | Observação |
+| --- | --- | --- | --- |
 | 1.1 | Os documentos estão organizados segundo um [padrão](../../../manual.md) e seguem uma estrutura lógica coerente (Introdução, Desenvolvimento, Bibliografia, Histórico de Versão)? | Sim | |
 | 1.2 | Os documentos possuem bibliografia? | Sim | |
 | 1.2 | A bibliografia exibe os autores em negrito no padrão "SOBRENOME, Nome. *Descrição*, Ano."? | Sim | |
@@ -18,7 +27,7 @@ A *Tabela 1* possui aspectos de macroestrutura (Introdução, Desenvolvimento, B
 </center>
 
 ### 2.2. Apresentações
-A *Tabela 2* possui os itens que serão aplicados à página de Apresentações.
+A *Tabela 2* exibe os resultados do checklist aplicado à página de Apresentações.
 
 | Nº da Pergunta | Descrição | Resposta (sim, não, incompleto) | Observação |
 | --- | --- | --- | --- |
@@ -32,7 +41,7 @@ A *Tabela 2* possui os itens que serão aplicados à página de Apresentações.
 </center>
 
 ### 2.3 Atas
-A *Tabela 3* possui os itens que serão aplicados à página de Atas de Reunião.
+A *Tabela 3* exibe os resultados do checklist aplicado à página de Atas de Reunião.
 
 | Nº da Pergunta | Descrição | Resposta (sim, não, incompleto) | Observação |
 | --- | --- | --- | --- |
@@ -46,7 +55,7 @@ A *Tabela 3* possui os itens que serão aplicados à página de Atas de Reunião
 </center>
 
 ### 2.4. Cronograma
-A *Tabela 4* possui os itens que serão aplicados à página de Cronogramas.
+A *Tabela 4* exibe os resultados do checklist aplicado à página de Cronogramas.
 
 | Nº da Pergunta | Descrição | Resposta (sim, não, incompleto) | Observação |
 | --- | --- | --- | --- |
@@ -60,7 +69,7 @@ A *Tabela 4* possui os itens que serão aplicados à página de Cronogramas.
 </center>
 
 ### 2.5. Cronograma Executado
-A *Tabela 5* possui os itens que serão aplicados à página de Cronograma Executado.
+A *Tabela 5* exibe os resultados do checklist aplicado à página de Cronograma Executado.
 
 | Nº da Pergunta | Descrição | Resposta (sim, não, incompleto) | Observação |
 | --- | --- | --- | --- |
@@ -73,7 +82,7 @@ A *Tabela 5* possui os itens que serão aplicados à página de Cronograma Execu
 </center>
 
 ### 2.6. Ferramentas
-A *Tabela 6* possui os itens que serão aplicados à página de Ferramentas.
+A *Tabela 6* exibe os resultados do checklist aplicado à página de Ferramentas.
 
 | Nº da Pergunta | Descrição | Resposta (sim, não, incompleto) | Observação |
 | --- | --- | --- | --- |
@@ -88,7 +97,7 @@ A *Tabela 6* possui os itens que serão aplicados à página de Ferramentas.
 </center>
 
 ### 2.7 Home page
-A *Tabela 7* possui os itens que serão aplicados à página Inicial.
+A *Tabela 7* exibe os resultados do checklist aplicado à página Inicial.
 
 | Nº da Pergunta | Descrição | Resposta (sim, não, incompleto) | Observação |
 | --- | --- | --- | --- |
@@ -103,12 +112,12 @@ A *Tabela 7* possui os itens que serão aplicados à página Inicial.
 </center>
 
 ### 2.8. Metodologias
-A *Tabela 8* possui os itens que serão aplicados à página de Metodologias.
+A *Tabela 8* exibe os resultados do checklist aplicado à página de Metodologias.
 
 | Nº da Pergunta | Descrição | Resposta (sim, não, incompleto) | Observação |
 | --- | --- | --- | --- |
-| 8.1 | É apresentada uma justificativa das metodologias? | | |
-| 8.2 | É explicado como as metodologias serão empregadas? | | |
+| 8.1 | É apresentada uma justificativa das metodologias? | Incompleto. | Seria ideal explicar porque  o Scrum seria mais adequado do que um modelo em Cascata, por exemplo. |
+| 8.2 | É explicado como as metodologias serão empregadas? | Sim. | |
 
 <center>
 
@@ -117,7 +126,7 @@ A *Tabela 8* possui os itens que serão aplicados à página de Metodologias.
 </center>
 
 ### 2.9. Processo de Design
-A *Tabela 9* possui os itens que serão aplicados à página de Processo de Design.
+A *Tabela 9* exibe os resultados do checklist aplicado à página de Processo de Design.
 
 | Nº da Pergunta | Descrição | Resposta (sim, não, incompleto) | Observação |
 | --- | --- | --- | --- |
@@ -131,7 +140,7 @@ A *Tabela 9* possui os itens que serão aplicados à página de Processo de Desi
 </center>
 
 ### 2.10. Sites avaliados
-A *Tabela 10* possui os itens que serão aplicados à página de Sites avaliados.
+A *Tabela 10* exibe os resultados do checklist aplicado à página de Sites avaliados.
 
 | Nº da Pergunta | Descrição | Resposta (sim, não, incompleto) | Observação |
 | --- | --- | --- | --- |
@@ -147,7 +156,7 @@ A *Tabela 10* possui os itens que serão aplicados à página de Sites avaliados
 </center>
 
 ### 2.11. Site escolhido
-A *Tabela 11* possui os itens que serão aplicados à página de Site escolhido.
+A *Tabela 11* exibe os resultados do checklist aplicado à página de Site escolhido.
 
 | Nº da Pergunta | Descrição | Resposta (sim, não, incompleto) | Observação |
 | --- | --- | --- | --- |
@@ -158,3 +167,11 @@ A *Tabela 11* possui os itens que serão aplicados à página de Site escolhido.
 **Tabela 11**: Resultados da verificação (**Fonte:** MARTINS, Bruno; 2023).
 
 </center>
+
+## Referências
+**BARBOSA, Simone; DINIZ, Bruno**. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+
+## Histórico de Versão
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| --- | --- | --- | --- | --- |
+|  `1.0`   | 19/06/2023 | Criação inicial do documento| [Bruno Martins](https://github.com/gitbmvb) | [João Barreto](https://github.com/JoaoBarreto03)  |
