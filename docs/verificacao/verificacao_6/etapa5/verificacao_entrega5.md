@@ -2,8 +2,6 @@
 
 Após a realização do planejamento da verificação dos artefatos da entrega 5, será executada a própria verificação em si. Para isso, os critérios estabelecidos na fase de planejamento serão checados e comentados, caso hajam observações importantes a serem feitas.
 
-## Planejamento da Verificação
-
 ### Padronização
 
 Para a verificação dos artefatos produzidos, serão utilizadas uma série de perguntas, com o intuito de verificar a padronização e a consistência do que foi entregue. Assim, essas perguntas serão respondidas de maneira objetiva, como se fosse uma lista de checagem. As perguntas a serem respondidas são:
@@ -100,3 +98,4 @@ Após a verificação concluisse que o que foi entregue não atende ao que foi p
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 |  `1.0`   | 04/06/2023 | Criação inicial do Planejamento da Verificação dos Artefatos da entrega 5 feita pelo Grupo 6 | [Danilo Carvalho Antunes](https://github.com/Danilo-Carvalho-Antunes) | [João Barreto](https://github.com/JoaoBarreto03) & [Bruno Martins](https://github.com/gitbmvb)|
+|  `1.1`   | 19/06/2023 | correções da estrutura | [Danilo Carvalho Antunes](https://github.com/Danilo-Carvalho-Antunes) | [João Barreto](https://github.com/JoaoBarreto03) & [Bruno Martins](https://github.com/gitbmvb)|
