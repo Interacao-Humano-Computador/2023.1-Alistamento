@@ -1,6 +1,6 @@
 # Perfil do Usuário
 
-## Conceito
+## 1. Conceito
 
 > Perfil de usuário é uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo projetado. [...], devemos identificar as características de interesse (e.g., cargo, função, experiência, nível de instrução, atividades principais, faixa etária etc.) e conduzir um estudo (e.g., através de entrevistas e questionários) para coletar os dados dos usuários. (Interação Humano-Computador - Bruno Santana da Silva e Simone Diniz Junqueira Barbosa, p. 174)
 
@@ -8,20 +8,17 @@ Para entendermos melhor o usuário, primeiro é necessário sabermos quem são e
 
 
 
-## Quais dados coletar?
+## 2. Quais dados coletar?
 
 Nos coletamos dados demográficos e pessoais sobre o usuário, e além disso, perguntamos sobre sua relação com computadores e as tecnologias que ele tem acesso, conectividade com a internet, seu interesse sobre o serviço militar e opiniões sobre o site do alistamento militar. Essas são informações bastante úteis para construirmos personas e, consequentemente, conhecermos melhor o nosso usuário.
 
-## Questionário
+## 3. Questionário
 
 1. Qual a sua idade?
     - 17
     - 18
     - 19
 
-2. Sexo:
-    - Feminino
-    - Masculino
 
 3. Qual o seu nível de experiência com computadores?
     - Pouca experiência
@@ -65,86 +62,79 @@ Nos coletamos dados demográficos e pessoais sobre o usuário, e além disso, pe
 
 12. Se a sua resposta na pergunta anterior foi sim, qual foi a consequência?
 
-13. Para cada a adjetivos a seguir, marque o valor correspondente à sua opinião sobre a página do site de alistamento militar, sendo 1 pior nota e 3 a melhor:
+13. Para cada a adjetivos a seguir, marque o valor correspondente à sua opinião sobre a página do site de alistamento militar.
 
     |            | Pouco | Razoavelmente | Muito |
     | ---------- | ----- | ------------- | ----- |
-    | Atraente   | - [ ] | - [ ]         | - [ ] |
-    | Clara      | - [ ] | - [ ]         | - [ ] |
-    | Útil       | - [ ] | - [ ]         | - [ ] |
-    | Organizada | - [ ] | - [ ]         | - [ ] |
-    | Objetiva   | - [ ] | - [ ]         | - [ ] |
+    | Atraente   | - | -           | -   |
+    | Clara      | - | -           | -   |
+    | Útil       | - | -           | -   |
+    | Organizada | -   | -           | -   |
+    | Objetiva   | -   | -           | -   |
 
-## Estatísticas do Questionário
+## 4. Estatísticas do Questionário
 
 Aplicamos o questionário de forma presencial para 20 voluntários. Focamos a aplicação para pessoas de 17 a 19 anos do sexo masculino.
 
 1. Qual a sua idade?
-    - 17 - 2
-    - 18 - 17
-    - 19 - 1
+<center>
+    ![figura1](../img/requisitos/graficoIdade.png)
+</center>
 
-2. Sexo:
-    - Masculino - 20
-    - Feminino - 1
+2. Qual o seu nível de experiência com computadores?
+<center>
+    ![figura2](https://cacoo.com/diagrams/blKCscNMimsLnjfo-DFDD0.png)
+</center>
 
-3. Qual o seu nível de experiência com computadores?
-    - Pouca experiência - 0
-    - Média experiência - 14
-    - Muita experiência - 6
+3. Você possui celular (Smartphone)?
+<center>
+    ![figura3](https://cacoo.com/diagrams/blKCscNMimsLnjfo-B3B54.png)
+</center>
 
-4. Você possui celular (Smartphone)?
-    - Sim - 20
-    - Não - 0
+4. Você possui computador pessoal?
+<center>
+    ![figura4](https://cacoo.com/diagrams/blKCscNMimsLnjfo-67A66.png)
+</center>
 
-5. Você possui computador pessoal?
-    - Sim (Desktop) - 14
-    - Sim (Notebook) - 4
-    - Não - 2
+5. Você possui acesso à Internet em sua moradia?
+<center>
+    ![figura5](https://cacoo.com/diagrams/blKCscNMimsLnjfo-7F5FB.png)
+</center>
 
-6. Possui acesso à Internet em sua moradia?
-    - Sim - 20
-    - Não - 0
+6. Possui rede móvel?
+<center>
+    ![figura6](../img/requisitos/graficoRedeMovel.png)
+</center>
 
-7. Possui rede móvel?
-    - Sim - 16
-    - Não - 4
+7. Você já precisou usar o site do alistamento militar?
+<center>
+    ![figura7](../img/requisitos/graficoSite.png)
+</center>
 
-8. Você já precisou usar o site do alistamento militar?
-    - Sim - 17
-    - Não - 1
-    - Pretendo - 2
+8. Você possui interesse no serviço militar?
+<center>
+    ![figura8](../img/requisitos/graficoInteresse.png)
+</center>
 
-9. Você possui interesse no serviço militar?
-    - Sim - 0
-    - Não - 20
+9. Você já realizou o processo de alistamento militar?
+<center>
+    ![figura9](../img/requisitos/graficoProcesso.png)
+</center>
 
-10. Você já realizou o processo de alistamento militar?
-    - Sim - 14
-    - Não - 2
-    - Estou realizando - 4
+10. Você já foi prejudicado pelo site de alguma forma?
+<center>
+    ![figura10](../img/requisitos/graficoResposta.png)
+</center>
 
-11. Você já foi prejudicado pelo site de alguma forma?
-    - Sim - 3
-    - Não - 17
+11. Se a sua resposta na pergunta anterior foi sim, qual foi a consequência?
+<center>
+    ![figura11](../img/requisitos/graficoRespostas.png)
+</center>
 
-12. Se a sua resposta na pergunta anterior foi sim, qual foi a consequência?
-
-    Sim 1: “Processo que deveria demorar uma semana levou 4 meses, necessitando ida a junta militar e o tardio juramento da bandeira.”
-
-    Sim 2: ”Realizei meu alistamento no site, mas após 30 dias o meu processo não se alterou, tive que fazer uma ligação para confirmar a data.”
-
-    Sim 3:”Quando fui fazer o pagamento via pix eu cancelei sem querer o pagamento e agora não consigo abrir outro."
-
-13. Para cada a adjetivos a seguir, marque o valor correspondente à sua opinião sobre a página do site de alistamento militar, sendo 1 pior nota e 3 a melhor:
-
-    |            | Pouco  | Razoavelmente | Muito  |
-    | ---------- | ------ | ------------- | ------ |
-    | Atraente   | - [07] | - [12]        | - [00] |
-    | Clara      | - [02] | - [15]        | - [02] |
-    | Útil       | - [01] | - [08]        | - [10] |
-    | Organizada | - [02] | - [13]        | - [04] |
-    | Objetiva   | - [03] | - [11]        | - [05] |
+12. Para cada a adjetivos a seguir, marque o valor correspondente à sua opinião sobre a página do site de alistamento militar:
+<center>
+    ![figura12](../img/requisitos/graficoAvaliacao.png)
+</center>
 
 ## Referências 
 >BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
@@ -153,3 +143,4 @@ Aplicamos o questionário de forma presencial para 20 voluntários. Focamos a ap
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 |  `1.0`   | 08/05/2023 | Criação inicial do documento | [Arthur Augusto](https://github.com/arthur-augusto) e [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | [Bruno Martins](https://github.com/gitbmvb) e [João Barreto](https://github.com/JoaoBarreto03) |
+|  `1.1`   | 26/06/2023 | Adicionando gráficos e corrigindo erros do documento | [João Barreto](https://github.com/JoaoBarreto03) | [Bruno Martins](https://github.com/gitbmvb)|
