@@ -8,49 +8,49 @@ Neste documento apresentamos imagens das telas do nosso protótipo de alta fidel
 
 As imagens a seguir mostram as telas do protótipo ao realizar o alistamento militar.
 
-![Pagina Inicial](../../img/design_avaliacao/prototipo_de_alta_fidelidade/pagina_inicial.png)
+![Pagina Inicial](../../img/design_avaliacao/prototipo_de_alta_fidelidade/pagina_inicial.jpg)
 <center>
 Imagem 1: Realizar o alistamento militar - parte 1 - Tela inicial (Fonte: PAIXÃO, Arthur Augusto; 2023).
 </center>
 
 Clicando no botão "Quero me alistar"...
 
-![Situação](../../img/design_avaliacao/prototipo_de_alta_fidelidade/situacao.png)
+![Situação](../../img/design_avaliacao/prototipo_de_alta_fidelidade/situacao.jpg)
 <center>
 Imagem 2: Realizar o alistamento militar - parte 2 - Situação (Fonte: PAIXÃO, Arthur Augusto; 2023).
 </center>
 
 Clicando no botão "Continuar meu alistamento"...
 
-![Informações Iniciais](../../img/design_avaliacao/prototipo_de_alta_fidelidade/informacoes_iniciais.png)
+![Informações Iniciais](../../img/design_avaliacao/prototipo_de_alta_fidelidade/informacoes_iniciais.jpg)
 <center>
 Imagem 3: Realizar o alistamento militar - parte 3 - Informações Iniciais (Fonte: PAIXÃO, Arthur Augusto; 2023).
 </center>
 
 Após preencher os campos e clicar no botão "Avançar"...
 
-![Declaração](../../img/design_avaliacao/prototipo_de_alta_fidelidade/declaracao.png)
+![Declaração](../../img/design_avaliacao/prototipo_de_alta_fidelidade/declaracao.jpg)
 <center>
 Imagem 4: Realizar o alistamento militar - parte 4 - Declaração (Fonte: PAIXÃO, Arthur Augusto; 2023).
 </center>
 
 Clicando na caixa de seleção "Concordo"...
 
-![Declaração Marcado](../../img/design_avaliacao/prototipo_de_alta_fidelidade/declaracao_marcado.png)
+![Declaração Marcado](../../img/design_avaliacao/prototipo_de_alta_fidelidade/declaracao_marcado.jpg)
 <center>
 Imagem 5: Realizar o alistamento militar - parte 5 - Declaração Marcado (Fonte: PAIXÃO, Arthur Augusto; 2023).
 </center>
 
 Clicando no botão "Avançar"...
 
-![Dados do Alistamento](../../img/design_avaliacao/prototipo_de_alta_fidelidade/dados_do_alistamento.png)
+![Dados do Alistamento](../../img/design_avaliacao/prototipo_de_alta_fidelidade/dados_do_alistamento.jpg)
 <center>
 Imagem 6: Realizar o alistamento militar - parte 6 - Declaração Marcado (Fonte: PAIXÃO, Arthur Augusto; 2023).
 </center>
 
 Clicando no botão "Salvar"...
 
-![Alistamento Realizado](../../img/design_avaliacao/prototipo_de_alta_fidelidade/alistamento_realizado.png)
+![Alistamento Realizado](../../img/design_avaliacao/prototipo_de_alta_fidelidade/alistamento_realizado.jpg)
 <center>
 Imagem 7: Realizar o alistamento militar - parte 7 - Alistamento Realizado (Fonte: PAIXÃO, Arthur Augusto; 2023).
 </center>
@@ -59,21 +59,21 @@ Imagem 7: Realizar o alistamento militar - parte 7 - Alistamento Realizado (Font
 
 As imagens a seguir mostram as telas do protótipo ao acompanhar o alistamento.
 
-![Pagina Inicial](../../img/design_avaliacao/prototipo_de_alta_fidelidade/pagina_inicial.png)
+![Pagina Inicial](../../img/design_avaliacao/prototipo_de_alta_fidelidade/pagina_inicial.jpg)
 <center>
 Imagem 8: Acompanhar alistamento - parte 1 - Tela inicial (Fonte: PAIXÃO, Arthur Augusto; 2023).
 </center>
 
 Clicando no botão "Já me alistei"...
 
-![Serviços Disponíveis](../../img/design_avaliacao/prototipo_de_alta_fidelidade/servicos_disponiveis.png)
+![Serviços Disponíveis](../../img/design_avaliacao/prototipo_de_alta_fidelidade/servicos_disponiveis.jpg)
 <center>
 Imagem 9: Acompanhar alistamento - parte 2 - Serviços Disponíveis (Fonte: PAIXÃO, Arthur Augusto; 2023).
 </center>
 
 Clicando no botão "Acompanhar alistamento"...
 
-![Acompanhar alistamento](../../img/design_avaliacao/prototipo_de_alta_fidelidade/acompanhar_alistamento.png)
+![Acompanhar alistamento](../../img/design_avaliacao/prototipo_de_alta_fidelidade/acompanhar_alistamento.jpg)
 <center>
 Imagem 10: Acompanhar alistamento - parte 3 - Acompanhar alistamento (Fonte: PAIXÃO, Arthur Augusto; 2023).
 </center>
@@ -82,28 +82,28 @@ Imagem 10: Acompanhar alistamento - parte 3 - Acompanhar alistamento (Fonte: PAI
 
 As imagens a seguir mostram as telas do protótipo ao localizar locais de atendimento.
 
-![Pagina Inicial](../../img/design_avaliacao/prototipo_de_alta_fidelidade/pagina_inicial.png)
+![Pagina Inicial](../../img/design_avaliacao/prototipo_de_alta_fidelidade/pagina_inicial.jpg)
 <center>
 Imagem 11: Localizar locais de atendimento - parte 1 - Tela inicial (Fonte: PAIXÃO, Arthur Augusto; 2023).
 </center>
 
 Clicando no botão "Já me alistei"...
 
-![Serviços Disponíveis](../../img/design_avaliacao/prototipo_de_alta_fidelidade/servicos_disponiveis.png)
+![Serviços Disponíveis](../../img/design_avaliacao/prototipo_de_alta_fidelidade/servicos_disponiveis.jpg)
 <center>
 Imagem 12: Localizar locais de atendimento - parte 2 - Serviços Disponíveis (Fonte: PAIXÃO, Arthur Augusto; 2023).
 </center>
 
 Clicando no botão "Locais de atendimento"...
 
-![Busca dos locais de atendimento](../../img/design_avaliacao/prototipo_de_alta_fidelidade/buscar_locais.png)
+![Busca dos locais de atendimento](../../img/design_avaliacao/prototipo_de_alta_fidelidade/buscar_locais.jpg)
 <center>
 Imagem 13: Localizar locais de atendimento - parte 3 - Busca dos locais de atendimento (Fonte: PAIXÃO, Arthur Augusto; 2023).
 </center>
 
 Clicando no botão "Pesquisar"...
 
-![Resultados locais de atendimento](../../img/design_avaliacao/prototipo_de_alta_fidelidade/resultados_locais.png)
+![Resultados locais de atendimento](../../img/design_avaliacao/prototipo_de_alta_fidelidade/resultados_locais.jpg)
 <center>
 Imagem 14: Localizar locais de atendimento - parte 4 - Resultados locais de atendimento (Fonte: PAIXÃO, Arthur Augusto; 2023).
 </center>
@@ -112,21 +112,21 @@ Imagem 14: Localizar locais de atendimento - parte 4 - Resultados locais de aten
 
 As imagens a seguir mostram as telas do protótipo ao requerer segunda via do certificado de dispensa.
 
-![Pagina Inicial](../../img/design_avaliacao/prototipo_de_alta_fidelidade/pagina_inicial.png)
+![Pagina Inicial](../../img/design_avaliacao/prototipo_de_alta_fidelidade/pagina_inicial.jpg)
 <center>
 Imagem 15: Requerer segunda via do certificado de dispensa - parte 1 - Tela inicial (Fonte: PAIXÃO, Arthur Augusto; 2023).
 </center>
 
 Clicando no botão "Já me alistei"...
 
-![Serviços Disponíveis](../../img/design_avaliacao/prototipo_de_alta_fidelidade/servicos_disponiveis.png)
+![Serviços Disponíveis](../../img/design_avaliacao/prototipo_de_alta_fidelidade/servicos_disponiveis.jpg)
 <center>
 Imagem 16: Requerer segunda via do certificado de dispensa - parte 2 - Serviços Disponíveis (Fonte: PAIXÃO, Arthur Augusto; 2023).
 </center>
 
 Clicando no botão "Certificados militares"...
 
-![Requerer certificado](../../img/design_avaliacao/prototipo_de_alta_fidelidade/requerer_certificado.png)
+![Requerer certificado](../../img/design_avaliacao/prototipo_de_alta_fidelidade/requerer_certificado.jpg)
 <center>
 Imagem 17: Requerer segunda via do certificado de dispensa - parte 3 - Requerer certificado (Fonte: PAIXÃO, Arthur Augusto; 2023).
 </center>
