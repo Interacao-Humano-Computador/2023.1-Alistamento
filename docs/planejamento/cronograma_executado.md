@@ -116,7 +116,7 @@ Abaixo, na *Tabela 6.1*, pode ser observado o cronograma realizado da Etapa 6, n
 ### 2.7. Etapa 06.2: Verificação de artefatos 2
 Abaixo, na *Tabela 6.2*, pode ser observado o cronograma esperado da Etapa 06.2, na qual, cada atividade conta com uma breve descrição, o período de entrega (com datas de início e fim), os autores, o período de revisão (com datas de início e fim) e os revisores.
 
-| Atividade | Período de Entrega *(Início - Fim)* | Autores | Período de Revisão *(Início - Fim)* | Revisores |
+| Atividade | Data da Entrega | Autores | Data da Revisão | Revisores |
 |---|---|---|---|---|
 | Planejamento e execução da avaliação dos artefatos da Etapa 01: Home page, cronograma, cronograma executado, metolodia, ferramentas e processo de Design. | 19/06 | Bruno Martins | 19/06 | Arthur Augusto |
 | Planejamento e execução da avaliação dos artefatos da Etapa 02: Perfil do usuário, aspectos éticos de pesquisas envolvendo pessoas, personas e análise de tarefas. | 19/06 | Gabriel Marques | 19/06 | João Barreto |
@@ -132,9 +132,9 @@ Abaixo, na *Tabela 6.2*, pode ser observado o cronograma esperado da Etapa 06.2,
 </center>
 
 ### 2.8. Etapa 07: Resultados
-Abaixo, na *Tabela 6*, pode ser observado o cronograma realizado da Etapa 7, na qual, cada atividade conta com uma breve descrição, a data da entrega, os autores, a data da revisão, e os revisores.
+Abaixo, na *Tabela 7*, pode ser observado o cronograma realizado da Etapa 7, na qual, cada atividade conta com uma breve descrição, a data da entrega, os autores, a data da revisão, e os revisores.
 
-| Atividade | Período de Entrega *(Início - Fim)* | Autores | Período de Revisão *(Início - Fim)* | Revisores |
+| Atividade | Data da Entrega | Autores | Data da Revisão | Revisores |
 |---|---|---|---|---|
 | Relato dos resultados da prototipação de papel: descrição do objetivo, metodologias e participante, incluindo avaliadores. Explicação do protótipo de papel com imagens | 12/06 | João Barreto e Gabriel | 12/06 | Bruno |
 | Planejamento da avaliação do protótipo de alta fidelidade: descrição dos objetivos, metodologia, criação do cronograma de avaliação, recrutamento de participantes, planejamento do teste piloto e papel dos avaliadores | 12/06 | Bruno | 12/06 | Gabriel |
@@ -144,6 +144,23 @@ Abaixo, na *Tabela 6*, pode ser observado o cronograma realizado da Etapa 7, na 
 <center>
 
 **Tabela 7**: Atividades executadas da Etapa 7 (Fonte: MARTINS, Bruno; BARRETO, João; 2023).
+
+</center>
+
+### 2.9. Etapa 08: Protótipo de Alta Fidelidade
+Abaixo, na *Tabela 8*, pode ser observado o cronograma esperado da Etapa 8, na qual, cada atividade conta com uma breve descrição, o período de entrega (com datas de início e fim), os autores, o período de revisão (com datas de início e fim )e os revisores.
+
+| Atividade | Data da Entrega | Autores | Data da Revisão | Revisores |
+|---|---|---|---|---|
+| Elaboração do protótipo de alta fidelidade | 26/06 | Arthur Augusto, Danilo Carvalho, Gabriel Marques | 26/06 | João Barreto |
+| Realização do teste piloto da avaliação do protótipo de alta fidelidade | 26/06 | Danilo Carvalho | 26/06 | Gabriel Souza |
+| Registro dos resultados na gitpages | 26/06 | Gabriel Marques | 26/06 | Danilo Carvalho |
+| Refatoração parcial dos artefatos das etapas 1 e 2 | 21/06 - 26/06 | Bruno Martins e João Barreto | 26/06 | Bruno Martins e João Barreto |
+| Apresentação: gravação, upload do vídeo, envio do link do vídeo no Aprender3 | 26/06 | Arthur Augusto, Danilo Carvalho, Gabriel Marques, João Barreto | 26/06 | Bruno Martins |
+
+<center>
+
+**Tabela 8**: Atividades executadas da Etapa 8 (Fonte: MARTINS, Bruno; BARRETO, João; 2023).
 
 </center>
 
@@ -164,4 +181,6 @@ Abaixo, na *Tabela 6*, pode ser observado o cronograma realizado da Etapa 7, na 
 |  `1.6`   | 08/06/2023 | Refatoração: organização e padronização do documento, além de aprimorar os elementos seguindo os feedbacks do grupo 04. | [Bruno Martins](https://github.com/gitbmvb) | [João Barreto](https://github.com/JoaoBarreto03) |
 |  `1.7`   | 12/06/2023 | Adição da etapa 7 do cronograma realizado | [Bruno Martins](https://github.com/gitbmvb) | [João Barreto](https://github.com/JoaoBarreto03) e [Gabriel Souza](https://github.com/GabrielMS00) |
 |  `1.8`   | 19/06/2023 | Adição da etapa 6.1 do cronograma realizado | [Bruno Martins](https://github.com/gitbmvb) | [João Barreto](https://github.com/JoaoBarreto03) |
+|  `1.9`   | 26/06/2023 | Adição da etapa 8 do cronograma realizado | [Bruno Martins](https://github.com/gitbmvb) | [João Barreto](https://github.com/JoaoBarreto03) |
+
 <!-- Inserir a data de revisão de cada etapa no final -->
