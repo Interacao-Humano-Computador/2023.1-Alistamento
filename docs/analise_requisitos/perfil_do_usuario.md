@@ -79,61 +79,86 @@ Aplicamos o questionário de forma presencial para 20 voluntários. Focamos a ap
 1. Qual a sua idade?
 <center>
     ![figura1](../img/requisitos/graficoIdade.png)
+    
+    **Figura 1:** Gráfico da idade dos participantes da pesquisa. (Fonte: BARRETO, João; 2023).
 </center>
+
 
 2. Qual o seu nível de experiência com computadores?
 <center>
     ![figura2](https://cacoo.com/diagrams/blKCscNMimsLnjfo-DFDD0.png)
+
+    **Figura 2:** Gráfico do nível de experiência dos participantes com computadores. (Fonte: BARRETO, João; 2023).
 </center>
 
 3. Você possui celular (Smartphone)?
 <center>
     ![figura3](https://cacoo.com/diagrams/blKCscNMimsLnjfo-B3B54.png)
+
+    **Figura 3:** Gráfico dos participantes que possuem ou não celular. (Fonte: BARRETO, João; 2023).
 </center>
 
 4. Você possui computador pessoal?
 <center>
     ![figura4](https://cacoo.com/diagrams/blKCscNMimsLnjfo-67A66.png)
+
+    **Figura 4:** Gráfico dos participantes que possuem ou não computador pessoal. (Fonte: BARRETO, João; 2023).
 </center>
 
 5. Você possui acesso à Internet em sua moradia?
 <center>
     ![figura5](https://cacoo.com/diagrams/blKCscNMimsLnjfo-7F5FB.png)
+
+    **Figura 5:** Gráfico dos participantes que possuem ou não acesso à internet. (Fonte: BARRETO, João; 2023).
 </center>
 
 6. Possui rede móvel?
 <center>
     ![figura6](../img/requisitos/graficoRedeMovel.png)
+
+    **Figura 6:** Gráfico dos participantes que possuem ou não rede móvel. (Fonte: BARRETO, João; 2023).
 </center>
 
 7. Você já precisou usar o site do alistamento militar?
 <center>
     ![figura7](../img/requisitos/graficoSite.png)
+
+    **Figura 7:** Gráfico dos participantes que precisaram ou não utilizar o site do alistamento militar. (Fonte: BARRETO, João; 2023).
 </center>
 
 8. Você possui interesse no serviço militar?
 <center>
     ![figura8](../img/requisitos/graficoInteresse.png)
+
+    **Figura 8:** Gráfico dos participantes que precisaram ou não utilizar o site do alistamento militar. (Fonte: BARRETO, João; 2023).
 </center>
 
 9. Você já realizou o processo de alistamento militar?
 <center>
     ![figura9](../img/requisitos/graficoProcesso.png)
+
+     **Figura 9:** Gráfico dos participantes que realizaram ou não o processo de alistamento militar. (Fonte: BARRETO, João; 2023).
 </center>
 
 10. Você já foi prejudicado pelo site de alguma forma?
 <center>
     ![figura10](../img/requisitos/graficoResposta.png)
+
+     **Figura 10:** Gráfico dos participantes que foram prejudicaso pelo site do alistamento militar. (Fonte: BARRETO, João; 2023).
 </center>
 
 11. Se a sua resposta na pergunta anterior foi sim, qual foi a consequência?
 <center>
     ![figura11](../img/requisitos/graficoRespostas.png)
+
+     **Figura 11:** Gráfico das consequências citadas pelos participantes, devido a problemas no site do alistamento militar. (Fonte: BARRETO, João; 2023).
 </center>
 
 12. Para cada a adjetivos a seguir, marque o valor correspondente à sua opinião sobre a página do site de alistamento militar:
 <center>
     ![figura12](../img/requisitos/graficoAvaliacao.png)
+
+     **Figura 12:** Gráfico da avaliação das características do site pelos participantes da pesquisa. (Fonte: BARRETO, João; 2023).
 </center>
 
 ## Referências 
