@@ -1,4 +1,5 @@
-## Introdução
+# Planejamento do Protótipo de Alta Fidelidade
+## 1. Introdução
 
 Este tópico consiste em planejar o relato dos resultados do protótipo de alta fidelidade. Após a criação de tais protótipos, eles serão avaliados e os resultados serão apresentados posteriormente. Este artefato baseia-se nas atividades propostas pelo framework DECIDE:
 
@@ -9,7 +10,7 @@ Este tópico consiste em planejar o relato dos resultados do protótipo de alta 
 + D: Decidir como lidar com as questões éticas
 + E: Avaliar, interpretar e apresentar os dados
 
-## Objetivos
+## 2. Objetivos
 
 Os objetivos do relato visam encontrar possíveis problemas presentes no protótipo, tanto na interação, quanto na interface, levando em consideração a opinião dos participantes, que auxiliarão nesta etapa.
 
@@ -17,7 +18,7 @@ Os objetivos do relato visam encontrar possíveis problemas presentes no protót
 
 A metodologia utilizada será um teste de usabilidade, que utiliza o método de observação para fazer a avaliação. Essa metodologia será aplicada em um ambiente controlado, no qual estará somente o entrevistado e um computador contendo o protótipo.
 
-## Questionário
+## 3. Questionário
 
 A partir dos testes realizados com o protótipo, serão respondidas algumas questões [1], listadas abaixo:
 
@@ -32,7 +33,7 @@ A partir dos testes realizados com o protótipo, serão respondidas algumas ques
 |7 |Quais os principais aspectos que atralham o usuário a alcançar seus objetivos?
 
 
-## Questões práticas
+## 4. Questões práticas
 
 A preparação para a avaliação consiste em executar algumas questões práticas com o intuito de realizar um bom relato. Para isso, serão utilzadas as seguintes questões:
 
@@ -50,26 +51,26 @@ A preparação para a avaliação consiste em executar algumas questões prátic
 
 
 
-## Participantes
+## 5. Participantes
 
 Os participantes serão pessoas que fazem ou fizeram 18 anos esse ano e precisou se alistar, seguindo o perfil do usuário descrito em outra entrega.
 
-## Tarefas dos Avaliadores
+## 6.Tarefas dos Avaliadores
 O avaliador é responsável por observar o usuário, suas atitudes e expressões, a fim de perceber o quanto de entendimento aquele participante obteve.
 
-## Teste Piloto
+## 7. Teste Piloto
 O teste piloto será realizado apenas para verificar o funcionamento eficaz de todas as ferramentas utilizadas.
 
-## Ferramentas
+## 8. Ferramentas
 
 As ferramentas utilizadas serão o Microsoft Teams e a plataforma Figma, na qual o protótipo será construído
 
-## Questões éticas
+## 9. Questões éticas
 
 Antes do início da gravação, os participantes terão acesso a um termo de consentimento, esclarecendo todos os aspectos éticos definidos para o projeto.
 
 
-## Relato dos resultados
+## 10. Relato dos resultados
 
 O relato deve conter:
 
@@ -86,7 +87,7 @@ O relato deve conter:
 + As sugestões para melhoria.
 
 
-## Protótipo de Alta Fidelidade
+## 11. Protótipo de Alta Fidelidade
 
 Antes do início na execução dessa etapa, os participantes devem saber o que é um protótipo de alta fidelidade. Esse tipo de protótipo nada mais é que uma representação de um produto contendo todos os elementos que estarão disponíveis na sua versão final. Esse protótipo proporciona a interação com os usuários, como se fosse o próprio produto, no entanto esse artefato não serve para coletar requisitos e possui um custo de tempo maior [2].
 
