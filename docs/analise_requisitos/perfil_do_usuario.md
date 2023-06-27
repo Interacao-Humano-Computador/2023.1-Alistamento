@@ -79,7 +79,7 @@ Aplicamos o questionário de forma presencial para 20 voluntários. Focamos a ap
 1. Qual a sua idade?
 <center>
     ![figura1](../img/requisitos/graficoIdade.png)
-    
+
     **Figura 1:** Gráfico da idade dos participantes da pesquisa. (Fonte: BARRETO, João; 2023).
 </center>
 
@@ -169,3 +169,4 @@ Aplicamos o questionário de forma presencial para 20 voluntários. Focamos a ap
 | --- | --- | --- | --- | --- |
 |  `1.0`   | 08/05/2023 | Criação inicial do documento | [Arthur Augusto](https://github.com/arthur-augusto) e [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | [Bruno Martins](https://github.com/gitbmvb) e [João Barreto](https://github.com/JoaoBarreto03) |
 |  `1.1`   | 26/06/2023 | Adicionando gráficos e corrigindo erros do documento | [João Barreto](https://github.com/JoaoBarreto03) | [Bruno Martins](https://github.com/gitbmvb)|
+|  `1.2`   | 26/06/2023 | Adicionando legendas aos gráficos | [João Barreto](https://github.com/JoaoBarreto03) | [Bruno Martins](https://github.com/gitbmvb)|
