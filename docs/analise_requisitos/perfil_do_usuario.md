@@ -161,7 +161,7 @@ Aplicamos o questionário de forma presencial para 20 voluntários. Focamos a ap
      **Figura 12:** Gráfico da avaliação das características do site pelos participantes da pesquisa. (Fonte: BARRETO, João; 2023).
 </center>
 
-## Referências 
+## Bibliografia
 >BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Histórico de versão
