@@ -26,13 +26,12 @@ Por meio da video aula <Interfaces Humano-Computador - Mapas de empatia e person
 
 ## 3. Personas Primárias:
 
-### 3.1. Carlito Pereira da Lima, Estudante de
-Engenharias - UnB campo Gama.
+### 3.1. Carlito Pereira da Lima, Estudante de Engenharias - UnB campo Gama.
 
 ![Universitario.png](../img/requisitos/baixados.jpg)
 
 <div style="text-align: center">
-<p> Figura 1: Carlito. (Fonte: this-person-does-not-exist.com, 2023).</p>
+<p> Figura 1: Carlito. (Fonte: this-person-does-not-exist.com; 2023).</p>
 </div>
 
 #### 3.1.1. Fatos e dados demográficos
@@ -80,7 +79,7 @@ objetivo, porem um pouco confuso.
 ![Universitario.png](../img/requisitos/baixados (1).jpg)
 
 <div style="text-align: center">
-<p> Figura 2: Natan. (Fonte: this-person-does-not-exist.com, 2023).</p>
+<p> Figura 2: Natan. (Fonte: this-person-does-not-exist.com; 2023).</p>
 </div>
 
 #### 3.2.1. Fatos e dados demográficos
@@ -127,7 +126,7 @@ sobre a utilização do site.
 ![Universitario.png](../img/requisitos/Joao.jpg)
 
 <div style="text-align: center">
-<p> Figura 3: João. (Fonte: this-person-does-not-exist.com, 2023).</p>
+<p> Figura 3: João. (Fonte: this-person-does-not-exist.com; 2023).</p>
 </div>
 #### 3.3.1. Fatos e dados demográficos
 
@@ -162,7 +161,7 @@ Ao adentrar no site do alistamento militar, João encontrou um botão para busca
 ![Universitario.png](../img/requisitos/Lucas.jpg)
 
 <div style="text-align: center">
-<p> Figura 3: Lucas. (Fonte: this-person-does-not-exist.com, 2023).</p>
+<p> Figura 3: Lucas. (Fonte: this-person-does-not-exist.com; 2023).</p>
 </div>
 
 #### 3.4.1. Fatos e dados demográficos
@@ -193,7 +192,7 @@ Lucas alistou-se utilizando o site do Alistamento Militar Online e não utilizou
 ![Universitario.png](../img/requisitos/Pedro.jpg)
 
 <div style="text-align: center">
-<p> Figura 2: Natan. (Fonte: this-person-does-not-exist.com, 2023).</p>
+<p> Figura 2: Natan. (Fonte: this-person-does-not-exist.com; 2023).</p>
 </div>
 
 #### 4.1.1. Fatos e dados demográficos:
@@ -224,14 +223,15 @@ Suas metas incluem:
 
 Por já ter se alistado há um bom tempo atrás, Pedro quer utilizar o site para verificar a autenticidade de certificados e ficou feliz ao ter encontrado uma funcionalidade que possibilite-o a fazer isso no site, sem ter nenhum problema.
 
-### 4.2. Natalia Amaral Silva, Estudante de Medicina - UnB campo Darcy Ribeiro.
+## 5. Antipersona
+### 5.1. Natalia Amaral Silva, Estudante de Medicina - UnB campo Darcy Ribeiro.
 
 ![Universitario.png](../img/requisitos/baixados (2).jpg)
  <div style="text-align: center">
-<p> Figura 3: Natalia . (Fonte: this-person-does-not-exist.com, 2023).</p>
+<p> Figura 3: Natalia . (Fonte: this-person-does-not-exist.com; 2023).</p>
 </div>
   
-#### 4.2.1. Fatos e dados demográficos
+#### 5.1.1. Fatos e dados demográficos
 
 - Sexo Feminino.
 - Mora com o pai no bairro EFT.
@@ -242,28 +242,27 @@ Por já ter se alistado há um bom tempo atrás, Pedro quer utilizar o site para
 - Apenas estuda.
 
 
-#### 4.2.2. Comportamento
+#### 5.1.2. Comportamento
 
 Seu passatempo é ler livros de romance. Estuda das 8h as 20h na universidade. É uma pessoa extremamente alegre, sempre gostou da área medica, sua melhor companhia é o seu cachorro, titi um pitbull que tem 5 anos.
 Fez 18 anos recentemente, não possui interesse no serviço militar e não realizará o processo de alistamento militar.  
 
-#### 4.2.3. Necessidade e Metas
+#### 5.1.3. Necessidade e Metas
 
 Entrou na universidade querendo ser neurocirurgiã.
              
 Pretende ter um bom salario para ter a sua própria casa e viver com sua família.
 Deseja começar a trabalhar assim que possível.
 
-#### 4.2.4. Impressões do site de alistamento militar
+#### 5.1.4. Impressões do site de alistamento militar
 Não possui nenhuma interação com o site de alistamento militar pois é do sexo feminino e o site é apenas para pessoas do sexo masculino.
   
-## 6. Elenco das personas
-  
-Para a construção das personas foi pensado na criação de três personas apenas. Pelo nosso perfil de usário teriamos apenas 2 tipos distintos de usarios. Os usarios que utilizam ou ja utilizaram o site e os usarios que não utilizam e nunca irão utilizar o site, porém séria necessário duas personas para aqueles que utilizam, sendo a primeira persona uma que encontrou problemas ao usar o site mas conseguiu fazer o processo do alistamento e uma persona que passou pelo processo sem o menor problema, já terceira persona é alguém que nunca utilizou o site. Por tanto, para esse projeto não é encontrado outros motivos que justifiquem a criação de novas personas.  
 
 ## Bibliografia
 
 >COOPER, Alan. The Inmates Are Running the Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity (2nd Edition). Sams Publishing, 1999.
+
+>Videoaula - Interfaces Humano-Computador - Aula 04 - Estudos de usuário. Disponível em: https://www.youtube.com/watch?v=hWLDkRo52SI&feature=youtu.be&t=49 Acesso em: 03/07/2023
 
 
 ## Histórico de versão
@@ -271,5 +270,6 @@ Para a construção das personas foi pensado na criação de três personas apen
 | --- | --- | --- | --- | --- |
 |  `1.0`   | 14/05/2023 | Criação inicial do documento | [Arthur Augusto](https://github.com/arthur-augusto) e [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | [Bruno Martins](https://github.com/gitbmvb) e [João Barreto](https://github.com/JoaoBarreto03) |
 |  `1.1`   | 03/07/2023 | Criação de mais 3 personas e formatação da página | [João Barreto](https://github.com/JoaoBarreto03) | [Bruno Martins](https://github.com/gitbmvb) |
+|  `1.2`   | 03/07/2023 | Adicionando imagens nas personas que faltavam | [João Barreto](https://github.com/JoaoBarreto03) | [Bruno Martins](https://github.com/gitbmvb) |
 
 
