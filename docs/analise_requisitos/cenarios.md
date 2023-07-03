@@ -40,13 +40,13 @@ Passado alguns meses, Carlito entra novamento no site, na aba para aqueles que j
 
 ### 2.2 Cenário: Realizar o alistamento e emitir segunda via de documento
 
-Após passar por um Processo Seletivo do Banco de Brasília (BRB), [Henrique](./personas.md) constatou que necessita apresentar o Certificado de Dispensa (CDI) para assumir sua vaga. Tendo ele completado 18 anos no início do ano, Henrique ainda não se alistou e sua vida está muito corrida.
+Após passar por um Processo Seletivo do Banco de Brasília (BRB), [Natan](./personas.md) constatou que necessita apresentar o Certificado de Dispensa (CDI) para assumir sua vaga. Tendo ele completado 18 anos no início do ano, Natan ainda não se alistou e sua vida está muito corrida.
 
-Henrique está muito preocupado, porque sem este documento ele não consegue assumir sua vaga. Após uma pesquisa na internet, ele descobre que existe o site do Alistamento, o qual permite que ele realize o processamento sem sair de casa.
+Natan está muito preocupado, porque sem este documento ele não consegue assumir sua vaga. Após uma pesquisa na internet, ele descobre que existe o site do Alistamento, o qual permite que ele realize o processamento sem sair de casa.
 
-Rapidamente, ele entra no site, preenche com seus dados e aguarda alguns dias até ser chamado para comparecer em uma junta militar. Então ele entra novamente no site, mas dessa vez como quem já se alistou e consegue marcar o local, no qual ele deve se apresentar. Após ter se apresentado em uma junta militar, Henrique aguarda mais alguns dias e acessa novamente o site do alistamento na área de documentos.
+Rapidamente, ele entra no site, preenche com seus dados e aguarda alguns dias até ser chamado para comparecer em uma junta militar. Então ele entra novamente no site, mas dessa vez como quem já se alistou e consegue marcar o local, no qual ele deve se apresentar. Após ter se apresentado em uma junta militar, Natan aguarda mais alguns dias e acessa novamente o site do alistamento na área de documentos.
 
-Logo, ele consegue emitir a sua Reservista e assumir sua vaga no BRB. Além disso, Henrique ainda fica mais tranquilo ao saber que se ele perder o documento, no site ele consegue emitir uma segunda via. 
+Logo, ele consegue emitir a sua Reservista e assumir sua vaga no BRB. Além disso, Natan ainda fica mais tranquilo ao saber que se ele perder o documento, no site ele consegue emitir uma segunda via. 
 
 ### 2.3 Cenário: Consulta da validade de um certificado militar 
 
