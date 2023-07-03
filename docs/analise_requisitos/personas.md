@@ -14,37 +14,39 @@ A chave para essa abordagem é primeiro escolher as pessoas certas para as quais
 aqueles usuários cujas necessidades representam melhor as necessidades de um conjunto maior de constituintes-chave
 e então priorizar esses indivíduos para que as necessidades do
 os usuários mais importantes são atendidos sem comprometer nossa capacidade de atender às necessidades
-de usuários secundários. Personas fornecem uma ferramenta poderosa para comunicar sobre diferentes tipos de usuários e suas necessidades, decidindo quais usuários são os mais importantes.
+de usuários secundários.
+
+Personas fornecem uma ferramenta poderosa para comunicar sobre diferentes tipos de usuários e suas necessidades, decidindo quais usuários são os mais importantes.
 importante visar no design de forma e comportamento.
 
-## 3. Metodologia
+## 2. Metodologia
 
 A persona foi construida por meio da pesquisa do [perfil do usuário](perfil_do_usuario.md) e por meio da pesquisa e dos diferentes tipo de usários foram feitos personas ficticias na expectativa de representar casos reais sem serem relacionados a pessoas específicas.
 Por meio da video aula <Interfaces Humano-Computador - Mapas de empatia e personas> feita pela universidade UNIVESP foi feito um embasamento sobre como as personas devem ser construídas.
 
-## 4. Personas Primárias:
+## 3. Personas Primárias:
 
-### 4.1. Carlito Pereira da Lima, Estudante de
+### 3.1. Carlito Pereira da Lima, Estudante de
 Engenharias - UnB campo Gama.
 
 ![Universitario.png](../img/requisitos/baixados.jpg)
 
 <div style="text-align: center">
-<p> Figura 1: Carlito. (Fonte: Autores, 2023).</p>
+<p> Figura 1: Carlito. (Fonte: this-person-does-not-exist.com, 2023).</p>
 </div>
 
-#### 4.1.1. Fatos e dados demográficos
+#### 3.1.1. Fatos e dados demográficos
 
-Sexo masculino.
-Mora com os pais no bairro FET.
-Mora a 15Km de distancia da universidade.
-Solteiro.
-18 anos.
-Primeiro semestre do curso de engenharias.
-Possui um celular e computador.
-Não trabalha nem estagia.
+- Sexo masculino.
+- Mora com os pais no bairro FET.
+- Mora a 15Km de distancia da universidade.
+- Solteiro.
+- 18 anos.
+- Primeiro semestre do curso de engenharias.
+- Possui um celular e computador.
+- Não trabalha nem estagia.
 
-#### 4.1.2. Comportamento
+#### 3.1.2. Comportamento
 
 Seu passatempo são jogos online, que joga no seu computador todo dia um
 pouco, depois dos estudos da universidade. É uma pessoa extremamente
@@ -55,7 +57,7 @@ estimação.
 Fez 18 anos recentemente, não possui interesse no serviço militar e já
 realizou o processo de alistamento militar. 
 
-#### 4.1.3. Necessidade e Metas
+#### 3.1.3. Necessidade e Metas
 
 Entrou na universidade querendo ser engenheiro de software.
 Pretende ser um dos melhores na sua futura profissão e também no seu
@@ -65,7 +67,7 @@ Esta tentando construir um circulo de amizades com os colegas de
 sala/curso.
 Busca conseguir um estagio o quanto antes.
 
-#### 4.1.4. Impressões do site de alistamento militar
+#### 3.1.4. Impressões do site de alistamento militar
 
 Já possuiu problemas ao utilizar o site, problema de pagamento e de
 agendamento.
@@ -73,29 +75,27 @@ Por gostar de tecnologia possui suas opiniões forte sobre o site como, não
 acha a interface do site agradável e nem clara, mas acha o site útil e
 objetivo, porem um pouco confuso.
 
-### 4.2. Natan Passiante Ferreira , Estudante
-de Engenharias - UnB campo Gama e
-Aprendiz de Mecânico.
+### 3.2. Natan Passiante Ferreira , Estudantede Engenharias - UnB campo Gama e Aprendiz de Mecânico.
 
 ![Universitario.png](../img/requisitos/baixados (1).jpg)
 
 <div style="text-align: center">
-<p> Figura 2: Natan. (Fonte: Autores, 2023).</p>
+<p> Figura 2: Natan. (Fonte: this-person-does-not-exist.com, 2023).</p>
 </div>
 
-#### 4.2.1. Fatos e dados demográficos
+#### 3.2.1. Fatos e dados demográficos
 
-Sexo masculino.
-Mora com a mãe no bairro TEF.
-Mora a 6Km de distancia da universidade.
-Casado.
-19 anos.
-Primeiro semestre do curso de engenharias.
-Possui um celular e computador.
-Trabalha e estuda.
-Possui um salario de 947,00 como aprendiz de mecânico.
+- Sexo masculino.
+- Mora com a mãe no bairro TEF.
+- Mora a 6Km de distancia da universidade.
+- Casado.
+- 19 anos.
+- Primeiro semestre do curso de engenharias.
+- Possui um celular e computador.
+- Trabalha e estuda.
+- Possui um salario de 947,00 como aprendiz de mecânico.
 
-#### 4.2.2. Comportamento
+#### 3.2.2. Comportamento
 
 Seu passatempo é mexer em carros antigos na oficina do seu tio. Trabalha
 das 8h as 12h e depois vai o para universidade. É uma pessoa
@@ -105,7 +105,7 @@ estimação, um salsicha chamado Brutus que tem 2 anos e meio.
 Fez 19 anos recentemente, não possui interesse no serviço militar e já
 realizou o processo de alistamento militar. 
 
-#### 4.2.3. Necessidade e Metas
+#### 3.2.3. Necessidade e Metas
 
 Entrou na universidade querendo ser engenheiro automotivo.
 Pretende ter um bom salario para ter a sua própria casa e viver com sua
@@ -114,7 +114,7 @@ Deseja se formar antes dos 25 pois sabe que será difícil conciliar o trabalho
 com a universidade.
 Busca conseguir uma oficina o quanto antes.
 
-#### 4.2.4. Impressões do site de alistamento militar
+#### 3.2.4. Impressões do site de alistamento militar
 
 Não possuiu nem um problema ao utilizar o site embora demorou um pouco
 para entender como o site funcionava. Nunca se considerou um cara ligado
@@ -122,9 +122,14 @@ a tecnologia e por isso acha que o site possui características razoáveis para
 o que ele deveria ter, nada fora da curva mas também nada que seja ruim
 sobre a utilização do site.
 
-### 4.3. João Henrique Gomes, trabalha em uma empresa de telefonia como atendente
+### 3.3. João Henrique Gomes, trabalha em uma empresa de telefonia como atendente
 
-#### 4.3.1. Fatos e dados demográficos
+![Universitario.png](../img/requisitos/Joao.jpg)
+
+<div style="text-align: center">
+<p> Figura 3: João. (Fonte: this-person-does-not-exist.com, 2023).</p>
+</div>
+#### 3.3.1. Fatos e dados demográficos
 
 - Sexo Masculino;
 - Mora com os pais em uma casa em Brasília;
@@ -133,11 +138,11 @@ sobre a utilização do site.
 - Trabalha em uma empresa de telefonia como atendente de telemarketing;
 - Gosta bastante de tecnologia;
 
-#### 4.3.2. Comportamento
+#### 3.3.2. Comportamento
 
 Tendo completado seu ensino médio recentemente, João é um jovem bastante sonhador, que mal completou 18 anos e já quis começar a trabalhar. Apaixonado por tecnologia, ele conseguiu uma vaga de emprego em uma empresa de telefonia, para trabalhar com aquilo que gosta. Passar o dia em um computador e atendendo às chamadas por telefone parece ser exaustivo para muitos, mas para João é uma alegria imensa, mesmo seu dia sendo muito corrido.
 
-#### 4.3.3. Necessidades e Metas
+#### 3.3.3. Necessidades e Metas
 
 João está muito empolgado e passa o dia inteiro atendendo chamadas, sem se preocupar com mais nada, nem com ele mesmo. Antes mesmo de fazer 18 anos, João já havia se alistado pelo site do Alistamento Militar, mas utilizou-o uma única vez e nunca mais acessou. O jovem só pensa agora em concluir sua inúmeras metas, sendo elas:
 
@@ -148,13 +153,19 @@ João está muito empolgado e passa o dia inteiro atendendo chamadas, sem se pre
 No entanto, para obter a reservista, João ainda precisa comparecer a uma junta militar e ele não sabe onde fica. Sua esperança é encontrar no site do alistamento um campo para buscar os locais de atendimento mais próximos.
 
 
-#### 4.3.4. Impressões do site de alistamento militar:
+#### 3.3.4. Impressões do site de alistamento militar:
 
 Ao adentrar no site do alistamento militar, João encontrou um botão para buscar locais de atendimento e conseguiu encontrar uma junta militar próxima de sua casa de forma rápida e objetiva.
 
-### 4.4. Lucas Teles Silva, recém formado no ensino médio à procura de um emprego
+### 3.4. Lucas Teles Silva, recém formado no ensino médio à procura de um emprego
 
-#### 4.4.1. Fatos e dados demográficos
+![Universitario.png](../img/requisitos/Lucas.jpg)
+
+<div style="text-align: center">
+<p> Figura 3: Lucas. (Fonte: this-person-does-not-exist.com, 2023).</p>
+</div>
+
+#### 3.4.1. Fatos e dados demográficos
 
 - Sexo masculino;
 - Ensino médio completo;
@@ -163,23 +174,29 @@ Ao adentrar no site do alistamento militar, João encontrou um botão para busca
 - Possui um celular e um computador;
 - Utiliza a tecnologia para as atividades cotidianas.
 
-#### 4.4.2. Comportamento
+#### 3.4.2. Comportamento
 
 Lucas é um jovem que acabou de se formar no ensino médio e está muito feliz, depois de tantos anos de estudo. Lucas não acha que é a hora de entrar em uma faculdade e prefere procurar um emprego. Para isso, o jovem sabe que necessita estar sem débitos com o serviço militar, caso contrário ele não será contratado. Por esse motivo, ele já iniciou o processo de alistamento pelo site do Alistamento Militar Online.
 
-#### 4.4.3. Necessidades e metas
+#### 3.4.3. Necessidades e metas
 
 Lucas possui como necessidade principal estar preparado para assumir uma vaga de emprego e para isso ele precisa estar com todos os documentos em mãos, inclusive seu Certificado de Dispensa de Incorporação (CDI). Como metas, o jovem não vê a hora de receber seu primeiro salário, juntar dinheiro e comprar o celular novo que ele tanto quer, por conta de uma câmera quádrupla que possui uma qualidade extraordinária.
 
-#### 4.4.4. Impressões do site de alistamento militar:
+#### 3.4.4. Impressões do site de alistamento militar:
 
 Lucas alistou-se utilizando o site do Alistamento Militar Online e não utilizou ele novamente. Mesmo assim, ele achou fácil dar entrada em seu processo sem precisar sair de casa e ficou impressionado com a quantidade de funcionalidades que o site possui.
 
-## 5. Persona Secundária
+## 4. Persona Secundária
 
-### 5.1. Pedro Brener Silva, Analista de Recursos Humanos de uma grande Oficina Automotiva
+### 4.1. Pedro Brener Silva, Analista de Recursos Humanos de uma grande Oficina Automotiva
 
-#### 5.1.1. Fatos e dados demográficos:
+![Universitario.png](../img/requisitos/Pedro.jpg)
+
+<div style="text-align: center">
+<p> Figura 2: Natan. (Fonte: this-person-does-not-exist.com, 2023).</p>
+</div>
+
+#### 4.1.1. Fatos e dados demográficos:
 
 - Sexo Masculino;
 - Mora em um apartamento com a esposa em Brasília;
@@ -188,11 +205,11 @@ Lucas alistou-se utilizando o site do Alistamento Militar Online e não utilizou
 - Trabalha em uma grande oficina mecânica em Brasília especializada na manutenção e restauração de carros antigos,
 - Bastante adepto a tecnologia.
 
-#### 5.1.2. Comportamento
+#### 4.1.2. Comportamento
 
 Pedro é bastante focado em seus treinos e no trabalho. Acorda cedo todos os dias para ir à academia e em seguida vai para a oficina em que trabalha. Após ter concluído o ensino médio, Pedro se interessou muito pela área de recursos humanos e graduou-se nela. Ele também gostava bastante de carros e por esse motivo procurou um emprego que unisse sua graduação com sua paixão, sendo analista de RH em uma oficina automotiva.
 
-#### 5.1.3. Necessidades e metas
+#### 4.1.3. Necessidades e metas
 
 Todos os dias, Pedro faz uma análise dos candidatos para vagas de estágio na oficina, uma vez que a empresa é muito grande e possui várias unidades, incluindo a Sede, a qual ele trabalha. Sua principal necessidade é escolher estagiários bons, que realmente querem aprender e colaborar com a empresa, prestando um serviço de qualidade e para isso ele precisa verificar vários documentos dos candidatos, inclusive o Certificado de Dispensa de Incorporação (CDI), gerado após o processo de alistamento dos jovens.
 
@@ -203,18 +220,18 @@ Suas metas incluem:
 - Poder restaurar o carro antigo que seu pai tanto gosta;
 - Conhecer o máximo de países que conseguir.
 
-#### 5.1.4. Impressões do site de alistamento militar:
+#### 4.1.4. Impressões do site de alistamento militar:
 
 Por já ter se alistado há um bom tempo atrás, Pedro quer utilizar o site para verificar a autenticidade de certificados e ficou feliz ao ter encontrado uma funcionalidade que possibilite-o a fazer isso no site, sem ter nenhum problema.
 
-### 5.2. Natalia Amaral Silva, Estudante de Medicina - UnB campo Darcy Ribeiro.
+### 4.2. Natalia Amaral Silva, Estudante de Medicina - UnB campo Darcy Ribeiro.
 
 ![Universitario.png](../img/requisitos/baixados (2).jpg)
  <div style="text-align: center">
-<p> Figura 3: Natalia . (Fonte: Autores, 2023).</p>
+<p> Figura 3: Natalia . (Fonte: this-person-does-not-exist.com, 2023).</p>
 </div>
   
-#### 5.2.1. Fatos e dados demográficos
+#### 4.2.1. Fatos e dados demográficos
 
 - Sexo Feminino.
 - Mora com o pai no bairro EFT.
@@ -225,19 +242,19 @@ Por já ter se alistado há um bom tempo atrás, Pedro quer utilizar o site para
 - Apenas estuda.
 
 
-#### 5.2.2. Comportamento
+#### 4.2.2. Comportamento
 
 Seu passatempo é ler livros de romance. Estuda das 8h as 20h na universidade. É uma pessoa extremamente alegre, sempre gostou da área medica, sua melhor companhia é o seu cachorro, titi um pitbull que tem 5 anos.
 Fez 18 anos recentemente, não possui interesse no serviço militar e não realizará o processo de alistamento militar.  
 
-#### 5.2.3. Necessidade e Metas
+#### 4.2.3. Necessidade e Metas
 
 Entrou na universidade querendo ser neurocirurgiã.
              
 Pretende ter um bom salario para ter a sua própria casa e viver com sua família.
 Deseja começar a trabalhar assim que possível.
 
-#### 5.2.4. Impressões do site de alistamento militar
+#### 4.2.4. Impressões do site de alistamento militar
 Não possui nenhuma interação com o site de alistamento militar pois é do sexo feminino e o site é apenas para pessoas do sexo masculino.
   
 ## 6. Elenco das personas
