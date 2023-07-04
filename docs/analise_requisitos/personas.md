@@ -76,7 +76,7 @@ objetivo, porem um pouco confuso.
 
 ### 3.2. Natan Passiante Ferreira , Estudantede Engenharias - UnB campo Gama e Aprendiz de Mecânico.
 
-![Universitario.png](../img/requisitos/baixados (1).jpg)
+![Universitario.png](../img/requisitos/Natan.jpg)
 
 <div style="text-align: center">
 <p> Figura 2: Natan. (Fonte: this-person-does-not-exist.com; 2023).</p>
@@ -226,7 +226,7 @@ Por já ter se alistado há um bom tempo atrás, Pedro quer utilizar o site para
 ## 5. Antipersona
 ### 5.1. Natalia Amaral Silva, Estudante de Medicina - UnB campo Darcy Ribeiro.
 
-![Universitario.png](../img/requisitos/baixados (2).jpg)
+![Universitario](../img/requisitos/Natalia.jpg)
  <div style="text-align: center">
 <p> Figura 3: Natalia . (Fonte: this-person-does-not-exist.com; 2023).</p>
 </div>
