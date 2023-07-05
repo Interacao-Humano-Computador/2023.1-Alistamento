@@ -144,14 +144,15 @@ Na análise de requisitos são definidas as metas de usabilidade, a análise de 
 
 | Artefato | Autor (es) | Revisor (es) |
 | --- | --- | ---
-| [Análise de Tarefas](./analise_requisitos/analise_tarefas.md)| |
-| [Aspectos Éticos](./analise_requisitos/aspectos_eticos.md)| |
-| [Características da Plataforma](./analise_requisitos/caracteristicas.md)| |
-| [Cenários](./analise_requisitos/cenarios.md)| |
-| [Guia de Estilo](./analise_requisitos/guia_estilo.md)| |
-| [Metas de Usabilidade](./analise_requisitos/metas_usabilidade.md)| |
-| [Perfil dos Usuários](./analise_requisitos/perfil_do_usuario.md)| |  
-| [Personas](./analise_requisitos/personas.md)| |
-| [Princípios Gerais do Projeto](./analise_requisitos/principios_gerais.md)| |
+| [Análise de Tarefas](./analise_requisitos/analise_tarefas.md)| Bruno Martins, Gabriel Souza e João Barreto | João Barreto, Danilo Carvalho, Bruno Martins
+| [Aspectos Éticos](./analise_requisitos/aspectos_eticos.md)| Gabriel Souza, João Barreto e Bruno Martins| Danilo Carvalho e João Barreto
+| [Características da Plataforma](./analise_requisitos/caracteristicas.md)| João Barreto e Bruno Martins| Arthur Augusto, Bruno Martins e Gabriel Souza
+| [Cenários](./analise_requisitos/cenarios.md)| João Barreto | Bruno Martins
+| [Guia de Estilo](./analise_requisitos/guia_estilo.md)| Bruno Martins e João Barreto | Arthur Augusto e Gabriel Souza
+| [Metas de Usabilidade](./analise_requisitos/metas_usabilidade.md)| Gabriel Souza, Arthur Augusto e João Barreto| Bruno Martins
+| [Perfil dos Usuários](./analise_requisitos/perfil_do_usuario.md)| Arthur Augusto, Danilo Carvalho e João Barreto | Bruno Martins e João Barreto  
+| [Personas](./analise_requisitos/personas.md)| Arthur Augusto, Danilo Carvalho e João Barreto | Bruno Martins e João Barreto 
+| [Princípios Gerais do Projeto](./analise_requisitos/principios_gerais.md)| Danilo Carvalho e João Barreto | Bruno Martins
 
+*Tabela 4:** Tabela da análise de requisitos (Fonte: BARRETO, João; 2023).
 
