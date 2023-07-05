@@ -89,7 +89,7 @@ As ferramentas utilizadas durante a execução do projeto estão listadas na *Ta
 
 Logo | Ferramenta | Descrição | Finalidade no projeto |
 |---|---|---|---|
-| <img src="/img/icones/figma.svg" width="50" height="50"> | Figma | Figma é uma ferramenta de design colaborativa baseada na nuvem. Ela permite que designers e equipes trabalhem juntos em projetos de design de forma eficiente e eficaz. Com o Figma, é possível criar interfaces de usuário, protótipos interativos e colaborar em tempo real. | Utilizado para produzir os protótipos de alta fidelidade no nível 3 desenvolvimento. |
+| <img src="img/icones/figma.svg" width="50" height="50"> | Figma | Figma é uma ferramenta de design colaborativa baseada na nuvem. Ela permite que designers e equipes trabalhem juntos em projetos de design de forma eficiente e eficaz. Com o Figma, é possível criar interfaces de usuário, protótipos interativos e colaborar em tempo real. | Utilizado para produzir os protótipos de alta fidelidade no nível 3 desenvolvimento. |
 | <img src="/img/icones/firefox.svg" width="50" height="50"> | Firefox | O Firefox é um navegador de internet gratuito e de código aberto desenvolvido pela Mozilla. Ele oferece uma experiência de navegação rápida, segura e personalizável. | Utilizado para acessar sites e as diversas ferramentas disponíveis na web. |
 | <img src="/img/icones/github.svg" width="50" height="50">| Github | O GitHub é uma plataforma de desenvolvimento colaborativo baseada em nuvem que permite que os desenvolvedores armazenem, gerenciem e colaborem em projetos de software. Ele usa o sistema de controle de versão Git, que permite rastrear alterações em arquivos ao longo do tempo.  | Armazenar os artefatos produzidos no repositório da disciplina, criar issues, commits, registrar as atividades e gerenciar o projeto.
 | <img src="/img/icones/chrome.svg" width="50" height="50"> | Google Chrome | O Google Chrome é um navegador de internet rápido, seguro e fácil de usar desenvolvido pelo Google. Ele oferece uma experiência de navegação eficiente, permitindo que os usuários acessem rapidamente sites, pesquisem informações e executem aplicativos da web.  |Utilizado para acessar sites e as diversas ferramentas disponíveis na web. |
@@ -121,16 +121,46 @@ Logo | Ferramenta | Descrição | Finalidade no projeto |
 <!-- TABELA 5 -->
 
 ## 11. Verificação dos artefatos
-<!-- 10. Uma tabela sintetizando o método de verificação dos artefatos com autor e revisor (do checklist e da verificação); -->
-<!-- TABELA 6 -->
+A *Tabela 6.1* apresentada abaixo exibe de forma concisa os artefatos/atividades do grupo 06 que foram avaliados pelo grupo 05. Cada artefato conta com um autor, revisor, e método de avaliação. Cada item se refere tanto ao planejamento como à execução da verificação.
+
+<center>
+
+| Artefato/Atividade | Autor | Revisor | Método de Verificação |
+|---|---|---|---|
+| Home page, cronograma planejado, cronograma executado, metodologias, ferramentas, processos de design | Bruno Martins | João Barreto | Inspeção de Fagan por checklists |
+| Perfil de usuário, aspectos éticos, personas, análise de tarefas | Gabriel Marques | João Barreto | Inspeção de Fagan por checklists |
+| Princípios gerais do projeto, metas de usabilidade, guia de estilo | João Barreto | Bruno Martins | Inspeção de Fagan por checklists |
+| Planejamento da avaliação do storyboard e análise de tarefas, planejamento do relato dos resultados. | Arthur Augusto | Gabriel | Inspeção de Fagan por checklists |
+| Relato dos resultados do storyboard e da análise de tarefas, planejamento da avaliação do protótipo de papel, planejamento do relato dos resultados da avaliação do protótipo de papel  | Danilo Carvalho | João Barreto | Inspeção de Fagan por checklists |
+
+**Tabela 6.1:** Artefatos/atividades do grupo 06 avaliados pelos integrantes do grupo 05 (Fonte: MARTINS, Bruno; 2023).
+
+</center>
+
+A *Tabela 6.2* apresentada abaixo exibe de forma concisa os artefatos/atividades avaliados pelos integrantes do grupo 05 sobre as suas produções. Via de regra, os autores continuaram os mesmos, mas houve mudanças de revisores.
+
+<center>
+
+| Artefato/Atividade | Autor | Revisor | Método de Verificação |
+|---|---|---|---|
+| Home page, cronograma planejado, cronograma executado, metodologias, ferramentas, processos de design | Bruno Martins | Arthur Augusto | Inspeção de Fagan por checklists |
+| Perfil de usuário, aspectos éticos, personas, análise de tarefas | Gabriel Marques | João Barreto | Inspeção de Fagan por checklists |
+| Princípios gerais do projeto, metas de usabilidade, guia de estilo | João Barreto | Bruno Martins | Inspeção de Fagan por checklists |
+| Planejamento da avaliação do storyboard e análise de tarefas, planejamento do relato dos resultados. | Arthur Augusto | Bruno Martins | Inspeção de Fagan por checklists |
+| Relato dos resultados do storyboard e da análise de tarefas, planejamento da avaliação do protótipo de papel, planejamento do relato dos resultados da avaliação do protótipo de papel  | Danilo Carvalho | João Barreto | Inspeção de Fagan por checklists |
+
+**Tabela 6.2:** Artefatos/atividades verificados do grupo 05 (Fonte: MARTINS, Bruno; 2023).
+
+</center>
+
 
 ## 12. Apresentações
-<!-- 12. Uma tabela sintetizando os vídeos das apresentações de cada etapa com o(s) nome(s) do(s) participantes(s) do grupo que participaram das gravações). -->
-<!-- TABELA 7 -->
 A *Tabela 7* abaixo sintetiza os participantes que participaram do vídeo de gravação da entrega de cada etapa do projeto.
 
+<center>
+
 Etapa | Data da Gravação | Link do vídeo | Participantes | Upload do vídeo |
-|---|---|---|---|
+|---|---|---|---|---|
 | Etapa 1 | 24/04/2023 | [Entrega 1](https://youtu.be/xdp7TSaSQKo) | Arthur, Bruno, Danilo, Gabriel João | Bruno Martins |
 | Etapa 2 | 08/05/2023 | [Entrega 2](https://youtu.be/cbzj50MepgE) | Arthur, Bruno, Danilo, Gabriel João  | Bruno Martins |
 | Etapa 3 | 15/05/2023 | [Entrega 3](https://youtu.be/4XSKhGRtvl4) | Arthur, Bruno, Danilo, Gabriel João | Bruno Martins |
@@ -141,6 +171,9 @@ Etapa | Data da Gravação | Link do vídeo | Participantes | Upload do vídeo |
 | Etapa 7 | 12/06/2023 | [Entrega 7](https://youtu.be/QYtNXErrosc) | Bruno, Gabriel, João | Bruno Martins |
 | Etapa 8 | 26/06/2023 | [Entrega 8](https://youtu.be/a8dAjWRSvb0) | Arthur, Danilo, Gabriel | Bruno Martins |
 
+**Tabela 7:** Etapas e integrantes (Fonte: MARTINS, Bruno; 2023).
+
+</center>
 
 
 
@@ -148,6 +181,7 @@ Etapa | Data da Gravação | Link do vídeo | Participantes | Upload do vídeo |
 
 
 
+<!-- ANTIGO -->
 ## 2. Planejamento
 
 Antes da entrega dos primeiros artefatos do projeto, nossa equipe se reuniu de forma virtual mediante o auxílio do  [Microsoft Teams](./planejamento/ferramentas.md) para decidir quais ferramentas de comunicação e quais horários seriam escolhidos. Dessa maneira, nas primeiras reuniões foram definidos a [metodologia](./planejamento/metodologia.md) de execução do trabalho, o [cronograma](./planejamento/cronograma.md) e as [ferramentas](./planejamento/ferramentas.md) que seriam utilizadas. Cada integrante ficou responsável por fazer a [avaliação heurística](./planejamento/avaliacoes/alistamento.md) de um site de sua escolha, essa tarefa nos ajudou a termos um embasamento inicial na hora de escolhermos o site que seria avaliado pela equipe. A tabela abaixo mostra os artefatos realizados durante a etapa de planejamento da equipe e elaborados ao longo do semestre:
@@ -173,12 +207,6 @@ Antes da entrega dos primeiros artefatos do projeto, nossa equipe se reuniu de f
 **Tabela 1:** Artefatos do planejamento com autores e revisores (Fonte: BARRETO, João; 2023).
 
 </center>
-
-
-
-## 4. Ferramentas
-
-## 5. Ciclo de vida
 
 
 ### 5.1. Análise de Requisitos
