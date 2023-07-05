@@ -227,3 +227,51 @@ Na análise de requisitos são definidas as metas de usabilidade, a análise de 
 
 *Tabela 4:** Tabela da análise de requisitos (Fonte: BARRETO, João; 2023).
 
+## 6. Design, Avaliação e Desenvolvimento
+
+As atividades de Design, Avaliação e Desenvolvimento dividem-se em três níveis de detalhes, e essa etapa do processo tem por objetivo fornecer uma solução de IHC que atenda às [Metas de Usabilidade](./analise_requisitos/metas_usabilidade.md) que foram estabelecidas durante a Análise de Requisitos.
+
+## 6.1 Nível 1
+O primeiro nível dessa etapa consiste em uma análise conceitual, e durante a execução do trabalhou essa análise esteve focada nas tarefas que o usuário irá desenvolver no sistema e suas motivações para utilizá-lo, representadas, respectivamente, pela [Análise de Tarefas](./analise_requisitos/analise_tarefas.md) e pelos [Storyboards](./design_avaliacao_desenvolvimento/nivel1/storyboard.md). Afim de certificar que as expectativas dos usuários foram alcançadas, realizou-se a avaliação dos artefatos elaborados, por meio de entrevistas com usuários do site de Alistamento militar dentro do perfil de usuário previamente determinado.
+
+O primeiro nível do processo de design, avaliação e desenvolvimento foi documentado por meio dos artefatos presentes na tabela abaixo.
+
+| Artefato | Autor (es) | Revisor (es) |
+| --- | --- | ---
+| [Planejamento da Avaliação da Análise de Tarefas](./design_avaliacao_desenvolvimento/nivel1/analise_tarefas/planejamento_avaliacao.md)| João Barreto | Bruno Martins
+| [Planejamento do relato dos resultados da Avaliação da Análise de Tarefas](./design_avaliacao_desenvolvimento/nivel1/analise_tarefas/planejamento_do_relato_dos_resultados.md)| Danilo Carvalho| João Barreto
+| [Relato dos Resultados da Avaliação da Análise de Tarefas](./design_avaliacao_desenvolvimento/nivel1/analise_tarefas/relato_resultados.md)| João Barreto e Danilo Carvalho | João Barreto e Danilo Carvalho
+| [Planejamento da Avaliação do Storyboard](./design_avaliacao_desenvolvimento/nivel1/storyboard/planejamento_avaliacao.md)| Bruno Martins | Arthur Augusto e Gabriel Souza
+| [Planejamento do Relato de Resultados da Avaliação do Storyboard](./design_avaliacao_desenvolvimento/nivel1/storyboard/planejamento_do_relato_dos_resultados.md)|   Arthur Augusto | João Barreto
+| [Relato de Resultados da Avaliação do Storyboard](./design_avaliacao_desenvolvimento/nivel1/storyboard/relato_resultados.md)| Gabriel Souza e Danilo Carvalho |  Arthur Augusto e João Barreto
+| [Storyboard](./design_avaliacao_desenvolvimento/nivel1/storyboard/storyboard.md)| Gabriel Souza e João Barreto | Gabriel Souza, João Barreto e Bruno Martins
+
+*Tabela 5:** Tabela da análise de requisitos (Fonte: Antunes, Danilo; 2023).
+
+## 6.2 Nível 2 
+Após o nível conceitual, o designer parte para a elaboração de padrões de design de IHC para a solução que está sendo concebida, que são validados por meio da avaliação de protótipos de papel. Para validar os padrões desenvolvidos durante o projeto.
+O segundo nível do processo de design, avaliação e desenvolvimento foi documentado por meio dos artefatos presentes na tabela abaixo.
+
+| Artefato | Autor (es) | Revisor (es) |
+| --- | --- | ---
+| [Planejamento da Avaliação do Protótipo de Papel](./design_avaliacao_desenvolvimento/nivel2/planejamento-avaliacao-prototipo-papel.md)| Bruno Martins| Danilo Carvalho 
+| [Planejamento do Relato dos Resultados da Avaliação da Prototipação em Papel](./design_avaliacao_desenvolvimento/nivel2/planejamento-relato-avaliacao-prototipo-papel.md)| Gabriel Souza, Bruno Martins e Danilo Carvalho| Arthur Augusto, Bruno Martins e Danilo Carvalho
+| [Relato dos resultados da Avaliação do Protótipo de Papel](./design_avaliacao_desenvolvimento/nivel2/relato_resultados_prototipo_de_papel.md)| Gabriel Souza e Danilo Carvalho | João Barreto e Bruno Martins
+| [Protótipo de Papel](./design_avaliacao_desenvolvimento/nivel2/prototipo_de_papel.md)| Gabriel Souza e Bruno Martins | Gabriel Souza e Bruno Martins
+
+*Tabela 6:** Tabela da análise de requisitos (Fonte: Antunes, Danilo; 2023).
+
+## 6.3 Nível 3
+No último nível da etapa de Design, Avaliação e Desenvolvimento, o designer elabora o projeto detalhado da interface, tendo como base os requisitos identificados na Análise de Requisitos, esse projeto foi representado por meio de um Protótipo de Alta Fidelidade e em seguida a interface foi avaliada com a participação de usuários, por meio de um teste de usabilidade realizados por meio de entrevistas e checklists.
+O terceiro nível do processo de design, avaliação e desenvolvimento foi documentado por meio dos artefatos presentes na tabela abaixo.
+
+| Artefato | Autor (es) | Revisor (es) |
+| --- | --- | ---
+| [Planejamento da Avaliação do Protótipo de Alta Fidelidade](./design_avaliacao_desenvolvimento/nivel3/planejamento-prototipo-alta-fidelidade.md)| Bruno Martins e João Barreto | Gabriel Souza
+| [Planejamento do Relato dos Resultados da Avaliação da  Protótipo de Alta Fidelidade](./design_avaliacao_desenvolvimento/nivel3/planejamento_relato_alta_fidelidade.md)| João Barreto | Bruno Martins
+| [Relato dos resultados da Avaliação do Protótipo de Alta Fidelidade](./design_avaliacao_desenvolvimento/nivel3/relato_alta_fidelidade.md)| Gabriel Souza e Danilo Carvalho | Gabriel Souza e Danilo Carvalho
+| [Protótipo Alta Fidelidade](./design_avaliacao_desenvolvimento/nivel3/prototipo_de_alta_fidelidade.md)| Danilo Carvalho e Arthur Augusto | Gabriel Souza e Bruno Martins
+
+*Tabela 7:** Tabela da análise de requisitos (Fonte: Antunes, Danilo; 2023).
+
+
