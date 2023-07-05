@@ -48,15 +48,11 @@ criado ao início do projeto. A avaliação foi realizada mediante a participaç
 
 A primeira entrevista foi realizada na manhã do dia 26/06/2023 com o Athur Sousa. Já a segunda foi realizada no mesmo dia, porém, no período da noite com o Danilo Naves. Segue abaixo os links para as duas entrevistas:
 
-- Entrevista 1 - Arthur Sousa:
+### Entrevista 1 - Arthur Sousa:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8BLOnXHPx60" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-- Entrevista 2 - Danilo Naves:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DgxFHQAJw2E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-### Resultados da entrevista 1
+### Resultados da entrevista 1 - 26/06/2023
 
 | Número | Pergunta | Resposta | Observação
 | ----- | ------- | ----- | -----
@@ -74,7 +70,11 @@ O entrevistado conseguiu concluir com os objetivos que foram propostos, mas houv
 a implementação de um botão para poder retroceder a página. Já quanto a confusão que foi observada, se trata de uma não especificação precisa da natureza de um dos dados que é solicitado, com isso, podemos concluir 
 que já temos algumas melhorias que podem ser feitas no protótipo.
 
-### Resultados da entrevista 2
+### Entrevista 2 - Danilo Naves:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DgxFHQAJw2E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### Resultados da entrevista 2 - 26/06/2023
 
 | Número | Pergunta | Resposta | Observação
 | ----- | ------- | ----- | -----
@@ -90,6 +90,27 @@ que já temos algumas melhorias que podem ser feitas no protótipo.
 
 O entrevistado gostou do design e da dinâmica apresentada pelas páginas, a única observação deixada por ele foi a inexistência de um botão de voltar nas páginas. Não houve algo que dificultasse sua dinâmica por entre as páginas até chegar nos objetivos, assim, podemos ficar com a observação dos botões de voltar, que deveriam constar nas páginas desenvolvidas no protótipo.
 
+### Entrevista 3 - Pedro Henrique:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SAle2axRykE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+### Resultados da entrevista 3 - 04/07/2023
+
+| Número | Pergunta | Resposta | Observação
+| ----- | ------- | ----- | -----
+|1|  O usuário consegue utilizar o protótipo? | Sim | 
+|2 |  O usuário consegue utilizar todas as tarefas sem cometer erros? | Sim | 
+|3 |  Qual parte da interação o deixa insatisfeito? | Nenhuma |
+|4  | O usuário entende os elementos e para que eles servem? | Sim |
+|5  |O usuário sabe o que fazer em cada tarefa? | Sim |
+|6  |Quais problemas de IHC dificultam o alcance dos objetivos do usuário? | Não teve | 
+|7 |Quais os principais aspectos que atralham o usuário a alcançar seus objetivos? | Não houve problemas |
+
+### Observações gerais
+
+O entrevistado conseguiu concluir com os objetivos que foram propostos, após o protótipo ter passado por uma refatorção com base nas duas entrevistas anteriores não foi percebido nenhum novo problema para o usário, além disso com os problemas anteriores corrigidos e o protótipo seguindo o guia de estilo foi apenas relatado pelo entrevistado um ótimo trabalho do grupo.
+
 
 ## Bibliografia
 
@@ -99,4 +120,5 @@ O entrevistado gostou do design e da dinâmica apresentada pelas páginas, a ún
 
 | Versão | Data  | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ----- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 26/06/2023  | Criação da versão inicial do artefato.|  [Gabriel Souza]((https://github.com/GabrielMS00) | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
+| `1.0`  | 26/06/2023  | Criação da versão inicial do artefato.|  [Gabriel Souza](https://github.com/GabrielMS00) | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
+| `2.0`  | 26/06/2023  | Adição de nova entrevista com o protótipo na sua versão final | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | [Gabriel Souza](https://github.com/GabrielMS00) |
