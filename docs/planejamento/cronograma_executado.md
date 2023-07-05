@@ -13,12 +13,12 @@ Abaixo, na *Tabela 1*, pode ser observado o cronograma realizado da Etapa 1, na 
 | Atividade | Data da Entrega | Autores | Data da Revisão | Revisores |
 |---|---|---|---|---|
 | Escolha do site | 13/04 | Arthur, Bruno, Danilo, Gabriel, João | 14/04 | Arthur, Bruno, Danilo, Gabriel, João |
-| Ferramentas utilizadas | 22/04 | Bruno | 23/04 | João |
-| Criação da GitHub Page | 22/04 | Bruno e João | 23/04 | João |
-| Criação do Cronograma | 16/04 | Arthur de Melo | 17/04 | Bruno |
-| Processos de Design | 23/04 | Danilo e Arthur Augusto | 24/04 | Bruno, João e Arthur A. |
-| Implementar Cronograma na GitPage | 22/04 | Bruno | 21/04 | João |
-| Realização do Planejamento | 23/04 | Bruno e João | 23/04 | Bruno e João |
+| Listar ferramentas utilizadas: apresentação das ferramentas e utilização de cada uma delas | 22/04 | Bruno | 23/04 | João |
+| Criação da estrutura da GitHub Page: Template de abas e tema | 22/04 | Bruno e João | 23/04 | João |
+| Criação do Cronograma completo: datas, autores, revisores e divisão de tarefas | 16/04 | Arthur de Melo | 17/04 | Bruno |
+|Processos de Design: Conceito e ciclo de vida escolhido | 23/04 | Danilo e Arthur Augusto | 24/04 | Bruno, João |
+| Implementar Cronograma na GitPage | 22/04 | Bruno | 22/04 | João |
+| Realização do Planejamento: avaliação dos sites, contendo introdução e metodologia utilizada | 23/04 | Bruno e João | 23/04 | Bruno e João |
 | Gravar apresentação | 24/04 | Danilo | 24/04 | Gabriel |
 
 <center>
@@ -52,6 +52,7 @@ Abaixo, na *Tabela 3*, pode ser observado o cronograma realizado da Etapa 3, na 
 | Princípios gerais de projeto: listagem dos princípios e descrição de cada um | 11/05 | João e Danilo | 13/05 | Bruno |
 | Metas de usabilidade: definição de metas e identificação de requisitos levantados a partir delas | 14/05 | Arthur Augusto e Gabriel | 14/05 | Bruno e Danilo |
 | Guia de estilo: definição do objetivo, apresentação do conteúdo do guia | 15/05 | Bruno | 15/05 | Arthur Augusto e Gabriel |
+| Características da plataforma: listagem e explicação de cada característica | 10/05 - 13/05 | João Barreto | 13/05 - 14/05 | Gabriel Souza |
 | Gravar apresentação | 15/05 | Arthur Augusto, Bruno, Danilo, Gabriel, João | 15/05 | Arthur Augusto, Bruno, Danilo, Gabriel, João |
 
 <center>
@@ -66,6 +67,7 @@ Abaixo, na *Tabela 4*, pode ser observado o cronograma realizado da Etapa 4, na 
 | Atividade | Data da Entrega | Autores | Data da Revisão | Revisores |
 |---|---|---|---|---|
 | Planejamento da avaliação do storyboard: Metodologia utilizada, papel dos avaliadores, criação das perguntas, questões práticas, questões éticas. | 21/05 | Bruno | 21/05 | Gabriel |
+| Planejamento do relato dos resultados: listagem de elementos do relato, metodologia, problemas e sugestões | 17/05 - 19/05 | Danilo e João | 19/05 - 20/05 | Arthur Augusto |
 | Desenvolvimento dos storyboards | 21/05 | Gabriel | 21/05 | Bruno |
 | Planejamento do relato dos resultados: listagem de elementos do relato, metodologia, problemas e sugestões | 22/05 | Arthur | 22/05 | João |
 | Planejamento da avaliação de análise de tarefas: Definir a metodologia a ser utilizada para executar o planejamento da análise de tarefas e do teste piloto | 19/05 | João | 20/05 | Arthur |
@@ -84,10 +86,11 @@ Abaixo, na *Tabela 5*, pode ser observado o cronograma realizado da Etapa 5, na 
 
 | Atividade | Data da Entrega | Autores | Data da Revisão | Revisores |
 |---|---|---|---|---|
+| Relato dos resultados do storyboard: apresentação da metodologia, objetivos da avaliação dos storyboards e gravação do teste piloto | 24/05 - 27/05 | Arthur Augusto e Gabriel | 27/05 - 28/05 | Bruno |
 | Relato dos resultados da análise de tarefas:  apresentação da metodologia e dos dados coletados. Gravação da entrevista| 29/05 | João e Danilo | 29/05 | Arthur Augusto |
 | Planejamento da avaliação na prototipação de papel: descrição dos objetivos, metodologias e ferramentas. Listagem dos elementos do protótipo, termo de consentimento e entrevista | 27/05 | Bruno | 28/05 | Danilo |
 | Planejamento do relato de resultados da avaliação na prototipação de papel: Descrição dos elementos do relato, objetivo, metodologia, sugestões | 28/05 | Bruno | 28/05 | Danilo |
-| Gravar apresentação | 29/05 | Danilo | 29/05 | Gabriel |
+| Apresentação: gravação, upload do vídeo, envio do link do vídeo no Aprender3 | 29/05 - 29/05 | Danilo | 29/05 - 29/05 | Gabriel |
 
 <center>
 
@@ -105,7 +108,8 @@ Abaixo, na *Tabela 6.1*, pode ser observado o cronograma realizado da Etapa 6, n
 | Planejamento e execução da avaliação dos artefatos da Etapa 03 do grupo 06: Princípios gerais de projeto, metas de usabilidade, guia de estilo. | 04/06 | João Barreto | 04/06 | Bruno Martins |
 | Planejamento e execução da avaliação dos artefatos da Etapa 04 do grupo 06: Planejamento da avaliação do storyboard e análise de tarefas, planejamento do relato dos resultados da avaliação do storyboard e o planejamento do relato dos resultados da avaliação do análise de tarefas. | 05/06 | Arthur Augusto | 05/06 | João e Gabriel |
 | Planejamento e execução da avaliação dos artefatos da Etapa 05 do grupo 06: Relato dos resultados do storyboard e da análise de tarefas, planejamento da avaliação do protótipo de papel e do planejamento do relato dos resultados da avaliação do protótipo de papel.| 04/06 | Danilo Carvalho | 04/06 | João Barreto |
-| Gravar apresentação | 05/06 | Arthur, Bruno, Danilo, Gabriel, João | 05/06 | N/A |
+| Apresentação: gravação, upload do vídeo, envio do link do vídeo no Aprender3 | 04/06 - 05/06 | Bruno | 05/06 - 05/06 | Gabriel |
+
 
 <center>
 

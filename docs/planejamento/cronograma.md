@@ -87,6 +87,7 @@ Abaixo, na *Tabela 5*, pode ser observado o cronograma esperado da Etapa 4, na q
 |---|---|---|---|---|
 | Planejamento da avaliação do storyboard: Metodologia utilizada, papel dos avaliadores, criação das perguntas e desenvolvimento dos storyboards | 17/05 - 19/05 | Bruno e Gabriel | 19/05 - 20/05 | Bruno e Gabriel |
 | Planejamento do relato dos resultados: listagem de elementos do relato, metodologia, problemas e sugestões | 17/05 - 19/05 | Danilo e João | 19/05 - 20/05 | Arthur Augusto |
+| Desenvolvimento dos storyboards | 21/05 | Gabriel | 21/05 | Bruno |
 | Planejamento da avaliação de análise de tarefas: Definir a metodologia a ser utilizada para executar o planejamento da análise de tarefas e do teste piloto | 17/05 - 20/05 | João | 20/05 - 21/05 | Danilo |
 | Planejamento do relato dos resultados da avaliação da análise de tarefas: apresentação da metodologia, definição do objetivo, análise dos dados e sugestões| 17/05 - 20/05 | Danilo e Arthur Augusto | 20/05 - 21/05 | João |
 | Apresentação: gravação, upload do vídeo, envio do link do vídeo no Aprender3 | 21/05 - 22/05| Bruno | 22/05 - 22/05 | Gabriel |
@@ -103,7 +104,7 @@ Abaixo, na *Tabela 6*, pode ser observado o cronograma esperado da Etapa 5, na q
 | Atividade | Período de Entrega *(Início - Fim)* | Autores | Período de Revisão *(Início - Fim)* | Revisores |
 |---|---|---|---|---|
 | Relato dos resultados do storyboard: apresentação da metodologia, objetivos da avaliação dos storyboards e gravação do teste piloto | 24/05 - 27/05 | Arthur Augusto e Gabriel | 27/05 - 28/05 | Bruno |
-| Relato dos resultados da análise de tarefas:  apresentação da metodologia e dos dados coletados. Gravação da entrevista| 24/05 - 28/05 | João e Danilo | 28/05 - 29/05 | Arthur Augusto |
+| Relato dos resultados da análise de tarefas:  apresentação da metodologia e dos dados coletados. Gravação da entrevista| 24/05 - 29/05 | João e Danilo | 28/05 - 29/05 | Arthur Augusto |
 | Planejamento da avaliação na prototipação de papel: descrição dos objetivos, metodologias e ferramentas. Listagem dos elementos do protótipo, termo de consentimento e entrevista | 24/05 - 28/05 | Bruno e Gabriel | 28/05 - 29/05 | Danilo |
 | Planejamento do relato de resultados da avaliação na prototipação de papel: Descrição dos elementos do relato, objetivo, metodologia, sugestões | 24/05 - 27/05 | Bruno e Arthur Augusto | 28/05 - 29/05 | João |
 | Apresentação: gravação, upload do vídeo, envio do link do vídeo no Aprender3 | 29/05 - 29/05 | Bruno | 29/05 - 29/05 | Gabriel |
@@ -119,7 +120,7 @@ Abaixo, na *Tabela 7.1*, pode ser observado o cronograma esperado da Etapa 06.1,
 
 | Atividade | Período de Entrega *(Início - Fim)* | Autores | Período de Revisão *(Início - Fim)* | Revisores |
 |---|---|---|---|---|
-| Planejamento e execução da avaliação dos artefatos da Etapa 01 do grupo 06: Home page, cronograma, cronograma executado, metolodia, ferramentas e processo de Design. | 31/05 - 02/06 | Bruno Martins | 03/06 - 04/06 | João Barreto |
+| Planejamento e execução da avaliação dos artefatos da Etapa 01 do grupo 06: Home page, cronograma, cronograma executado, metolodia, ferramentas e processo de Design. | 31/05 - 05/06 | Bruno Martins | 03/06 - 05/06 | João Barreto |
 | Planejamento e execução da avaliação dos artefatos da Etapa 02 do grupo 06: Perfil do usuário, aspectos éticos de pesquisas envolvendo pessoas, personas e análise de tarefas. | 31/05 - 02/06 | Gabriel Marques | 03/06 - 04/06 | Arthur Augusto |
 | Planejamento e execução da avaliação dos artefatos da Etapa 03 do grupo 06: Princípios gerais de projeto, metas de usabilidade, guia de estilo. | 31/05 - 02/06 | João Barreto | 05/06 | Bruno Martins |
 | Planejamento e execução da avaliação dos artefatos da Etapa 04 do grupo 06: Planejamento da avaliação do storyboard e análise de tarefas, planejamento do relato dos resultados da avaliação do storyboard e o planejamento do relato dos resultados da avaliação do análise de tarefas. | 31/05 - 02/06 | Arthur Augusto | 03/06 - 04/06 | Gabriel Marques |
@@ -171,8 +172,11 @@ Abaixo, na *Tabela 9*, pode ser observado o cronograma esperado da Etapa 8, na q
 
 | Atividade | Período de Entrega *(Início - Fim)* | Autores | Período de Revisão *(Início - Fim)* | Revisores |
 |---|---|---|---|---|
-| Relato dos resultados do protótipo de alta fidelidade: apresentação dos critérios atendidos, detecção de problemas e construção das tabelas que comportarão esses dados | 14/06 - 24/06 | Arthur Augusto, Bruno, Danilo, Gabriel, João | 25/06 - 26/06 | Danilo e Gabriel |
-| Apresentação: gravação, upload do vídeo, envio do link do vídeo no Aprender3 | 25/06 - 26/06 | Bruno | 26/06 - 26/06 | Gabriel |
+| Elaboração do protótipo de alta fidelidade | 21/06 - 26/06 | Arthur Augusto, Danilo Carvalho, Gabriel Marques | 26/06 | João Barreto |
+| Realização do teste piloto da avaliação do protótipo de alta fidelidade | 21/06 - 26/06 | Danilo Carvalho | 26/06 | Gabriel Souza |
+| Registro dos resultados na gitpages | 21/06 - 26/06 | Gabriel Marques | 26/06 | Danilo Carvalho |
+| Refatoração parcial dos artefatos das etapas 1 e 2 | 21/06 - 26/06 | Bruno Martins e João Barreto | 26/06 | Bruno Martins e João Barreto |
+| Apresentação: gravação, upload do vídeo, envio do link do vídeo no Aprender3 | 26/06 | Arthur Augusto, Danilo Carvalho, Gabriel Marques, João Barreto | 26/06 | Bruno Martins |
 
 <center>
 
