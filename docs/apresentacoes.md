@@ -119,6 +119,20 @@ Caso não consiga visualizar o vídeo acima, clique neste link abaixo:
 
 [Link Apresentação 8](https://youtu.be/a8dAjWRSvb0)
 
+## 2.10. Etapa Final
+No *Vídeo 9*, foram demonstrados os principais resultados e os artefatos produzidos na iteração final do projeto.
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3RnOoRZ8tao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+**Vídeo 9:** Apresentação da etapa final do projeto. (Fonte: MARTINS, Bruno; 2023).
+
+</center>
+
+Caso não consiga visualizar o vídeo acima, clique neste link abaixo:
+
+[Link Apresentação Final](https://youtu.be/3RnOoRZ8tao)
+
 ## Bibliografia
 **MACHADO, Maurício; MACÊDO, Lucas; SOUZA, Nícolas**. Lichess: Apresentações. Disponível [aqui](https://interacao-humano-computador.github.io/2022.2-Lichess/apresentacoes/). Acesso em: 12 de junho de 2023.
 
@@ -134,3 +148,4 @@ Caso não consiga visualizar o vídeo acima, clique neste link abaixo:
 |  `1.6`   | 12/06/2023 | Adição do vídeo da apresentação 7. | [Bruno Martins](https://github.com/gitbmvb) | [Gabriel](https://github.com/GabrielMS00) e [João Barreto](https://github.com/JoaoBarreto03) |
 |  `1.7`   | 19/06/2023 | Adição do vídeo da apresentação 6.2. | [Bruno Martins](https://github.com/gitbmvb) | [João Barreto](https://github.com/JoaoBarreto03) |
 |  `1.8`   | 26/06/2023 | Adição do vídeo da apresentação 8. | [Bruno Martins](https://github.com/gitbmvb) | [João Barreto](https://github.com/JoaoBarreto03) |
+|  `1.9`   | 05/07/2023 | Adição do vídeo da apresentação final. | [Bruno Martins](https://github.com/gitbmvb) | [João Barreto](https://github.com/JoaoBarreto03) |
