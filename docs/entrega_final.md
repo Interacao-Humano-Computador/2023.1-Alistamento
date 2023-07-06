@@ -1,51 +1,33 @@
 # Entrega final
 
 ## 1. Introdução
+Durante o primeiro semestre do ano de 2023, o Grupo 5 se responsabilizou com a matéria de Interação Humano Computador ministrada na Universidade de Brasília (UnB - FGA), e seu plano de ensino que previa uma avaliação buscando compreender os aspectos envolvidos em uma interação humano-computador. Desta forma, nos dedicamos em estudar e documentar tais aspectos envolvidos no site do [Alistamento Online](https://alistamento.eb.mil.br/). 
 
-Durante o primeiro semestre do ano de 2023, o Grupo 5 se responsabilizou com a matéria de Interação Humano Computador ministrada na 
-Universidade de Brasília (UnB - FGA), e seu plano de ensino que previa uma avaliação buscando compreender os aspectos envolvidos em uma 
-interação humano-computador. Desta forma, nos dedicamos em estudar e documentar tais aspectos envolvidos no site do 
-[Alistamento Online](https://alistamento.eb.mil.br/). 
-Este artefato possui o objetivo de condensar as informações referentes aos nossos processos e tarefas desenvolvidos ao longo do projeto, 
-abrangendo desde a parte de planejamento do projeto até os resultados obtidos.
+Este artefato possui o objetivo de condensar as informações referentes aos nossos processos e tarefas desenvolvidos ao longo do projeto, abrangendo desde a parte de planejamento do projeto até os resultados obtidos.
 
-## 2. Planejamento
+## 2. Site escolhido
+Durante o processo de avaliação dos sites, os membros do grupo fizeram diversas buscas por plataformas que poderiam ser melhoradas e que tivessem funcionalidades importantes, nas quais poderiam ser reformuladas e entregues de uma maneira mais eficiente para o usuário. Com base nisso, foram analisados 5 sites, que se encontram na aba dos [sites avaliados](planejamento/sites_avaliados.md).
 
-Antes da entrega dos primeiros artefatos do projeto, nossa equipe se reuniu de forma virtual mediante o auxílio do 
-[Microsoft Teams](./planejamento/ferramentas.md) para decidir quais ferramentas de comunicação e quais horários
-seriam escolhidos. Dessa maneira, nas primeiras reuniões foram definidos
-a [metodologia](./planejamento/metodologia.md) de execução do trabalho,
-o [cronograma](./planejamento/cronograma.md) e as
-[ferramentas](./planejamento/ferramentas.md) que seriam
-utilizadas. Cada integrante ficou responsável por fazer
-a [avaliação heurística](./planejamento/avaliacoes/alistamento.md) de um
-site de sua escolha, essa tarefa nos ajudou a termos um embasamento inicial na hora de escolhermos o site que seria avaliado pela equipe. A tabela abaixo mostra os artefatos realizados durante a etapa de planejamento da equipe e elaborados ao longo do semestre:
+Após uma reunião com a equipe, foi decidido que o site do [Alistamento Militar](planejamento/avaliacoes/alistamento.md) seria o objeto de estudo, pelas seguintes motivações:
 
-<center>
+- Site ainda não foi trabalhado na disciplina de IHC;
+- O site apresenta problemas de interface;
+- O site possui diversas funcionalidades que permitem uma análise aprofundada por parte dos membros do grupo;
+- O site possui área de cadastro e login;
+- O site é utilizado por diversas pessoas de forma constante, principalmente no período de alistamento - geralmente jovens entre 17 e 19 anos, o que inclui os calouros dos cursos de engenharia da FGA. Deste modo, teríamos um público alvo para a realização de testes e avaliações;
+- O site possui problemas que geram confusão nos usuários e infrigem os princípios de usabilidade de Nielsen;
 
-| Artefato | Autor(es)| Revisor(es)| 
-| --- | --- | --- |  
-| [Cronograma](./planejamento/cronograma.md) | Bruno Martins | João Barreto
-| [Cronograma](./planejamento/cronograma_executado.md) | Bruno Martins | Arthur Augusto, Danilo Carvalho, Gabriel Souza e João Barreto
-| [Ferramentas](./planejamento/ferramentas.md) | Bruno Martins | João Barreto
-| [Metodologia](./planejamento/metodologia.md) | Arthur Augusto e Bruno Martins | João Barreto  
-| [Sites avaliados](./planejamento/sites_avaliados.md) |  João Barreto e Bruno Martins (refatoração) | Danilo Carvalho
-| [Avaliação do site: Alistamento Militar Online](./planejamento/avaliacoes/alistamento.md) | Artur de Melo e Bruno Martins | João Barreto  
-| [Avaliação do site: Escola de Música em Brasília (EMB)](./planejamento/avaliacoes/escola.md) | Bruno Martins | João Barreto  
-| [Avaliação do site: Shopee](./planejamento/avaliacoes/shopee.md) | João Barreto | Bruno Martins
-| [Avaliação do site: Striker](./planejamento/avaliacoes/striker.md) | Danilo Carvalho e Bruno Martins | João Barreto
-| [Site escolhido](./planejamento/site_escolhido.md) |  João Barreto | Bruno Martins
-| [Processo de Design](./planejamento/processo_design.md) | Danilo Carvalho | João Barreto
+Durante a fase de Análise de Requisitos do Ciclo de Vida de Mayhew (será explicado no próximo tópico), pudemos explorar com mais detalhes o site e suas funcionalidades, bem como os problemas de usabilidade que o mesmo apresenta. Assim, a partir dos dados levantados, optamos por trabalhar as heurísticas do site que foram violadas durante a avaliação do site na primeira etapa do projeto, tais como:
 
+- a
 
+## 3. Ciclo de vida
+<!-- 2. O ciclo de vida utilizado no projeto (justificativa: o motivo da escolha); -->
 
-**Tabela 1:** Artefatos do planejamento com autores e revisores (Fonte: BARRETO, João; 2023).
+## 4. Planejamento dos recursos e das entregas
+Durante a primeira iteração do projeto, foi definido e prescrito no cronograma do planejamento os artefatos e/ou atividades que cada integrante estaria incumbido de produzir, em sua respectivas datas de produção e revisão. No entanto, devido a diversos fatores, como grande quantidade de matérias e trabalhos para todos, bem como a ausência de alguns participantes em vários momentos, ocasionou-se um atraso na entrega da grande maioria dos artefatos.
 
-</center>
-
-## 3. Cronograma Planejado x Cronograma Executado
-
-Na etapa de planejamento, foram definidas as datas, os autores e os revisores de cada artefato. Na tabela abaixo serão listadas as atividades realizadas em cada etapa e comparar o que foi executado, com o planejado:
+No sentido de realizar a comparação entre o que foi planejado e o que foi executado, elaboramos a *Tabela 1* abaixo:
 
 <center>
 
@@ -103,39 +85,211 @@ Na etapa de planejamento, foram definidas as datas, os autores e os revisores de
 | Apresentação: gravação, upload do vídeo, envio do link do vídeo no Aprender3 | 26/06 |  26/06 |Arthur Augusto, Danilo Carvalho, Gabriel Marques, João Barreto |Arthur Augusto, Danilo Carvalho, Gabriel Marques, João Barreto | Bruno Martins | Bruno Martins
 
 
-**Tabela 2**: Cronograma planejado x Cronograma executado (**Fonte:** BARRETO, João; 2023).
+**Tabela 1**: Comparação entre os cronogramas executado e planejado. (**Fonte:** BARRETO, João; 2023).
 
 </center>
 
-## 4. Ferramentas
+## 5. Execução do projeto
+<!-- 4. A execução do projeto (de cada etapa do ciclo de vida); -->
 
-As ferramentas utilizadas durante a execução do projeto estão listadas na tabela abaixo:
+## 6. Resultados alcançados
+<!-- 5. O(s) resultado(s) alcançado(s) com a execução do projeto (em relação ao objetivo do projeto). -->
+
+## 7. Ferramentas utilizadas
+As ferramentas utilizadas durante a execução do projeto estão listadas na *Tabela 2* abaixo:
 
 <center>
 
-Logo | Ferramenta | Descrição | Finalidade no projeto |
-|---|---|---|---|
-| <img src="./img/icones/figma.svg" width="50" height="50"> | Figma [1] | Figma é uma ferramenta de design colaborativa baseada na nuvem. Ela permite que designers e equipes trabalhem juntos em projetos de design de forma eficiente e eficaz. Com o Figma, é possível criar interfaces de usuário, protótipos interativos e colaborar em tempo real. | Trabalhar com protótipos de alta fidelidade na etapa final do projeto (nível 3 de desenvolvimento).
-| <img src="./img/icones/firefox.svg" width="50" height="50"> | Firefox [2] | O Firefox é um navegador de internet gratuito e de código aberto desenvolvido pela Mozilla. Ele oferece uma experiência de navegação rápida, segura e personalizável. | Acessar os sites e utilizar as diversas ferramentas disponíveis na web.
-| <img src="./img/icones/github.svg" width="50" height="50">| Github [3] | O GitHub é uma plataforma de desenvolvimento colaborativo baseada em nuvem que permite que os desenvolvedores armazenem, gerenciem e colaborem em projetos de software. Ele usa o sistema de controle de versão Git, que permite rastrear alterações em arquivos ao longo do tempo.  | Armazenar os artefatos produzidos no repositório da disciplina, criar issues, commits, registrar as atividades e gerenciar o projeto.
-| <img src="./img/icones/chrome.svg" width="50" height="50"> | Google Chrome [4] | O Google Chrome é um navegador de internet rápido, seguro e fácil de usar desenvolvido pelo Google. Ele oferece uma experiência de navegação eficiente, permitindo que os usuários acessem rapidamente sites, pesquisem informações e executem aplicativos da web.  | Acessar os sites e utilizar as diversas ferramentas disponíveis da web.
-| <img src="./img/icones/docs.svg" width="50" height="50"> | Google Docs [5] | O Google Docs é uma ferramenta de processamento de texto baseada na nuvem desenvolvida pelo Google. Ele permite que os usuários criem, editem e compartilhem documentos de texto de forma colaborativa e em tempo real. Com o Google Docs, é possível criar documentos como relatórios, artigos, currículos, etc. | Redigir as entregas das atividades individuais e em grupo, bem como para registrar o link do repositório e do vídeo de apresentação para cada entrega (este é um arquivo que deverá ser postado no aprender a cada entrega, em pdf).
-| <img src="./img/icones/forms.png" width="50" height="50"> | Google Forms [6] | O Google Forms é uma ferramenta de criação de formulários online gratuita fornecida pelo Google. Ela permite que os usuários criem questionários, pesquisas e enquetes de maneira rápida e fácil.  | Criar os questionários para coleta de dados, para assim nos auxiliar a definir as personas e o perfil de usuário da plataforma.
-| <img src="./img/icones/excel.png" width="50" height="50"> | Microsoft Excel [7] | O Microsoft Excel é um programa de planilha eletrônica desenvolvido pela Microsoft. Ele oferece uma ampla gama de recursos para criar, organizar e analisar dados de maneira eficiente. | Criar a planilha do cronograma inicial.
-| <img src="./img/icones/microsoft-teams.svg" width="50" height="50"> | Microsoft Teams [8] | O Microsoft Teams é uma plataforma de comunicação e colaboração baseada na nuvem desenvolvida pela Microsoft. Ela permite que equipes e grupos de trabalho se comuniquem, compartilhem arquivos e colaborem em projetos de forma eficiente.  | Realizar as reuniões semanais, gravar os vídeos das apresentações e entrevistas com os usuários durante a etapa de avaliação de storyboards, protótipos de papel, etc.
-| <img src="./img/icones/miro.png" width="50" height="50"> | Miro [9] | Miro é uma plataforma de colaboração online que permite que equipes trabalhem de forma criativa e colaborativa, independentemente da localização geográfica. Ele é projetado para facilitar a colaboração visual, permitindo que os usuários criem e compartilhem quadros virtuais onde podem colaborar em tempo real. | Auxiliar na classificação do perfil de usuário.
-| <img src="./img/icones/mkdocs.png" width="50" height="50"> | Mkdocs [10] | Mkdocs é um framework open-source que converte arquivos em markdown para html, criando páginas web simples e dinâmicas - geralmente destinadas à documentação. | Criar uma página web do zero seria muito trabalhoso. Por isso, o Mkdocs será empregado para criar páginas em markdown, as quais serão convertidas em html automaticamente no deployment.
-| <img src="./img/icones/telegram.svg" width="50" height="50"> | Telegram [11] | O Telegram é um aplicativo de mensagens instantâneas que permite aos usuários se comunicarem de forma rápida e segura. Ele oferece recursos de troca de mensagens individuais e em grupo, permitindo enviar textos, fotos, vídeos, arquivos e mensagens de voz. | Estabelecer uma comunicação rápida com o professor e os demais colegas da turma, para nos manter constatemente atualizados sobre as atividades e avisos da disciplina.
-| <img src="./img/icones/thispersondoesnotexist.png" width="50" height="50"> | This Person Doesn't Exist [12] | Este é um framework que produz imagens de pessoas fictícias (personas) | As imagens serão empregadas durante a parte de construção das personas, anti-personas, e perfil dos usuários da plataforma. |
-| <img src="./img/icones/visual-studio-code.svg" width="50" height="50"> | VSCode [13] | O VSCode (Visual Studio Code) é um editor de código-fonte desenvolvido pela Microsoft, suporta uma ampla gama de linguagens de programação e oferece recursos avançados, como realce de sintaxe, autocompletar, depuração de código, controle de versão integrado e suporte a extensões. | Construção, desenvolvimento e aprimoramento da gitpages durante todo o projeto, auxiliando-se no framework Mkdocs para redigir arquivos em markdown.
-| <img src="./img/icones/zapzap.png" width="50" height="50"> | Whatsapp [14] | O WhatsApp é um aplicativo de mensagens instantâneas popular para smartphones e outros dispositivos móveis. Ele permite que os usuários enviem mensagens de texto, façam chamadas de voz e vídeo, compartilhem fotos, vídeos, documentos e localização em tempo real. | Estabelecer uma comunicação rápida e informal entre os integrantes do grupo, no intuito de discutir ideias, compartilhar arquivos e documentos úteis, combinar horários, etc.
-| <img src="./img/icones/youtube.svg" width="50" height="50"> | Youtube [15] | O YouTube é uma plataforma de compartilhamento de vídeos online. Ele permite que os usuários carreguem, assistam e compartilhem uma ampla variedade de vídeos em diversos temas e gêneros. | Fazer o upload dos vídeos das apresentações e também das gravações com os participantes das entrevistas (e. g. avaliação dos storyboards, avaliação do protótipo de papel, etc.)
+Logo | Ferramenta | Descrição | Utilização | Etapa |
+|---|---|---|---|---|
+| <img src="img/icones/figma.svg" width="50" height="50"> | Figma | Figma é uma ferramenta de design colaborativa baseada na nuvem. Ela permite que designers e equipes trabalhem juntos em projetos de design de forma eficiente e eficaz. Com o Figma, é possível criar interfaces de usuário, protótipos interativos e colaborar em tempo real. | Utilizado para produzir os protótipos de alta fidelidade no nível 3 desenvolvimento. | Etapa 8 |
+| <img src="/img/icones/firefox.svg" width="50" height="50"> | Firefox | O Firefox é um navegador de internet gratuito e de código aberto desenvolvido pela Mozilla. Ele oferece uma experiência de navegação rápida, segura e personalizável. | Utilizado para acessar sites e as diversas ferramentas disponíveis na web. | Etapas 1 - 8 |
+| <img src="/img/icones/github.svg" width="50" height="50">| Github | O GitHub é uma plataforma de desenvolvimento colaborativo baseada em nuvem que permite que os desenvolvedores armazenem, gerenciem e colaborem em projetos de software. Ele usa o sistema de controle de versão Git, que permite rastrear alterações em arquivos ao longo do tempo.  | Armazenar os artefatos produzidos no repositório da disciplina, criar issues, commits, registrar as atividades e gerenciar o projeto. | Etapas 1 - 8 |
+| <img src="/img/icones/chrome.svg" width="50" height="50"> | Google Chrome | O Google Chrome é um navegador de internet rápido, seguro e fácil de usar desenvolvido pelo Google. Ele oferece uma experiência de navegação eficiente, permitindo que os usuários acessem rapidamente sites, pesquisem informações e executem aplicativos da web.  |Utilizado para acessar sites e as diversas ferramentas disponíveis na web. | Etapas 1 - 8 |
+| <img src="/img/icones/docs.svg" width="50" height="50"> | Google Docs | O Google Docs é uma ferramenta de processamento de texto baseada na nuvem desenvolvida pelo Google. Ele permite que os usuários criem, editem e compartilhem documentos de texto de forma colaborativa e em tempo real. Com o Google Docs, é possível criar documentos como relatórios, artigos, currículos, etc. | Empregado para escrever os PDFs que continham o endereço do repositório e o link do vídeo da respectiva entrega. | Etapas 1 - 8 |
+| <img src="/img/icones/forms.png" width="50" height="50"> | Google Forms | O Google Forms é uma ferramenta de criação de formulários online gratuita fornecida pelo Google. Ela permite que os usuários criem questionários, pesquisas e enquetes de maneira rápida e fácil.  | Empregado para criar os questionários, para coletar dados pessoas que já tinham acessado a plataforma alguma vez, para assim criar o perfil de usuário e as personas. | Etapa 2 |
+| <img src="/img/icones/excel.png" width="50" height="50"> | Microsoft Excel | O Microsoft Excel é um programa de planilha eletrônica desenvolvido pela Microsoft. Ele oferece uma ampla gama de recursos para criar, organizar e analisar dados de maneira eficiente. | Criar a planilha do cronograma inicial. | Etapa 1 |
+| <img src="/img/icones/microsoft-teams.svg" width="50" height="50"> | Microsoft Teams | O Microsoft Teams é uma plataforma de comunicação e colaboração baseada na nuvem desenvolvida pela Microsoft. Ela permite que equipes e grupos de trabalho se comuniquem, compartilhem arquivos e colaborem em projetos de forma eficiente.  | Realizar as reuniões semanais, gravar os vídeos das apresentações e entrevistas com os usuários durante a etapa de avaliação de storyboards, protótipos de papel, etc. | Etapas 1 - 8 |
+| <img src="/img/icones/miro.png" width="50" height="50"> | Miro | Miro é uma plataforma de colaboração online que permite que equipes trabalhem de forma criativa e colaborativa, independentemente da localização geográfica. Ele é projetado para facilitar a colaboração visual, permitindo que os usuários criem e compartilhem quadros virtuais onde podem colaborar em tempo real. | Criar os diagramas HTA da análise de tarefas. | Etapa 2 |
+| <img src="/img/icones/mkdocs.png" width="50" height="50"> | Mkdocs | Mkdocs é um framework open-source que converte arquivos em markdown para html, criando páginas web simples e dinâmicas - geralmente destinadas à documentação. | Utilizado para converter o conteúdo criado em markdown para arquivos estáticos (html, css, js) e assim criar o site da disciplina. | Etapas 1 - 8 |
+| <img src="/img/icones/telegram.svg" width="50" height="50"> | Telegram | O Telegram é um aplicativo de mensagens instantâneas que permite aos usuários se comunicarem de forma rápida e segura. Ele oferece recursos de troca de mensagens individuais e em grupo, permitindo enviar textos, fotos, vídeos, arquivos e mensagens de voz. | Estabelecer uma comunicação rápida com o professor e os demais colegas da turma, para nos manter constatemente atualizados sobre as atividades e avisos da disciplina. | Etapas 1 - 8 |
+| <img src="/img/icones/thispersondoesnotexist.png" width="50" height="50"> | This Person Doesn't Exist [12] | Este é um framework que produz imagens de pessoas fictícias (personas) | Elaborar as imagens das personas e antipersonas. | Etapa 2 |
+| <img src="/img/icones/visual-studio-code.svg" width="50" height="50"> | VSCode | O VSCode (Visual Studio Code) é um editor de código-fonte desenvolvido pela Microsoft, suporta uma ampla gama de linguagens de programação e oferece recursos avançados, como realce de sintaxe, autocompletar, depuração de código, controle de versão integrado e suporte a extensões. | Construção, desenvolvimento e aprimoramento da gitpages durante todo o projeto, auxiliando-se no framework Mkdocs para redigir arquivos em markdown. | Etapas 1 - 8 |
+| <img src="/img/icones/zapzap.png" width="50" height="50"> | Whatsapp | O WhatsApp é um aplicativo de mensagens instantâneas popular para smartphones e outros dispositivos móveis. Ele permite que os usuários enviem mensagens de texto, façam chamadas de voz e vídeo, compartilhem fotos, vídeos, documentos e localização em tempo real. | Estabelecer uma comunicação rápida e informal entre os integrantes do grupo, no intuito de discutir ideias, compartilhar arquivos e documentos úteis, combinar horários, etc. | Etapas 1 - 8 |
+| <img src="/img/icones/youtube.svg" width="50" height="50"> | Youtube | O YouTube é uma plataforma de compartilhamento de vídeos online. Ele permite que os usuários carreguem, assistam e compartilhem uma ampla variedade de vídeos em diversos temas e gêneros. | Fazer o upload dos vídeos das apresentações e também das gravações com os participantes das entrevistas (e. g. avaliação dos storyboards, avaliação do protótipo de papel, etc.) | Etapas 1 - 8 |
 
-**Tabela 3:** Ferramentas utilizadas no projeto (Fonte: MARTINS, Bruno; 2023).
+**Tabela 2:** Ferramentas utilizadas no projeto (Fonte: MARTINS, Bruno; 2023).
 
 </center>
 
-## 5. Ciclo de vida
+## 8. Técnicas utilizadas
+A *Tabela 3* abaixo resume as técnicas utilizadas na execução do projeto, bem como os artefatos nos quais eles foram utilizados e por quem.
+
+<center>
+
+| Técnicas | Artefatos *(autores)* |
+| --- | --- |
+| Análise Hierárquica de Tarefas | Análise de tarefas *(Bruno Martins, João Barreto)* |
+| Avaliação Heurística de Nielsen | Avaliação individual de um site da web *(Bruno Martins)* |
+| Entrevistas | Avaliação dos storyboards *(?)*, Avaliação da análise de tarefas *(?)*, Avaliação dos protótipos de papel *(?)*, Avaliação do protótipo de alta fidelidade *(?)* |
+| Framework DECIDE | Planejamento da avaliação dos storyboards *(Bruno Martins)*, Planejamento da avaliação dos protótipos de papel *(Bruno Martins)*, Planejamento da avaliação do protótipo de alta fidelidade *(Bruno Martins)* |
+| Gravações | Apresentações *(Arthur, Bruno, Danilo, Gabriel, João)* |
+| Inspeção de Fagan - Checklists | Verificação dos artefatos *(Arthur, Bruno, Danilo, Gabriel, João)* |
+| Método GOMS | Análise de tarefas *(João Barreto)* |
+| Questionários | Perfil do usuário *(Arthur Augusto e Danilo Carvalho)* |
+| Teste piloto | Avaliação dos storyboards *(?)*, Avaliação dos protótipos de papel *(?)*, Avaliação do protótipo de alta fidelidade *(?)* |
+
+
+**Tabela 3:** Técnicas utilizadas ao longo do projeto (Fonte: MARTINS, Bruno; 2023).
+
+</center>
+
+## 9. Artefatos criados
+<!-- 8. Uma tabela sintetizando quais artefatos foram criados no projeto em cada etapa do projeto com autor e revisor; -->
+<!-- TABELA 4 -->
+Nas *Tabelas (4.1 a 4.8)* abaixo é possível visualizar os artefatos criados durante o projeto, bem como seus autores e revisores.
+
+### 9.1. Etapa 1
+
+### 9.2. Etapa 2
+
+### 9.3. Etapa 3
+
+### 9.4. Etapa 4
+
+### 9.5. Etapa 5
+
+### 9.6. Etapa 6
+
+### 9.7. Etapa 7
+
+### 9.8. Etapa 8
+
+## 10. Avaliações dos protótipos
+A *Tabela 5* abaixo apresenta as avaliações realizadas ao longo do projeto, bem como os entrevistadores e o número de participantes.
+
+<center>
+
+| Avaliação | Entrevistador | Número de Participantes | Participantes |
+| --- | --- | --- | --- |
+| Avaliação da análise de tarefas | ? | ? | ? |
+| Avaliação dos storyboards | ? | ? | ? |
+| Avaliação dos protótipos de papel | ? | ? | ? |
+| Avaliação do protótipo de alta fidelidade | ? | ? | ? |
+
+**Tabela 5:** Avaliações realizadas ao longo do projeto (Fonte: MARTINS, Bruno; 2023).
+
+</center>
+
+## 11. Verificação dos artefatos
+A *Tabela 6.1* apresentada abaixo exibe de forma concisa os artefatos/atividades do grupo 06 que foram avaliados pelo grupo 05. Cada artefato conta com um autor, revisor, e método de avaliação. Cada item se refere tanto ao planejamento como à execução da verificação.
+
+<center>
+
+| Artefato/Atividade | Autor | Revisor | Método de Verificação |
+|---|---|---|---|
+| Home page, cronograma planejado, cronograma executado, metodologias, ferramentas, processos de design | Bruno Martins | João Barreto | Inspeção de Fagan por checklists |
+| Perfil de usuário, aspectos éticos, personas, análise de tarefas | Gabriel Marques | João Barreto | Inspeção de Fagan por checklists |
+| Princípios gerais do projeto, metas de usabilidade, guia de estilo | João Barreto | Bruno Martins | Inspeção de Fagan por checklists |
+| Planejamento da avaliação do storyboard e análise de tarefas, planejamento do relato dos resultados. | Arthur Augusto | Gabriel | Inspeção de Fagan por checklists |
+| Relato dos resultados do storyboard e da análise de tarefas, planejamento da avaliação do protótipo de papel, planejamento do relato dos resultados da avaliação do protótipo de papel  | Danilo Carvalho | João Barreto | Inspeção de Fagan por checklists |
+
+**Tabela 6.1:** Artefatos/atividades do grupo 06 avaliados pelos integrantes do grupo 05 (Fonte: MARTINS, Bruno; 2023).
+
+</center>
+
+A *Tabela 6.2* apresentada abaixo exibe de forma concisa os artefatos/atividades avaliados pelos integrantes do grupo 05 sobre as suas produções. Via de regra, os autores continuaram os mesmos, mas houve mudanças de revisores.
+
+<center>
+
+| Artefato/Atividade | Autor | Revisor | Método de Verificação |
+|---|---|---|---|
+| Home page, cronograma planejado, cronograma executado, metodologias, ferramentas, processos de design | Bruno Martins | Arthur Augusto | Inspeção de Fagan por checklists |
+| Perfil de usuário, aspectos éticos, personas, análise de tarefas | Gabriel Marques | João Barreto | Inspeção de Fagan por checklists |
+| Princípios gerais do projeto, metas de usabilidade, guia de estilo | João Barreto | Bruno Martins | Inspeção de Fagan por checklists |
+| Planejamento da avaliação do storyboard e análise de tarefas, planejamento do relato dos resultados. | Arthur Augusto | Bruno Martins | Inspeção de Fagan por checklists |
+| Relato dos resultados do storyboard e da análise de tarefas, planejamento da avaliação do protótipo de papel, planejamento do relato dos resultados da avaliação do protótipo de papel  | Danilo Carvalho | João Barreto | Inspeção de Fagan por checklists |
+
+**Tabela 6.2:** Artefatos/atividades verificados do grupo 05 (Fonte: MARTINS, Bruno; 2023).
+
+</center>
+
+
+## 12. Apresentações
+A *Tabela 7* abaixo sintetiza os participantes que participaram do vídeo de gravação da entrega de cada etapa do projeto.
+
+<center>
+
+Etapa | Data da Gravação | Link do vídeo | Participantes | Upload do vídeo |
+|---|---|---|---|---|
+| Etapa 1 | 24/04/2023 | [Entrega 1](https://youtu.be/xdp7TSaSQKo) | Arthur, Bruno, Danilo, Gabriel João | Bruno Martins |
+| Etapa 2 | 08/05/2023 | [Entrega 2](https://youtu.be/cbzj50MepgE) | Arthur, Bruno, Danilo, Gabriel João  | Bruno Martins |
+| Etapa 3 | 15/05/2023 | [Entrega 3](https://youtu.be/4XSKhGRtvl4) | Arthur, Bruno, Danilo, Gabriel João | Bruno Martins |
+| Etapa 4 | 22/05/2023 | [Entrega 4](https://www.youtube.com/embed/xxACLi_M18c) | Arthur, Bruno, Danilo, Gabriel João | Bruno Martins |
+| Etapa 5 | 29/05/2023 | [Entrega 5](https://youtu.be/ouKcZbslUMY) | Arthur, Bruno, Danilo, Gabriel João | Bruno Martins |
+| Etapa 6.1 | 05/06/2023 | [Entrega 6.1](https://youtu.be/7__e0bi1azM) | Arthur, Bruno, Danilo, Gabriel João | Bruno Martins |
+| Etapa 6.2 | 19/06/2023 | [Entrega 6.2](https://youtu.be/SWenvwVAKjw) | Arthur, Bruno, João | Bruno Martins |
+| Etapa 7 | 12/06/2023 | [Entrega 7](https://youtu.be/QYtNXErrosc) | Bruno, Gabriel, João | Bruno Martins |
+| Etapa 8 | 26/06/2023 | [Entrega 8](https://youtu.be/a8dAjWRSvb0) | Arthur, Danilo, Gabriel | Bruno Martins |
+
+**Tabela 7:** Etapas e integrantes (Fonte: MARTINS, Bruno; 2023).
+
+</center>
+
+
+
+
+
+
+
+<!-- SUBSTITUIR -->
+
+
+
+
+
+
+
+
+
+
+
+# Entrega final
+
+## 2. Planejamento
+
+Antes da entrega dos primeiros artefatos do projeto, nossa equipe se reuniu de forma virtual mediante o auxílio do 
+[Microsoft Teams](./planejamento/ferramentas.md) para decidir quais ferramentas de comunicação e quais horários
+seriam escolhidos. Dessa maneira, nas primeiras reuniões foram definidos
+a [metodologia](./planejamento/metodologia.md) de execução do trabalho,
+o [cronograma](./planejamento/cronograma.md) e as
+[ferramentas](./planejamento/ferramentas.md) que seriam
+utilizadas. Cada integrante ficou responsável por fazer
+a [avaliação heurística](./planejamento/avaliacoes/alistamento.md) de um
+site de sua escolha, essa tarefa nos ajudou a termos um embasamento inicial na hora de escolhermos o site que seria avaliado pela equipe. A tabela abaixo mostra os artefatos realizados durante a etapa de planejamento da equipe e elaborados ao longo do semestre:
+
+<center>
+
+| Artefato | Autor(es)| Revisor(es)| 
+| --- | --- | --- |  
+| [Cronograma](./planejamento/cronograma.md) | Bruno Martins | João Barreto
+| [Cronograma](./planejamento/cronograma_executado.md) | Bruno Martins | Arthur Augusto, Danilo Carvalho, Gabriel Souza e João Barreto
+| [Ferramentas](./planejamento/ferramentas.md) | Bruno Martins | João Barreto
+| [Metodologia](./planejamento/metodologia.md) | Arthur Augusto e Bruno Martins | João Barreto  
+| [Sites avaliados](./planejamento/sites_avaliados.md) |  João Barreto e Bruno Martins (refatoração) | Danilo Carvalho
+| [Avaliação do site: Alistamento Militar Online](./planejamento/avaliacoes/alistamento.md) | Artur de Melo e Bruno Martins | João Barreto  
+| [Avaliação do site: Escola de Música em Brasília (EMB)](./planejamento/avaliacoes/escola.md) | Bruno Martins | João Barreto  
+| [Avaliação do site: Shopee](./planejamento/avaliacoes/shopee.md) | João Barreto | Bruno Martins
+| [Avaliação do site: Striker](./planejamento/avaliacoes/striker.md) | Danilo Carvalho e Bruno Martins | João Barreto
+| [Site escolhido](./planejamento/site_escolhido.md) |  João Barreto | Bruno Martins
+| [Processo de Design](./planejamento/processo_design.md) | Danilo Carvalho | João Barreto
+
+
+
+**Tabela 1:** Artefatos do planejamento com autores e revisores (Fonte: BARRETO, João; 2023).
+
+</center>
+
 
 
 ### 5.1. Análise de Requisitos
