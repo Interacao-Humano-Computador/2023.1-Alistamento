@@ -278,12 +278,12 @@ A *Tabela 5* abaixo apresenta as avaliações realizadas ao longo do projeto, be
 
 | Avaliação | Entrevistador | Número de Participantes | Participantes |
 | --- | --- | --- | --- |
-| Avaliação da análise de tarefas | ? | ? | ? |
-| Avaliação dos storyboards | ? | ? | ? |
-| Avaliação dos protótipos de papel | ? | ? | ? |
-| Avaliação do protótipo de alta fidelidade | ? | ? | ? |
+| Avaliação da análise de tarefas | João Barreto | 3 | Arthur Sousa, Cauã Nycolas, Maurício Ferreira |
+| Avaliação dos storyboards | João Barreto | 3 | Arthur Souza, Danilo Naves, Maurício Ferreira |
+| Avaliação dos protótipos de papel | João Barreto | 4 | Arthur Sousa, Danilo Naves, Maurício Ferreira |
+| Avaliação do protótipo de alta fidelidade | Danilo Carvalho | 4 | Arthur Sousa, Danilo Naves, Maurício Ferreira, Pedro Henrique |
 
-**Tabela 5:** Avaliações realizadas ao longo do projeto (Fonte: MARTINS, Bruno; 2023).
+**Tabela 5:** Avaliações realizadas ao longo do projeto (Fonte: BARRETO, João; 2023).
 
 </center>
 
