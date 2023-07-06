@@ -150,20 +150,126 @@ A *Tabela 3* abaixo resume as técnicas utilizadas na execução do projeto, bem
 Nas *Tabelas (4.1 a 4.8)* abaixo é possível visualizar os artefatos criados durante o projeto, bem como seus autores e revisores.
 
 ### 9.1. Etapa 1
+Abaixo, na *Tabela 4.1*, é possível visualizar os artefatos criados na **Etapa 1** do projeto, bem como seus autores e revisores.
+
+<center>
+
+| Artefato | Autor(es)| Revisor(es)| 
+| --- | --- | --- |
+| [Home page](./home.md) | João Barreto | Bruno Martins |  
+| [Cronograma](./planejamento/cronograma.md) | Bruno Martins | João Barreto
+| [Cronograma executado](./planejamento/cronograma_executado.md) | Bruno Martins | Arthur Augusto, Danilo Carvalho, Gabriel Souza e João Barreto
+| [Ferramentas](./planejamento/ferramentas.md) | Bruno Martins | João Barreto
+| [Metodologia](./planejamento/metodologia.md) | Arthur Augusto e Bruno Martins | João Barreto  
+| [Sites avaliados](./planejamento/sites_avaliados.md) |  João Barreto e Bruno Martins | Danilo Carvalho
+| [Avaliação do site: Alistamento Militar Online](./planejamento/avaliacoes/alistamento.md) | Artur de Melo e Bruno Martins | João Barreto  
+| [Avaliação do site: Escola de Música em Brasília (EMB)](./planejamento/avaliacoes/escola.md) | Bruno Martins | João Barreto  
+| [Avaliação do site: Shopee](./planejamento/avaliacoes/shopee.md) | João Barreto | Bruno Martins
+| [Avaliação do site: Striker](./planejamento/avaliacoes/striker.md) | Danilo Carvalho e Bruno Martins | João Barreto
+| [Site escolhido](./planejamento/site_escolhido.md) |  João Barreto | Bruno Martins
+| [Processo de Design](./planejamento/processo_design.md) | Danilo Carvalho | João Barreto
+
+**Tabela 4.1:** Artefatos entregues da Etapa 1 (Fonte: BARRETO, João; 2023).
+
+</center>
 
 ### 9.2. Etapa 2
+Abaixo, na *Tabela 4.2*, é possível visualizar os artefatos criados na **Etapa 2** do projeto, bem como seus autores e revisores.
+
+<center>
+
+| Artefato | Autor (es) | Revisor (es) |
+| --- | --- | --- |
+| [Aspectos Éticos](./analise_requisitos/aspectos_eticos.md)| Gabriel Souza, João Barreto e Bruno Martins| Danilo Carvalho e João Barreto
+| [Perfil dos Usuários](./analise_requisitos/perfil_do_usuario.md)| Arthur Augusto, Danilo Carvalho e João Barreto | Bruno Martins e João Barreto  
+| [Personas](./analise_requisitos/personas.md)| Arthur Augusto, Danilo Carvalho e João Barreto | Bruno Martins e João Barreto 
+| [Análise de Tarefas](./analise_requisitos/analise_tarefas.md)| Bruno Martins, Gabriel Souza e João Barreto | João Barreto, Danilo Carvalho, Bruno Martins
+| [Cenários](./analise_requisitos/cenarios.md)| João Barreto | Bruno Martins
+
+**Tabela 4.2:** Artefatos entregues da Etapa 2 (Fonte: BARRETO, João; 2023).
+
+</center>
 
 ### 9.3. Etapa 3
+Abaixo, na *Tabela 4.3*, é possível visualizar os artefatos criados na **Etapa 3** do projeto, bem como seus autores e revisores.
+
+<center>
+
+| Artefato | Autor (es) | Revisor (es) |
+| --- | --- | --- |
+| [Princípios Gerais do Projeto](./analise_requisitos/principios_gerais.md)| Danilo Carvalho e João Barreto | Bruno Martins
+| [Metas de Usabilidade](./analise_requisitos/metas_usabilidade.md)| Gabriel Souza, Arthur Augusto e João Barreto| Bruno Martins
+| [Guia de Estilo](./analise_requisitos/guia_estilo.md)| Bruno Martins e João Barreto | Arthur Augusto e Gabriel Souza
+| [Características da Plataforma](./analise_requisitos/caracteristicas.md)| João Barreto e Bruno Martins| Arthur Augusto, Bruno Martins e Gabriel Souza
+
+**Tabela 4.3:** Artefatos entregues da Etapa 3 (Fonte: BARRETO, João; 2023).
+
+</center>
 
 ### 9.4. Etapa 4
+Abaixo, na *Tabela 4.4*, é possível visualizar os artefatos criados na **Etapa 4** do projeto, bem como seus autores e revisores.
+
+<center>
+
+| Artefato | Autor (es) | Revisor (es) |
+| --- | --- | ---
+| [Planejamento da Avaliação da Análise de Tarefas](./design_avaliacao_desenvolvimento/nivel1/analise_tarefas/planejamento_avaliacao.md)| João Barreto | Bruno Martins
+| [Planejamento da Avaliação do Storyboard](./design_avaliacao_desenvolvimento/nivel1/storyboard/planejamento_avaliacao.md)| Bruno Martins | Arthur Augusto e Gabriel Souza
+| [Planejamento do relato dos resultados da Avaliação da Análise de Tarefas](./design_avaliacao_desenvolvimento/nivel1/analise_tarefas/planejamento_do_relato_dos_resultados.md)| Danilo Carvalho| João Barreto
+| [Planejamento do Relato de Resultados da Avaliação do Storyboard](./design_avaliacao_desenvolvimento/nivel1/storyboard/planejamento_do_relato_dos_resultados.md)|   Arthur Augusto | João Barreto
+| [Storyboards produzidos](./design_avaliacao_desenvolvimento/nivel1/storyboard/storyboard.md)| Gabriel Souza e João Barreto | Gabriel Souza, João Barreto e Bruno Martins
+
+**Tabela 4.4:** Artefatos entregues da Etapa 4 (Fonte: BARRETO, João; 2023).
+
+</center>
 
 ### 9.5. Etapa 5
+Abaixo, na *Tabela 4.5*, é possível visualizar os artefatos criados na **Etapa 5** do projeto, bem como seus autores e revisores.
+
+<center>
+
+| Artefato | Autor (es) | Revisor (es) |
+| --- | --- | --- |
+| [Relato dos Resultados da Avaliação da Análise de Tarefas](./design_avaliacao_desenvolvimento/nivel1/analise_tarefas/relato_resultados.md)| João Barreto e Danilo Carvalho | João Barreto e Danilo Carvalho
+| [Relato de Resultados da Avaliação do Storyboard](./design_avaliacao_desenvolvimento/nivel1/storyboard/relato_resultados.md)| Gabriel Souza e Danilo Carvalho |  Arthur Augusto e João Barreto
+| [Planejamento da Avaliação do Protótipo de Papel](./design_avaliacao_desenvolvimento/nivel2/planejamento-avaliacao-prototipo-papel.md)| Bruno Martins| Danilo Carvalho 
+| [Planejamento do Relato dos Resultados da Avaliação da Prototipação em Papel](./design_avaliacao_desenvolvimento/nivel2/planejamento-relato-avaliacao-prototipo-papel.md)| Gabriel Souza, Bruno Martins e Danilo Carvalho| Arthur Augusto, Bruno Martins e Danilo Carvalho
+
+**Tabela 4.5:** Artefatos entregues da Etapa 5 (Fonte: BARRETO, João; 2023).
+
+</center>
 
 ### 9.6. Etapa 6
+Abaixo, na *Tabela 4.6*, é possível visualizar os artefatos criados na **Etapa 6** do projeto, bem como seus autores e revisores.
 
 ### 9.7. Etapa 7
+Abaixo, na *Tabela 4.7*, é possível visualizar os artefatos criados na **Etapa 7** do projeto, bem como seus autores e revisores.
+
+<center>
+
+| Artefato | Autor (es) | Revisor (es) |
+| --- | --- | --- |
+| [Relato dos resultados da Avaliação do Protótipo de Papel](./design_avaliacao_desenvolvimento/nivel2/relato_resultados_prototipo_de_papel.md)| Gabriel Souza e Danilo Carvalho | João Barreto e Bruno Martins
+| [Planejamento da Avaliação do Protótipo de Alta Fidelidade](./design_avaliacao_desenvolvimento/nivel3/planejamento-prototipo-alta-fidelidade.md)| Bruno Martins e João Barreto | Gabriel Souza
+| [Planejamento do Relato dos Resultados da Avaliação da  Protótipo de Alta Fidelidade](./design_avaliacao_desenvolvimento/nivel3/planejamento_relato_alta_fidelidade.md)| João Barreto | Bruno Martins
+
+**Tabela 4.7:** Artefatos entregues da Etapa 7 (Fonte: BARRETO, João; 2023).
+
+</center>
 
 ### 9.8. Etapa 8
+Abaixo, na *Tabela 4.8*, é possível visualizar os artefatos criados na **Etapa 8** do projeto, bem como seus autores e revisores.
+
+<center>
+
+| Artefato | Autor (es) | Revisor (es) |
+| --- | --- | --- |
+| [Protótipo Alta Fidelidade Desenvolvidos](./design_avaliacao_desenvolvimento/nivel3/prototipo_de_alta_fidelidade.md)| Danilo Carvalho e Arthur Augusto | Gabriel Souza e Bruno Martins
+| [Relato dos resultados da Avaliação do Protótipo de Alta Fidelidade](./design_avaliacao_desenvolvimento/nivel3/relato_alta_fidelidade.md)| Gabriel Souza e Danilo Carvalho | Gabriel Souza e Danilo Carvalho
+
+**Tabela 4.8:** Artefatos entregues da Etapa 8 (Fonte: BARRETO, João; 2023).
+
+</center>
 
 ## 10. Avaliações dos protótipos
 A *Tabela 5* abaixo apresenta as avaliações realizadas ao longo do projeto, bem como os entrevistadores e o número de participantes.
@@ -236,11 +342,18 @@ Etapa | Data da Gravação | Link do vídeo | Participantes | Upload do vídeo |
 
 </center>
 
-
+## Histórico de versão
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| --- | --- | --- | --- | --- |
+|  `1.0`   | 04/06/2023 | Criação inicial da página: adicionando os tópicos 1 e 3 | [João Barreto](https://github.com/JoaoBarreto03) | [Bruno Martins](https://github.com/gitbmvb) |
+|  `1.1`   | 05/06/2023 | Reestruturando a página nos tópicos corretos | [Bruno Martins](https://github.com/gitbmvb) | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
+|  `1.2`   | 05/06/2023 | Adicionando os tópicos 2, 8, 9, 10, 11, 12 | [Bruno Martins](https://github.com/gitbmvb) | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
 
 
 
 <!-- 
+## Extra
+
 
 
 
@@ -265,27 +378,6 @@ utilizadas. Cada integrante ficou responsável por fazer
 a [avaliação heurística](./planejamento/avaliacoes/alistamento.md) de um
 site de sua escolha, essa tarefa nos ajudou a termos um embasamento inicial na hora de escolhermos o site que seria avaliado pela equipe. A tabela abaixo mostra os artefatos realizados durante a etapa de planejamento da equipe e elaborados ao longo do semestre:
 
-<center>
-
-| Artefato | Autor(es)| Revisor(es)| 
-| --- | --- | --- |  
-| [Cronograma](./planejamento/cronograma.md) | Bruno Martins | João Barreto
-| [Cronograma](./planejamento/cronograma_executado.md) | Bruno Martins | Arthur Augusto, Danilo Carvalho, Gabriel Souza e João Barreto
-| [Ferramentas](./planejamento/ferramentas.md) | Bruno Martins | João Barreto
-| [Metodologia](./planejamento/metodologia.md) | Arthur Augusto e Bruno Martins | João Barreto  
-| [Sites avaliados](./planejamento/sites_avaliados.md) |  João Barreto e Bruno Martins (refatoração) | Danilo Carvalho
-| [Avaliação do site: Alistamento Militar Online](./planejamento/avaliacoes/alistamento.md) | Artur de Melo e Bruno Martins | João Barreto  
-| [Avaliação do site: Escola de Música em Brasília (EMB)](./planejamento/avaliacoes/escola.md) | Bruno Martins | João Barreto  
-| [Avaliação do site: Shopee](./planejamento/avaliacoes/shopee.md) | João Barreto | Bruno Martins
-| [Avaliação do site: Striker](./planejamento/avaliacoes/striker.md) | Danilo Carvalho e Bruno Martins | João Barreto
-| [Site escolhido](./planejamento/site_escolhido.md) |  João Barreto | Bruno Martins
-| [Processo de Design](./planejamento/processo_design.md) | Danilo Carvalho | João Barreto
-
-
-
-**Tabela 1:** Artefatos do planejamento com autores e revisores (Fonte: BARRETO, João; 2023).
-
-</center>
 
 
 
