@@ -22,7 +22,19 @@ Durante a fase de Análise de Requisitos do Ciclo de Vida de Mayhew (será expli
 - a
 
 ## 3. Ciclo de vida
-<!-- 2. O ciclo de vida utilizado no projeto (justificativa: o motivo da escolha); -->
+
+O grupo decidiu utilizar a engenharia de usabilidade de Mayhew para o desenvolvimento do projeto, já que é um processo bem detalhado, organizado, completo, ideal para iniciantes e com baixa flexibilidade, ou seja, não teríamos o risco de nos perder durante o processo de design. Além disso focamos nas duas primeiras fases do processo, visto que a terceira fase (Instalação) foge do escopo da disciplina de Interação Humano-Computador.
+
+A Figura 1 mostra um diagrama do ciclo de vida.
+
+![Engenharia de Usabilidade de Mayhew](./img/planejamento/diagrama_mayhew.jpg)
+<div style="text-align: center">
+<p> Figura 1: Diagrama da engenharia de usabilidade de Mayhew. (Fonte: BARBOSA e SILVA; 2011).</p>
+</div>
+
+- **Análise de Requisitos**: Com base principalmente no perfil do usuário e na análise de tarefas, nesta fase serão definidas as metas de usabilidades, que são fatores de qualidade que devem ser priorizados no projeto. O guia de estilo define as principais decisões de design a serem tomadas para que as metas de usabilidade possam ser atingidas, além disso o guia de estilo facilita na verificação das metas de usabilidade em outras fases do processo.
+
+- **Design, Avaliação e Desenvolvimento**: Nessa fase é construida uma solução de IHC que atenda às metas de usabilidade. Projetamos essa solução do menor nível de detalhe (modelo conceitual), até um nível de maior detalhe (protótipo de alta fidelidade). Em cada nível de detalhe temos uma rotina de projetar, desenvolver, e avaliar um modelo ou protótipo, só avançamos de nível quando o projeto for bem avaliado e seguir o guia de estilo.
 
 ## 4. Planejamento dos recursos e das entregas
 Durante a primeira iteração do projeto, foi definido e prescrito no cronograma do planejamento os artefatos e/ou atividades que cada integrante estaria incumbido de produzir, em sua respectivas datas de produção e revisão. No entanto, devido a diversos fatores, como grande quantidade de matérias e trabalhos para todos, bem como a ausência de alguns participantes em vários momentos, ocasionou-se um atraso na entrega da grande maioria dos artefatos.
@@ -105,7 +117,34 @@ O Ciclo de Vida de Mayhew [1] oferece uma abordagem estruturada para o desenvolv
 
 
 ## 6. Resultados alcançados
-<!-- 5. O(s) resultado(s) alcançado(s) com a execução do projeto (em relação ao objetivo do projeto). -->
+Esta seção apresenta os resultados alcançados durante o trabalho realizado na disciplina de Interação Humano-Computador e lista os pontos positivos e negativos identificados pelo Grupo 05, responsável pelo repositório de análise do site de Alistamento Militar Online. O documento tem como objetivo apresentar uma dissertação a respeito dos resultados do grupo ao longo do projeto e se o objetivo inicial do grupo foi atingido, além de identificar as razões do sucesso ou insucesso de tal projeto.
+
+## 6.1 Objetivo do projeto
+Esse trabalho teve como objetivo principal contribuir de forma prática na aquisição de conhecimento dos integrantes do Grupo 05, com a realização de atividades práticas, para isso foi escolhido um Sistema web, a nossa gitpage, no qual o grupo pode exercer os conhecimentos adquiridos ao longo do semestre na disciplina de Interação Humano-Computador de forma prática.
+
+## 6.2 Resultados
+Ao decorrer do projeto os membros puderam praticar seus conhecimentos através da elaboração de artefatos de Planejamento, Análise de Requisitos, Design, Avaliação e Desenvolvimento e Verificação, assim passando por algumas etapas nas quais foi necessário o contato com usuários reais. Dessa forma, foi possível que todos os membros do grupo aprendessem o conteúdo unindo teoria e prática, assim facilitando o entendimento do conteúdo e realizando todas as atividades propostas para o grupo durante a disciplina.
+
+O artefato de Planejamento foi essencial, ainda que inicialmente incompleto e inconsistente com a realidade devido à falta de experiência do grupo com elaboração de projetos relacionados à Interação Humano-Computador. A fase de Análise de Requisitos permitiu que o grupo tivesse um contato inicial com usuários reais da plataforma de modo que foi possível entender melhor suas necessidades com relação ao software produzido e ajudou o grupo a por em prática os conhecimentos adquiridos ao longo do semestre, de forma análoga na etapa de Design, Avaliação e Desenvolvimento o grupo adquirir conhecimentos práticos e teóricos, por meio do contato com usuários, desenvolvimentos de protótipos de baixa e alta fidelidade. Já na fase de verificação o grupo pode identificar o que precisaria ser melhorado, assim como durante as apresentações de ponto de controle.
+
+Sobre esse prisma, a conclusão desse trabalho permitiu que o grupo aprendesse o contúdo da matéria, entendesse melhor o ciclo de vida de um software, principalmente com relação ao Design, conforme o detalhamento do Ciclo de vida da Mayhew.
+
+Para a conclusão dos resultados pode-se assumir que o projeto desenvolvido foi um sucesso pois atendeu a todos os requistos e padrões definidas nas metas de usabilidade, além disso a avaliação realizada do site de Alistamento Militar Online teve os seus pontos negativos supridos pelo que foi desenvolvido no protótipo de alta fidelidade, há apenas uma observação a ser feita que seria quanto há avaliação do site, nela é definida que um dos problemas do site é que os botões são dos mesmos tamanhos e possuem as mesmas cores, porém mesmo o protótipo de alta fidelidade ter seguido esses padrões não forma vistos como erros por nenhum dos usários que realizaram as entrevistas, após as correções realizadas do protótipo a unica observação feita pelo usário é que o projeto estava "claro, objetivo e muito bem estruturado".
+
+## 6.3 Facilidades
+As facilidades do grupo ao longo do projeto foram:
+
+Facilidade de pesquisa devido à grande quantidade de materiais pertinentes disponibilizados pelo professor.
+Conhecimento adquirido ao longo do Curso de Engenharia de Software, com relação a ferramentas como o GitHub.
+Trabalho colaborativo entre os membros do grupo que foi essencial para a conclusão do projeto da disciplina.
+
+## 6.4 Dificuldades
+As dificuldades do grupo ao longo do projeto foram:
+
+Dificuldade de encontrar usuários que usam ou usaram o site recentemente dispostos a participar de atividades para melhoria do projeto.
+O que mais dificultou foi o curto espaço de tempo entre entregas, dificultando a entregas de pontos de controles, apesar do planejamento, devido à grande quantidade de atividades que os membros possuíam com relação à universidade e/ou trabalho.
+A quantidade de integrantes do grupo também foi um fator que causou muitas complições, visto que o nosso grupo teve apenas 5 integrantes enquanto os demais tiverem de 6 até 8 integrantes, além disso alguns dos participantes tiveram problemas pessoais e necessidades especiais o que dificultou o desenvolvimento homogêneo do projeto para todos os integrantes. 
+
 
 ## 7. Ferramentas utilizadas
 As ferramentas utilizadas durante a execução do projeto estão listadas na *Tabela 2* abaixo:
@@ -114,6 +153,7 @@ As ferramentas utilizadas durante a execução do projeto estão listadas na *Ta
 
 Logo | Ferramenta | Descrição | Utilização | Etapa |
 |---|---|---|---|---|
+<<<<<<< HEAD
 | <img src="./img/icones/figma.svg" width="50" height="50"> | Figma | Figma é uma ferramenta de design colaborativa baseada na nuvem. Ela permite que designers e equipes trabalhem juntos em projetos de design de forma eficiente e eficaz. Com o Figma, é possível criar interfaces de usuário, protótipos interativos e colaborar em tempo real. | Utilizado para produzir os protótipos de alta fidelidade no nível 3 desenvolvimento. | Etapa 8 |
 | <img src="./img/icones/firefox.svg" width="50" height="50"> | Firefox | O Firefox é um navegador de internet gratuito e de código aberto desenvolvido pela Mozilla. Ele oferece uma experiência de navegação rápida, segura e personalizável. | Utilizado para acessar sites e as diversas ferramentas disponíveis na web. | Etapas 1 - 8 |
 | <img src="./img/icones/github.svg" width="50" height="50">| Github | O GitHub é uma plataforma de desenvolvimento colaborativo baseada em nuvem que permite que os desenvolvedores armazenem, gerenciem e colaborem em projetos de software. Ele usa o sistema de controle de versão Git, que permite rastrear alterações em arquivos ao longo do tempo.  | Armazenar os artefatos produzidos no repositório da disciplina, criar issues, commits, registrar as atividades e gerenciar o projeto. | Etapas 1 - 8 |
@@ -129,6 +169,23 @@ Logo | Ferramenta | Descrição | Utilização | Etapa |
 | <img src="./img/icones/visual-studio-code.svg" width="50" height="50"> | VSCode | O VSCode (Visual Studio Code) é um editor de código-fonte desenvolvido pela Microsoft, suporta uma ampla gama de linguagens de programação e oferece recursos avançados, como realce de sintaxe, autocompletar, depuração de código, controle de versão integrado e suporte a extensões. | Construção, desenvolvimento e aprimoramento da gitpages durante todo o projeto, auxiliando-se no framework Mkdocs para redigir arquivos em markdown. | Etapas 1 - 8 |
 | <img src="./img/icones/zapzap.png" width="50" height="50"> | Whatsapp | O WhatsApp é um aplicativo de mensagens instantâneas popular para smartphones e outros dispositivos móveis. Ele permite que os usuários enviem mensagens de texto, façam chamadas de voz e vídeo, compartilhem fotos, vídeos, documentos e localização em tempo real. | Estabelecer uma comunicação rápida e informal entre os integrantes do grupo, no intuito de discutir ideias, compartilhar arquivos e documentos úteis, combinar horários, etc. | Etapas 1 - 8 |
 | <img src="./img/icones/youtube.svg" width="50" height="50"> | Youtube | O YouTube é uma plataforma de compartilhamento de vídeos online. Ele permite que os usuários carreguem, assistam e compartilhem uma ampla variedade de vídeos em diversos temas e gêneros. | Fazer o upload dos vídeos das apresentações e também das gravações com os participantes das entrevistas (e. g. avaliação dos storyboards, avaliação do protótipo de papel, etc.) | Etapas 1 - 8 |
+=======
+| <img src="img/icones/figma.svg" width="50" height="50"> | Figma | Figma é uma ferramenta de design colaborativa baseada na nuvem. Ela permite que designers e equipes trabalhem juntos em projetos de design de forma eficiente e eficaz. Com o Figma, é possível criar interfaces de usuário, protótipos interativos e colaborar em tempo real. | Utilizado para produzir os protótipos de alta fidelidade no nível 3 desenvolvimento. | Etapa 8 |
+| <img src="img/icones/firefox.svg" width="50" height="50"> | Firefox | O Firefox é um navegador de internet gratuito e de código aberto desenvolvido pela Mozilla. Ele oferece uma experiência de navegação rápida, segura e personalizável. | Utilizado para acessar sites e as diversas ferramentas disponíveis na web. | Etapas 1 - 8 |
+| <img src="img/icones/github.svg" width="50" height="50">| Github | O GitHub é uma plataforma de desenvolvimento colaborativo baseada em nuvem que permite que os desenvolvedores armazenem, gerenciem e colaborem em projetos de software. Ele usa o sistema de controle de versão Git, que permite rastrear alterações em arquivos ao longo do tempo.  | Armazenar os artefatos produzidos no repositório da disciplina, criar issues, commits, registrar as atividades e gerenciar o projeto. | Etapas 1 - 8 |
+| <img src="img/icones/chrome.svg" width="50" height="50"> | Google Chrome | O Google Chrome é um navegador de internet rápido, seguro e fácil de usar desenvolvido pelo Google. Ele oferece uma experiência de navegação eficiente, permitindo que os usuários acessem rapidamente sites, pesquisem informações e executem aplicativos da web.  |Utilizado para acessar sites e as diversas ferramentas disponíveis na web. | Etapas 1 - 8 |
+| <img src="img/icones/docs.svg" width="50" height="50"> | Google Docs | O Google Docs é uma ferramenta de processamento de texto baseada na nuvem desenvolvida pelo Google. Ele permite que os usuários criem, editem e compartilhem documentos de texto de forma colaborativa e em tempo real. Com o Google Docs, é possível criar documentos como relatórios, artigos, currículos, etc. | Empregado para escrever os PDFs que continham o endereço do repositório e o link do vídeo da respectiva entrega. | Etapas 1 - 8 |
+| <img src="img/icones/forms.png" width="50" height="50"> | Google Forms | O Google Forms é uma ferramenta de criação de formulários online gratuita fornecida pelo Google. Ela permite que os usuários criem questionários, pesquisas e enquetes de maneira rápida e fácil.  | Empregado para criar os questionários, para coletar dados pessoas que já tinham acessado a plataforma alguma vez, para assim criar o perfil de usuário e as personas. | Etapa 2 |
+| <img src="img/icones/excel.png" width="50" height="50"> | Microsoft Excel | O Microsoft Excel é um programa de planilha eletrônica desenvolvido pela Microsoft. Ele oferece uma ampla gama de recursos para criar, organizar e analisar dados de maneira eficiente. | Criar a planilha do cronograma inicial. | Etapa 1 |
+| <img src="img/icones/microsoft-teams.svg" width="50" height="50"> | Microsoft Teams | O Microsoft Teams é uma plataforma de comunicação e colaboração baseada na nuvem desenvolvida pela Microsoft. Ela permite que equipes e grupos de trabalho se comuniquem, compartilhem arquivos e colaborem em projetos de forma eficiente.  | Realizar as reuniões semanais, gravar os vídeos das apresentações e entrevistas com os usuários durante a etapa de avaliação de storyboards, protótipos de papel, etc. | Etapas 1 - 8 |
+| <img src="img/icones/miro.png" width="50" height="50"> | Miro | Miro é uma plataforma de colaboração online que permite que equipes trabalhem de forma criativa e colaborativa, independentemente da localização geográfica. Ele é projetado para facilitar a colaboração visual, permitindo que os usuários criem e compartilhem quadros virtuais onde podem colaborar em tempo real. | Criar os diagramas HTA da análise de tarefas. | Etapa 2 |
+| <img src="img/icones/mkdocs.png" width="50" height="50"> | Mkdocs | Mkdocs é um framework open-source que converte arquivos em markdown para html, criando páginas web simples e dinâmicas - geralmente destinadas à documentação. | Utilizado para converter o conteúdo criado em markdown para arquivos estáticos (html, css, js) e assim criar o site da disciplina. | Etapas 1 - 8 |
+| <img src="img/icones/telegram.svg" width="50" height="50"> | Telegram | O Telegram é um aplicativo de mensagens instantâneas que permite aos usuários se comunicarem de forma rápida e segura. Ele oferece recursos de troca de mensagens individuais e em grupo, permitindo enviar textos, fotos, vídeos, arquivos e mensagens de voz. | Estabelecer uma comunicação rápida com o professor e os demais colegas da turma, para nos manter constatemente atualizados sobre as atividades e avisos da disciplina. | Etapas 1 - 8 |
+| <img src="img/icones/thispersondoesnotexist.png" width="50" height="50"> | This Person Doesn't Exist [12] | Este é um framework que produz imagens de pessoas fictícias (personas) | Elaborar as imagens das personas e antipersonas. | Etapa 2 |
+| <img src="img/icones/visual-studio-code.svg" width="50" height="50"> | VSCode | O VSCode (Visual Studio Code) é um editor de código-fonte desenvolvido pela Microsoft, suporta uma ampla gama de linguagens de programação e oferece recursos avançados, como realce de sintaxe, autocompletar, depuração de código, controle de versão integrado e suporte a extensões. | Construção, desenvolvimento e aprimoramento da gitpages durante todo o projeto, auxiliando-se no framework Mkdocs para redigir arquivos em markdown. | Etapas 1 - 8 |
+| <img src="img/icones/zapzap.png" width="50" height="50"> | Whatsapp | O WhatsApp é um aplicativo de mensagens instantâneas popular para smartphones e outros dispositivos móveis. Ele permite que os usuários enviem mensagens de texto, façam chamadas de voz e vídeo, compartilhem fotos, vídeos, documentos e localização em tempo real. | Estabelecer uma comunicação rápida e informal entre os integrantes do grupo, no intuito de discutir ideias, compartilhar arquivos e documentos úteis, combinar horários, etc. | Etapas 1 - 8 |
+| <img src="img/icones/youtube.svg" width="50" height="50"> | Youtube | O YouTube é uma plataforma de compartilhamento de vídeos online. Ele permite que os usuários carreguem, assistam e compartilhem uma ampla variedade de vídeos em diversos temas e gêneros. | Fazer o upload dos vídeos das apresentações e também das gravações com os participantes das entrevistas (e. g. avaliação dos storyboards, avaliação do protótipo de papel, etc.) | Etapas 1 - 8 |
+>>>>>>> 0105883f28f5aac4aeb4737945031864b5e0bb1b
 
 **Tabela 2:** Ferramentas utilizadas no projeto (Fonte: MARTINS, Bruno; 2023).
 
@@ -276,7 +333,7 @@ Abaixo, na *Tabela 4.8*, é possível visualizar os artefatos criados na **Etapa
 
 | Artefato | Autor (es) | Revisor (es) |
 | --- | --- | --- |
-| [Protótipo Alta Fidelidade Desenvolvidos](./design_avaliacao_desenvolvimento/nivel3/prototipo_de_alta_fidelidade.md)| Danilo Carvalho e Arthur Augusto | Gabriel Souza e Bruno Martins
+| [Protótipo Alta Fidelidade Desenvolvidos](./design_avaliacao_desenvolvimento/nivel3/prototipo_de_alta_fidelidade.md)| Danilo Carvalho e Gabriel Souza | Arthur Augusto e Bruno Martins
 | [Relato dos resultados da Avaliação do Protótipo de Alta Fidelidade](./design_avaliacao_desenvolvimento/nivel3/relato_alta_fidelidade.md)| Gabriel Souza e Danilo Carvalho | Gabriel Souza e Danilo Carvalho
 
 **Tabela 4.8:** Artefatos entregues da Etapa 8 (Fonte: BARRETO, João; 2023).
@@ -352,6 +409,14 @@ Etapa | Data da Gravação | Link do vídeo | Participantes | Upload do vídeo |
 
 **Tabela 7:** Etapas e integrantes (Fonte: MARTINS, Bruno; 2023).
 
+## 13. Considerações finais
+
+### Agradecimento:
+Agradecimento ao professor, André Barros pelas aulas, extremamente didáticas e por sua disponibilidade para ajudar os alunos a entender melhor o conteúdo ministrado.
+Agradecimento ao monitor Marcos pelas avaliações das entregas feitas pelo grupo e disponibilidade para ajuda com dúvidas.
+Agradecimento aos membros do Grupo 05 que se esforçaram ao máximo para o desenvolviemento do projeto.
+Agradecimento aos colegas de sala que foram respeitosos com todas as apresentações realizadas.
+
 </center>
 
 ## Histórico de versão
@@ -360,6 +425,7 @@ Etapa | Data da Gravação | Link do vídeo | Participantes | Upload do vídeo |
 |  `1.0`   | 04/06/2023 | Criação inicial da página: adicionando os tópicos 1 e 3 | [João Barreto](https://github.com/JoaoBarreto03) | [Bruno Martins](https://github.com/gitbmvb) |
 |  `1.1`   | 05/06/2023 | Reestruturando a página nos tópicos corretos | [Bruno Martins](https://github.com/gitbmvb) | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
 |  `1.2`   | 05/06/2023 | Adicionando os tópicos 2, 8, 9, 10, 11, 12 | [Bruno Martins](https://github.com/gitbmvb) | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
+|  `1.3`   | 05/06/2023 | Adicionando os tópicos 6 e 13 |  [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |  [João Barreto](https://github.com/JoaoBarreto03) |
 
 
 
