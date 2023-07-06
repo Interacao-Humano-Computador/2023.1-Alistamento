@@ -303,7 +303,7 @@ Abaixo, na *Tabela 4.8*, é possível visualizar os artefatos criados na **Etapa
 
 | Artefato | Autor (es) | Revisor (es) |
 | --- | --- | --- |
-| [Protótipo Alta Fidelidade Desenvolvidos](./design_avaliacao_desenvolvimento/nivel3/prototipo_de_alta_fidelidade.md)| Danilo Carvalho e Arthur Augusto | Gabriel Souza e Bruno Martins
+| [Protótipo Alta Fidelidade Desenvolvidos](./design_avaliacao_desenvolvimento/nivel3/prototipo_de_alta_fidelidade.md)| Danilo Carvalho e Gabriel Souza | Arthur Augusto e Bruno Martins
 | [Relato dos resultados da Avaliação do Protótipo de Alta Fidelidade](./design_avaliacao_desenvolvimento/nivel3/relato_alta_fidelidade.md)| Gabriel Souza e Danilo Carvalho | Gabriel Souza e Danilo Carvalho
 
 **Tabela 4.8:** Artefatos entregues da Etapa 8 (Fonte: BARRETO, João; 2023).
@@ -395,6 +395,7 @@ Agradecimento aos colegas de sala que foram respeitosos com todas as apresentaç
 |  `1.0`   | 04/06/2023 | Criação inicial da página: adicionando os tópicos 1 e 3 | [João Barreto](https://github.com/JoaoBarreto03) | [Bruno Martins](https://github.com/gitbmvb) |
 |  `1.1`   | 05/06/2023 | Reestruturando a página nos tópicos corretos | [Bruno Martins](https://github.com/gitbmvb) | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
 |  `1.2`   | 05/06/2023 | Adicionando os tópicos 2, 8, 9, 10, 11, 12 | [Bruno Martins](https://github.com/gitbmvb) | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
+|  `1.3`   | 05/06/2023 | Adicionando os tópicos 6 e 13 |  [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |  [João Barreto](https://github.com/JoaoBarreto03) |
 
 
 
