@@ -240,10 +240,7 @@ Etapa | Data da Gravação | Link do vídeo | Participantes | Upload do vídeo |
 
 
 
-
-
-<!-- SUBSTITUIR -->
-
+<!-- 
 
 
 
@@ -357,4 +354,4 @@ O terceiro nível do processo de design, avaliação e desenvolvimento foi docum
 
 *Tabela 7:** Tabela da análise de requisitos (Fonte: Antunes, Danilo; 2023).
 
-
+ -->
