@@ -22,7 +22,19 @@ Durante a fase de Análise de Requisitos do Ciclo de Vida de Mayhew (será expli
 - a
 
 ## 3. Ciclo de vida
-<!-- 2. O ciclo de vida utilizado no projeto (justificativa: o motivo da escolha); -->
+
+O grupo decidiu utilizar a engenharia de usabilidade de Mayhew para o desenvolvimento do projeto, já que é um processo bem detalhado, organizado, completo, ideal para iniciantes e com baixa flexibilidade, ou seja, não teríamos o risco de nos perder durante o processo de design. Além disso focamos nas duas primeiras fases do processo, visto que a terceira fase (Instalação) foge do escopo da disciplina de Interação Humano-Computador.
+
+A Figura 1 mostra um diagrama do ciclo de vida.
+
+![Engenharia de Usabilidade de Mayhew](./img/planejamento/diagrama_mayhew.jpg)
+<div style="text-align: center">
+<p> Figura 1: Diagrama da engenharia de usabilidade de Mayhew. (Fonte: BARBOSA e SILVA; 2011).</p>
+</div>
+
+- **Análise de Requisitos**: Com base principalmente no perfil do usuário e na análise de tarefas, nesta fase serão definidas as metas de usabilidades, que são fatores de qualidade que devem ser priorizados no projeto. O guia de estilo define as principais decisões de design a serem tomadas para que as metas de usabilidade possam ser atingidas, além disso o guia de estilo facilita na verificação das metas de usabilidade em outras fases do processo.
+
+- **Design, Avaliação e Desenvolvimento**: Nessa fase é construida uma solução de IHC que atenda às metas de usabilidade. Projetamos essa solução do menor nível de detalhe (modelo conceitual), até um nível de maior detalhe (protótipo de alta fidelidade). Em cada nível de detalhe temos uma rotina de projetar, desenvolver, e avaliar um modelo ou protótipo, só avançamos de nível quando o projeto for bem avaliado e seguir o guia de estilo.
 
 ## 4. Planejamento dos recursos e das entregas
 Durante a primeira iteração do projeto, foi definido e prescrito no cronograma do planejamento os artefatos e/ou atividades que cada integrante estaria incumbido de produzir, em sua respectivas datas de produção e revisão. No entanto, devido a diversos fatores, como grande quantidade de matérias e trabalhos para todos, bem como a ausência de alguns participantes em vários momentos, ocasionou-se um atraso na entrega da grande maioria dos artefatos.

@@ -53,7 +53,7 @@ A Figura 1 representa um diagrama que mostra as atividades desse processo de des
 
 ## Conclusão
 
-O grupo decidiu utilizar a engenharia de usabilidade de Mayhew para o desenvolvimento desse projeto, visto que é um processo bem detalhado, organizado, completo, ideal para iniciantes e com baixa flexibilidade, ou seja, não iremos correr o risco de nos perder durante o processo de design.
+O grupo decidiu utilizar a engenharia de usabilidade de Mayhew para o desenvolvimento desse projeto, visto que é um processo bem detalhado, organizado, completo, ideal para iniciantes e com baixa flexibilidade, ou seja, não iremos correr o risco de nos perder durante o processo de design. Vale lembrar que iremos ignorar a terceira fase do processo, já que foge do escopo da disciplina de IHC.
 
 ## Referências 
 >BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
