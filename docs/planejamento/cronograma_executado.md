@@ -168,6 +168,20 @@ Abaixo, na *Tabela 8*, pode ser observado o cronograma esperado da Etapa 8, na q
 
 </center>
 
+### 2.10. Entrega Final
+Abaixo, na *Tabela 10*, pode ser observado o cronograma esperado da Entrega Final, na qual, cada atividade conta com uma breve descrição, o período de entrega (com datas de início e fim), os autores, o período de revisão (com datas de início e fim )e os revisores.
+
+| Atividade | Período de Entrega *(Início - Fim)* | Autores | Período de Revisão *(Início - Fim)* | Revisores |
+|---|---|---|---|---|
+| Verificação dos artefatos das Entregas 07 e 08: correção de bugs e melhorias | 27/06 - 01/07 | Bruno e Gabriel | 02/07 - 03/07 | João |
+| Apresentação: gravação, upload do vídeo, envio do link do vídeo no Aprender3 | 03/07 - 04/07 | Arthur Augusto, Bruno, Danilo, João | 04/07 - 05/07 | Arthur Augusto, Danilo e João |
+
+<center>
+
+**Tabela 10**: Organização da Entrega Final (**Fonte:** MARTINS, Bruno; BARRETO, João; 2023).
+
+</center>
+
 ## Bibliografia
 [1] **SALES, André Barros de**. Plano de ensino da disciplina. Disponível [aqui](../plano.pdf). Acesso em: 06 de junho de 2023.
 
