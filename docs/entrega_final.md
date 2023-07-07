@@ -95,6 +95,14 @@ No sentido de realizar a comparação entre o que foi planejado e o que foi exec
 | Registro dos resultados na gitpages | 21/06 à 26/06 | 26/06 |  Gabriel Marques | Gabriel Marques |Danilo Carvalho |Danilo Carvalho
 | Refatoração parcial dos artefatos das etapas 1 e 2 | 21/06 à 26/06 | 26/06 | Bruno Martins e João Barreto | Bruno Martins e João Barreto | Bruno Martins e João Barreto | Bruno Martins e João Barreto 
 | Apresentação: gravação, upload do vídeo, envio do link do vídeo no Aprender3 | 26/06 |  26/06 |Arthur Augusto, Danilo Carvalho, Gabriel Marques, João Barreto |Arthur Augusto, Danilo Carvalho, Gabriel Marques, João Barreto | Bruno Martins | Bruno Martins
+| Verificação dos artefatos das Entregas 07 e 08: correção de bugs e melhorias | 27/06 à 03/07 | 03/07 | Bruno e Gabriel | Bruno | João | João
+| Apresentação: gravação, upload do vídeo, envio do link do vídeo no Aprender3 | 03/07 à 05/07 | 05/07 | Arthur Augusto, Bruno, Danilo, Gabriel, João | Arthur Augusto, Bruno, Danilo, João | Arthur Augusto e Danilo | Arthur Augusto e Danilo |
+
+<center>
+
+**Tabela 10**: Organização da Entrega Final (**Fonte:** MARTINS, Bruno; BARRETO, João; 2023).
+
+</center>
 
 
 **Tabela 1**: Comparação entre os cronogramas executado e planejado. (**Fonte:** BARRETO, João; 2023).
@@ -422,10 +430,10 @@ Agradecimento aos colegas de sala que foram respeitosos com todas as apresentaç
 ## Histórico de versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-|  `1.0`   | 04/06/2023 | Criação inicial da página: adicionando os tópicos 1 e 3 | [João Barreto](https://github.com/JoaoBarreto03) | [Bruno Martins](https://github.com/gitbmvb) |
-|  `1.1`   | 05/06/2023 | Reestruturando a página nos tópicos corretos | [Bruno Martins](https://github.com/gitbmvb) | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
-|  `1.2`   | 05/06/2023 | Adicionando os tópicos 2, 8, 9, 10, 11, 12 | [Bruno Martins](https://github.com/gitbmvb) | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
-|  `1.3`   | 05/06/2023 | Adicionando os tópicos 6 e 13 |  [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |  [João Barreto](https://github.com/JoaoBarreto03) |
+|  `1.0`   | 04/07/2023 | Criação inicial da página: adicionando os tópicos 1 e 3 | [João Barreto](https://github.com/JoaoBarreto03) | [Bruno Martins](https://github.com/gitbmvb) |
+|  `1.1`   | 05/07/2023 | Reestruturando a página nos tópicos corretos | [Bruno Martins](https://github.com/gitbmvb) | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
+|  `1.2`   | 05/07/2023 | Adicionando os tópicos 2, 8, 9, 10, 11, 12 | [Bruno Martins](https://github.com/gitbmvb) | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
+|  `1.3`   | 05/07/2023 | Adicionando os tópicos 6 e 13 |  [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |  [João Barreto](https://github.com/JoaoBarreto03) |  `1.4`   | 07/07/2023 | Adicionando o cronograma da entrega final | [João Barreto](https://github.com/JoaoBarreto03) | [Bruno Martins](https://github.com/gitbmvb)
 
 
 
